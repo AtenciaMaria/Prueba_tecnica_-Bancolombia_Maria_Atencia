@@ -1,5 +1,7 @@
 # Prueba Técnica: Practicante de Analítica, Gerencia Canales de Cobranza
 
+**Maria Fernanda Atencia Oliva, Ingeniería de Sistemas**
+
 Auditoría de la gestión de proveedores externos de cobranza (Deskonecta, Telepromesa y A-ETXA), medición de sus indicadores operativos y liquidación de comisiones sobre el recaudo atribuible a su gestión.
 
 ---
