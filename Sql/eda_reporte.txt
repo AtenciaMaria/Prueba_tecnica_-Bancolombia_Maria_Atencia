@@ -1,0 +1,60 @@
+
+======================================================================
+asignacion_cartera: estructura
+======================================================================
+Filas: 1,200 | Columnas: 6
+id_obligacion         str
+id_cliente            str
+proveedor             str
+saldo_asignado    float64
+dias_mora           int64
+recaudo_mes       float64
+
+Nulos por columna:
+id_obligacion     0
+id_cliente        0
+proveedor         0
+saldo_asignado    0
+dias_mora         0
+recaudo_mes       0
+
+Filas totalmente duplicadas: 0
+
+Muestra:
+id_obligacion id_cliente   proveedor  saldo_asignado  dias_mora   recaudo_mes
+    OBL_00001   CLI_0001      A-ETXA   32,399,992.94        130          0.00
+    OBL_00002   CLI_0002      A-ETXA    8,382,011.73         49  2,869,564.63
+    OBL_00003   CLI_0003  Deskonecta    3,206,157.56         15    420,334.47
+    OBL_00004   CLI_0004      A-ETXA   27,690,706.73         16 10,437,132.51
+    OBL_00005   CLI_0005 Telepromesa   16,795,880.94         14  5,514,041.21
+
+======================================================================
+gestiones_proveedor: estructura
+======================================================================
+Filas: 2,348 | Columnas: 7
+id_gestion             str
+id_obligacion          str
+proveedor              str
+fecha_gestion          str
+canal                  str
+contacto_efectivo    int64
+resultado              str
+
+Nulos por columna:
+id_gestion           0
+id_obligacion        0
+proveedor            0
+fecha_gestion        0
+canal                0
+contacto_efectivo    0
+resultado            0
+
+Filas totalmente duplicadas: 0
+
+Muestra:
+id_gestion id_obligacion proveedor fecha_gestion   canal  contacto_efectivo         resultado
+GES_000001     OBL_00001    A-ETXA    2026-09-03 Llamada                  0 Número equivocado
+GES_000002     OBL_00001    A-ETXA    2026-09-20     SMS                  0 Buzón de mensajes
+GES_000003     OBL_00002    A-ETXA    2026-09-04 Llamada                  0 Buzón de mensajes
+GES_000004     OBL_00002    A-ETXA    2026-09-10 Llamada                  0       Ilocalizado
+GES_000005     OBL_00002    A-ETXA    2026-09-12 Llamada                  0 Buzón de mensajes

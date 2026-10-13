@@ -1,0 +1,2349 @@
+id_gestion,id_obligacion,proveedor,fecha_gestion,canal,contacto_efectivo,resultado
+GES_000001,OBL_00001,A-ETXA,2026-09-03,Llamada,0,Número equivocado
+GES_000002,OBL_00001,A-ETXA,2026-09-20,SMS,0,Buzón de mensajes
+GES_000003,OBL_00002,A-ETXA,2026-09-04,Llamada,0,Buzón de mensajes
+GES_000004,OBL_00002,A-ETXA,2026-09-10,Llamada,0,Ilocalizado
+GES_000005,OBL_00002,A-ETXA,2026-09-12,Llamada,0,Buzón de mensajes
+GES_000006,OBL_00002,A-ETXA,2026-09-15,Llamada,0,Ilocalizado
+GES_000007,OBL_00003,Deskonecta,2026-09-24,Llamada,1,Negativa
+GES_000008,OBL_00005,Telepromesa,2026-09-05,Llamada,1,Titular no disponible
+GES_000009,OBL_00005,Telepromesa,2026-09-15,Llamada,1,Titular no disponible
+GES_000010,OBL_00007,Deskonecta,2026-09-15,WhatsApp,1,Negativa
+GES_000011,OBL_00008,Deskonecta,2026-09-04,Llamada,0,Número equivocado
+GES_000012,OBL_00011,Telepromesa,2026-09-11,Llamada,0,Número equivocado
+GES_000013,OBL_00012,A-ETXA,2026-09-08,Llamada,0,Ilocalizado
+GES_000014,OBL_00012,A-ETXA,2026-09-16,Llamada,0,Número equivocado
+GES_000015,OBL_00012,A-ETXA,2026-09-18,Llamada,0,Ilocalizado
+GES_000016,OBL_00013,Deskonecta,2026-09-08,WhatsApp,1,Promesa de pago
+GES_000017,OBL_00014,A-ETXA,2026-09-02,WhatsApp,0,Ilocalizado
+GES_000018,OBL_00014,A-ETXA,2026-09-07,Llamada,0,Ilocalizado
+GES_000019,OBL_00014,A-ETXA,2026-09-16,SMS,0,Ilocalizado
+GES_000020,OBL_00014,A-ETXA,2026-09-20,Llamada,0,Número equivocado
+GES_000021,OBL_00015,A-ETXA,2026-09-13,Llamada,0,Buzón de mensajes
+GES_000022,OBL_00015,A-ETXA,2026-09-21,WhatsApp,1,Promesa de pago
+GES_000023,OBL_00016,Deskonecta,2026-09-09,Llamada,0,Buzón de mensajes
+GES_000024,OBL_00016,Deskonecta,2026-09-10,Llamada,1,Promesa de pago
+GES_000025,OBL_00016,Deskonecta,2026-09-20,Llamada,1,Negativa
+GES_000026,OBL_00016,Deskonecta,2026-09-22,WhatsApp,1,Titular no disponible
+GES_000027,OBL_00017,Deskonecta,2026-09-08,Llamada,1,Titular no disponible
+GES_000028,OBL_00017,Deskonecta,2026-09-11,WhatsApp,1,Promesa de pago
+GES_000029,OBL_00017,Deskonecta,2026-09-24,Llamada,1,Negativa
+GES_000030,OBL_00018,A-ETXA,2026-09-02,Llamada,0,Buzón de mensajes
+GES_000031,OBL_00018,A-ETXA,2026-09-10,SMS,0,Buzón de mensajes
+GES_000032,OBL_00018,A-ETXA,2026-09-25,Llamada,0,Número equivocado
+GES_000033,OBL_00018,A-ETXA,2026-09-28,WhatsApp,0,Número equivocado
+GES_000034,OBL_00020,Telepromesa,2026-09-29,Llamada,0,Buzón de mensajes
+GES_000035,OBL_00021,Deskonecta,2026-09-16,Llamada,0,Número equivocado
+GES_000036,OBL_00021,Deskonecta,2026-09-25,Llamada,0,Buzón de mensajes
+GES_000037,OBL_00023,Telepromesa,2026-09-05,WhatsApp,0,Número equivocado
+GES_000038,OBL_00024,Telepromesa,2026-09-08,Llamada,1,Promesa de pago
+GES_000039,OBL_00025,Deskonecta,2026-09-23,Llamada,0,Buzón de mensajes
+GES_000040,OBL_00025,Deskonecta,2026-09-27,Llamada,0,Número equivocado
+GES_000041,OBL_00025,Deskonecta,2026-09-28,SMS,0,Buzón de mensajes
+GES_000042,OBL_00026,A-ETXA,2026-09-21,WhatsApp,1,Negativa
+GES_000043,OBL_00027,A-ETXA,2026-09-10,WhatsApp,1,Promesa de pago
+GES_000044,OBL_00027,A-ETXA,2026-09-20,Llamada,0,Buzón de mensajes
+GES_000045,OBL_00027,A-ETXA,2026-09-26,Llamada,1,Negativa
+GES_000046,OBL_00029,Deskonecta,2026-09-06,SMS,0,Buzón de mensajes
+GES_000047,OBL_00029,Deskonecta,2026-09-09,WhatsApp,1,Negativa
+GES_000048,OBL_00029,Deskonecta,2026-09-24,SMS,1,Promesa de pago
+GES_000049,OBL_00030,Telepromesa,2026-09-04,WhatsApp,0,Ilocalizado
+GES_000050,OBL_00030,Telepromesa,2026-09-29,SMS,0,Buzón de mensajes
+GES_000051,OBL_00031,Deskonecta,2026-09-04,Llamada,1,Negativa
+GES_000052,OBL_00031,Deskonecta,2026-09-08,SMS,0,Número equivocado
+GES_000053,OBL_00031,Deskonecta,2026-09-11,SMS,1,Promesa de pago
+GES_000054,OBL_00032,Deskonecta,2026-09-08,SMS,0,Ilocalizado
+GES_000055,OBL_00032,Deskonecta,2026-09-10,WhatsApp,0,Número equivocado
+GES_000056,OBL_00032,Deskonecta,2026-09-22,Llamada,0,Buzón de mensajes
+GES_000057,OBL_00032,Deskonecta,2026-09-28,WhatsApp,1,Titular no disponible
+GES_000058,OBL_00034,Telepromesa,2026-09-29,Llamada,1,Promesa de pago
+GES_000059,OBL_00035,Telepromesa,2026-09-04,WhatsApp,0,Buzón de mensajes
+GES_000060,OBL_00035,Telepromesa,2026-09-16,Llamada,0,Buzón de mensajes
+GES_000061,OBL_00037,A-ETXA,2026-09-04,Llamada,0,Buzón de mensajes
+GES_000062,OBL_00037,A-ETXA,2026-09-15,Llamada,0,Buzón de mensajes
+GES_000063,OBL_00037,A-ETXA,2026-09-20,WhatsApp,0,Número equivocado
+GES_000064,OBL_00037,A-ETXA,2026-09-27,Llamada,0,Buzón de mensajes
+GES_000065,OBL_00040,A-ETXA,2026-09-02,Llamada,0,Buzón de mensajes
+GES_000066,OBL_00040,A-ETXA,2026-09-17,Llamada,1,Negativa
+GES_000067,OBL_00040,A-ETXA,2026-09-24,Llamada,1,Promesa de pago
+GES_000068,OBL_00041,A-ETXA,2026-09-08,Llamada,0,Buzón de mensajes
+GES_000069,OBL_00042,Deskonecta,2026-09-17,Llamada,1,Titular no disponible
+GES_000070,OBL_00044,Deskonecta,2026-09-03,Llamada,0,Ilocalizado
+GES_000071,OBL_00044,Deskonecta,2026-09-15,Llamada,0,Buzón de mensajes
+GES_000072,OBL_00045,Deskonecta,2026-09-12,Llamada,0,Número equivocado
+GES_000073,OBL_00046,Deskonecta,2026-09-29,Llamada,1,Promesa de pago
+GES_000074,OBL_00047,A-ETXA,2026-09-15,Llamada,0,Número equivocado
+GES_000075,OBL_00047,A-ETXA,2026-09-19,WhatsApp,0,Buzón de mensajes
+GES_000076,OBL_00048,Deskonecta,2026-09-07,WhatsApp,0,Buzón de mensajes
+GES_000077,OBL_00048,Deskonecta,2026-09-08,Llamada,0,Buzón de mensajes
+GES_000078,OBL_00048,Deskonecta,2026-09-17,Llamada,0,Buzón de mensajes
+GES_000079,OBL_00048,Deskonecta,2026-09-19,Llamada,0,Ilocalizado
+GES_000080,OBL_00049,Telepromesa,2026-09-03,SMS,0,Número equivocado
+GES_000081,OBL_00051,Deskonecta,2026-09-07,SMS,0,Número equivocado
+GES_000082,OBL_00051,Deskonecta,2026-09-10,WhatsApp,0,Ilocalizado
+GES_000083,OBL_00051,Deskonecta,2026-09-25,Llamada,1,Titular no disponible
+GES_000084,OBL_00052,A-ETXA,2026-09-21,Llamada,1,Titular no disponible
+GES_000085,OBL_00053,Telepromesa,2026-09-02,Llamada,1,Titular no disponible
+GES_000086,OBL_00055,Deskonecta,2026-09-08,Llamada,0,Ilocalizado
+GES_000087,OBL_00055,Deskonecta,2026-09-27,Llamada,1,Promesa de pago
+GES_000088,OBL_00056,Deskonecta,2026-09-17,SMS,0,Buzón de mensajes
+GES_000089,OBL_00056,Deskonecta,2026-09-17,Llamada,1,Titular no disponible
+GES_000090,OBL_00057,Deskonecta,2026-09-05,Llamada,0,Número equivocado
+GES_000091,OBL_00057,Deskonecta,2026-09-05,WhatsApp,0,Ilocalizado
+GES_000092,OBL_00057,Deskonecta,2026-09-25,Llamada,0,Buzón de mensajes
+GES_000093,OBL_00058,Telepromesa,2026-09-10,SMS,0,Ilocalizado
+GES_000094,OBL_00058,Telepromesa,2026-09-13,Llamada,1,Promesa de pago
+GES_000095,OBL_00058,Telepromesa,2026-09-15,Llamada,0,Número equivocado
+GES_000096,OBL_00058,Telepromesa,2026-09-28,Llamada,1,Titular no disponible
+GES_000097,OBL_00059,Telepromesa,2026-09-12,SMS,0,Ilocalizado
+GES_000098,OBL_00059,Telepromesa,2026-09-22,Llamada,0,Ilocalizado
+GES_000099,OBL_00060,Telepromesa,2026-09-08,Llamada,0,Número equivocado
+GES_000100,OBL_00060,Telepromesa,2026-09-17,Llamada,0,Número equivocado
+GES_000101,OBL_00060,Telepromesa,2026-09-23,Llamada,0,Ilocalizado
+GES_000102,OBL_00060,Telepromesa,2026-09-28,WhatsApp,0,Número equivocado
+GES_000103,OBL_00061,Deskonecta,2026-09-15,Llamada,0,Ilocalizado
+GES_000104,OBL_00061,Deskonecta,2026-09-28,Llamada,1,Titular no disponible
+GES_000105,OBL_00063,Deskonecta,2026-09-15,Llamada,0,Ilocalizado
+GES_000106,OBL_00065,Telepromesa,2026-09-14,SMS,1,Promesa de pago
+GES_000107,OBL_00065,Telepromesa,2026-09-23,Llamada,0,Buzón de mensajes
+GES_000108,OBL_00065,Telepromesa,2026-09-25,Llamada,1,Promesa de pago
+GES_000109,OBL_00065,Telepromesa,2026-09-28,SMS,1,Negativa
+GES_000110,OBL_00068,Deskonecta,2026-09-20,Llamada,0,Ilocalizado
+GES_000111,OBL_00069,A-ETXA,2026-09-03,WhatsApp,0,Ilocalizado
+GES_000112,OBL_00070,Deskonecta,2026-09-06,WhatsApp,0,Buzón de mensajes
+GES_000113,OBL_00070,Deskonecta,2026-09-08,SMS,0,Número equivocado
+GES_000114,OBL_00070,Deskonecta,2026-09-17,Llamada,0,Número equivocado
+GES_000115,OBL_00070,Deskonecta,2026-09-20,SMS,0,Buzón de mensajes
+GES_000116,OBL_00071,Deskonecta,2026-09-17,WhatsApp,0,Número equivocado
+GES_000117,OBL_00072,Telepromesa,2026-09-16,Llamada,0,Ilocalizado
+GES_000118,OBL_00072,Telepromesa,2026-09-16,Llamada,0,Buzón de mensajes
+GES_000119,OBL_00073,Deskonecta,2026-09-16,WhatsApp,0,Ilocalizado
+GES_000120,OBL_00073,Deskonecta,2026-09-20,Llamada,0,Número equivocado
+GES_000121,OBL_00073,Deskonecta,2026-09-20,Llamada,1,Titular no disponible
+GES_000122,OBL_00073,Deskonecta,2026-09-28,WhatsApp,1,Promesa de pago
+GES_000123,OBL_00074,Deskonecta,2026-09-10,WhatsApp,0,Buzón de mensajes
+GES_000124,OBL_00076,Deskonecta,2026-09-03,Llamada,0,Número equivocado
+GES_000125,OBL_00076,Deskonecta,2026-09-13,Llamada,0,Buzón de mensajes
+GES_000126,OBL_00076,Deskonecta,2026-09-16,SMS,0,Número equivocado
+GES_000127,OBL_00077,A-ETXA,2026-09-06,Llamada,0,Buzón de mensajes
+GES_000128,OBL_00078,Telepromesa,2026-09-25,SMS,0,Número equivocado
+GES_000129,OBL_00079,Telepromesa,2026-09-02,WhatsApp,0,Número equivocado
+GES_000130,OBL_00079,Telepromesa,2026-09-06,Llamada,0,Buzón de mensajes
+GES_000131,OBL_00079,Telepromesa,2026-09-16,Llamada,0,Número equivocado
+GES_000132,OBL_00080,Deskonecta,2026-09-03,SMS,0,Ilocalizado
+GES_000133,OBL_00080,Deskonecta,2026-09-07,Llamada,0,Buzón de mensajes
+GES_000134,OBL_00080,Deskonecta,2026-09-15,Llamada,0,Ilocalizado
+GES_000135,OBL_00081,Deskonecta,2026-09-03,Llamada,0,Ilocalizado
+GES_000136,OBL_00081,Deskonecta,2026-09-07,Llamada,1,Titular no disponible
+GES_000137,OBL_00081,Deskonecta,2026-09-22,Llamada,0,Número equivocado
+GES_000138,OBL_00081,Deskonecta,2026-09-22,WhatsApp,1,Negativa
+GES_000139,OBL_00082,Telepromesa,2026-09-29,WhatsApp,1,Negativa
+GES_000140,OBL_00083,A-ETXA,2026-09-03,WhatsApp,0,Número equivocado
+GES_000141,OBL_00084,Telepromesa,2026-09-14,Llamada,0,Número equivocado
+GES_000142,OBL_00085,A-ETXA,2026-09-08,Llamada,1,Promesa de pago
+GES_000143,OBL_00085,A-ETXA,2026-09-15,WhatsApp,0,Buzón de mensajes
+GES_000144,OBL_00085,A-ETXA,2026-09-18,Llamada,1,Negativa
+GES_000145,OBL_00085,A-ETXA,2026-09-26,SMS,1,Negativa
+GES_000146,OBL_00086,Deskonecta,2026-09-18,Llamada,0,Número equivocado
+GES_000147,OBL_00086,Deskonecta,2026-09-25,WhatsApp,0,Ilocalizado
+GES_000148,OBL_00087,A-ETXA,2026-09-04,Llamada,0,Buzón de mensajes
+GES_000149,OBL_00087,A-ETXA,2026-09-08,Llamada,0,Número equivocado
+GES_000150,OBL_00087,A-ETXA,2026-09-14,Llamada,0,Ilocalizado
+GES_000151,OBL_00087,A-ETXA,2026-09-27,Llamada,0,Buzón de mensajes
+GES_000152,OBL_00089,A-ETXA,2026-09-08,WhatsApp,0,Número equivocado
+GES_000153,OBL_00089,A-ETXA,2026-09-11,Llamada,0,Buzón de mensajes
+GES_000154,OBL_00089,A-ETXA,2026-09-15,Llamada,0,Buzón de mensajes
+GES_000155,OBL_00089,A-ETXA,2026-09-21,Llamada,1,Titular no disponible
+GES_000156,OBL_00091,Telepromesa,2026-09-26,WhatsApp,1,Negativa
+GES_000157,OBL_00092,Deskonecta,2026-09-14,WhatsApp,1,Negativa
+GES_000158,OBL_00093,Deskonecta,2026-09-19,WhatsApp,1,Titular no disponible
+GES_000159,OBL_00094,A-ETXA,2026-09-03,SMS,0,Buzón de mensajes
+GES_000160,OBL_00094,A-ETXA,2026-09-10,Llamada,0,Buzón de mensajes
+GES_000161,OBL_00094,A-ETXA,2026-09-12,Llamada,0,Número equivocado
+GES_000162,OBL_00094,A-ETXA,2026-09-25,Llamada,0,Buzón de mensajes
+GES_000163,OBL_00095,A-ETXA,2026-09-11,Llamada,1,Promesa de pago
+GES_000164,OBL_00095,A-ETXA,2026-09-28,Llamada,1,Promesa de pago
+GES_000165,OBL_00096,A-ETXA,2026-09-07,Llamada,1,Promesa de pago
+GES_000166,OBL_00096,A-ETXA,2026-09-08,Llamada,1,Titular no disponible
+GES_000167,OBL_00096,A-ETXA,2026-09-27,WhatsApp,1,Promesa de pago
+GES_000168,OBL_00097,Deskonecta,2026-09-07,Llamada,1,Promesa de pago
+GES_000169,OBL_00097,Deskonecta,2026-09-11,Llamada,1,Negativa
+GES_000170,OBL_00097,Deskonecta,2026-09-14,Llamada,0,Número equivocado
+GES_000171,OBL_00097,Deskonecta,2026-09-22,Llamada,1,Titular no disponible
+GES_000172,OBL_00098,Telepromesa,2026-09-15,WhatsApp,0,Buzón de mensajes
+GES_000173,OBL_00098,Telepromesa,2026-09-27,Llamada,0,Buzón de mensajes
+GES_000174,OBL_00099,Deskonecta,2026-09-06,SMS,0,Ilocalizado
+GES_000175,OBL_00099,Deskonecta,2026-09-27,Llamada,0,Ilocalizado
+GES_000176,OBL_00099,Deskonecta,2026-09-28,Llamada,0,Número equivocado
+GES_000177,OBL_00100,Telepromesa,2026-09-09,Llamada,0,Ilocalizado
+GES_000178,OBL_00100,Telepromesa,2026-09-09,SMS,0,Buzón de mensajes
+GES_000179,OBL_00100,Telepromesa,2026-09-20,Llamada,1,Negativa
+GES_000180,OBL_00100,Telepromesa,2026-09-29,SMS,1,Titular no disponible
+GES_000181,OBL_00101,Deskonecta,2026-09-03,WhatsApp,1,Negativa
+GES_000182,OBL_00101,Deskonecta,2026-09-07,WhatsApp,0,Número equivocado
+GES_000183,OBL_00101,Deskonecta,2026-09-29,Llamada,1,Promesa de pago
+GES_000184,OBL_00103,Telepromesa,2026-09-08,SMS,0,Número equivocado
+GES_000185,OBL_00103,Telepromesa,2026-09-11,Llamada,0,Número equivocado
+GES_000186,OBL_00103,Telepromesa,2026-09-27,Llamada,0,Buzón de mensajes
+GES_000187,OBL_00104,Telepromesa,2026-09-02,WhatsApp,0,Buzón de mensajes
+GES_000188,OBL_00104,Telepromesa,2026-09-06,WhatsApp,1,Promesa de pago
+GES_000189,OBL_00104,Telepromesa,2026-09-13,WhatsApp,1,Negativa
+GES_000190,OBL_00105,Deskonecta,2026-09-04,Llamada,1,Promesa de pago
+GES_000191,OBL_00106,A-ETXA,2026-09-05,Llamada,0,Ilocalizado
+GES_000192,OBL_00106,A-ETXA,2026-09-13,Llamada,0,Ilocalizado
+GES_000193,OBL_00106,A-ETXA,2026-09-13,Llamada,0,Ilocalizado
+GES_000194,OBL_00106,A-ETXA,2026-09-27,Llamada,0,Número equivocado
+GES_000195,OBL_00107,Telepromesa,2026-09-06,Llamada,0,Número equivocado
+GES_000196,OBL_00108,Deskonecta,2026-09-11,SMS,0,Buzón de mensajes
+GES_000197,OBL_00108,Deskonecta,2026-09-12,WhatsApp,1,Titular no disponible
+GES_000198,OBL_00108,Deskonecta,2026-09-26,SMS,1,Negativa
+GES_000199,OBL_00109,A-ETXA,2026-09-20,Llamada,0,Número equivocado
+GES_000200,OBL_00109,A-ETXA,2026-09-24,WhatsApp,0,Ilocalizado
+GES_000201,OBL_00114,Telepromesa,2026-09-05,WhatsApp,0,Buzón de mensajes
+GES_000202,OBL_00115,Telepromesa,2026-09-23,WhatsApp,1,Negativa
+GES_000203,OBL_00116,Deskonecta,2026-09-16,WhatsApp,0,Ilocalizado
+GES_000204,OBL_00117,A-ETXA,2026-09-02,Llamada,0,Buzón de mensajes
+GES_000205,OBL_00117,A-ETXA,2026-09-23,Llamada,1,Titular no disponible
+GES_000206,OBL_00119,Deskonecta,2026-09-12,SMS,1,Promesa de pago
+GES_000207,OBL_00119,Deskonecta,2026-09-19,WhatsApp,0,Ilocalizado
+GES_000208,OBL_00119,Deskonecta,2026-09-23,WhatsApp,1,Promesa de pago
+GES_000209,OBL_00119,Deskonecta,2026-09-25,WhatsApp,1,Promesa de pago
+GES_000210,OBL_00120,A-ETXA,2026-09-05,Llamada,0,Ilocalizado
+GES_000211,OBL_00120,A-ETXA,2026-09-09,SMS,1,Promesa de pago
+GES_000212,OBL_00121,Deskonecta,2026-09-09,Llamada,0,Buzón de mensajes
+GES_000213,OBL_00121,Deskonecta,2026-09-10,Llamada,1,Negativa
+GES_000214,OBL_00121,Deskonecta,2026-09-20,Llamada,0,Buzón de mensajes
+GES_000215,OBL_00121,Deskonecta,2026-09-21,WhatsApp,1,Promesa de pago
+GES_000216,OBL_00125,A-ETXA,2026-09-16,Llamada,0,Número equivocado
+GES_000217,OBL_00125,A-ETXA,2026-09-22,SMS,1,Negativa
+GES_000218,OBL_00126,A-ETXA,2026-09-10,WhatsApp,0,Ilocalizado
+GES_000219,OBL_00127,Deskonecta,2026-09-08,Llamada,0,Ilocalizado
+GES_000220,OBL_00127,Deskonecta,2026-09-28,SMS,0,Ilocalizado
+GES_000221,OBL_00127,Deskonecta,2026-09-28,Llamada,1,Negativa
+GES_000222,OBL_00128,Deskonecta,2026-09-07,Llamada,0,Buzón de mensajes
+GES_000223,OBL_00128,Deskonecta,2026-09-13,Llamada,0,Ilocalizado
+GES_000224,OBL_00128,Deskonecta,2026-09-27,Llamada,0,Buzón de mensajes
+GES_000225,OBL_00130,Deskonecta,2026-09-05,Llamada,0,Ilocalizado
+GES_000226,OBL_00130,Deskonecta,2026-09-19,Llamada,0,Número equivocado
+GES_000227,OBL_00130,Deskonecta,2026-09-23,Llamada,0,Buzón de mensajes
+GES_000228,OBL_00131,A-ETXA,2026-09-18,WhatsApp,0,Ilocalizado
+GES_000229,OBL_00131,A-ETXA,2026-09-24,SMS,0,Número equivocado
+GES_000230,OBL_00131,A-ETXA,2026-09-25,Llamada,0,Buzón de mensajes
+GES_000231,OBL_00131,A-ETXA,2026-09-29,Llamada,1,Promesa de pago
+GES_000232,OBL_00132,Deskonecta,2026-09-07,SMS,0,Número equivocado
+GES_000233,OBL_00132,Deskonecta,2026-09-08,Llamada,0,Número equivocado
+GES_000234,OBL_00132,Deskonecta,2026-09-11,Llamada,0,Buzón de mensajes
+GES_000235,OBL_00132,Deskonecta,2026-09-19,WhatsApp,0,Ilocalizado
+GES_000236,OBL_00133,Deskonecta,2026-09-16,WhatsApp,0,Número equivocado
+GES_000237,OBL_00133,Deskonecta,2026-09-24,Llamada,0,Ilocalizado
+GES_000238,OBL_00133,Deskonecta,2026-09-24,SMS,0,Número equivocado
+GES_000239,OBL_00133,Deskonecta,2026-09-28,SMS,0,Ilocalizado
+GES_000240,OBL_00134,Deskonecta,2026-09-04,WhatsApp,0,Número equivocado
+GES_000241,OBL_00134,Deskonecta,2026-09-08,Llamada,0,Buzón de mensajes
+GES_000242,OBL_00134,Deskonecta,2026-09-13,SMS,0,Ilocalizado
+GES_000243,OBL_00135,A-ETXA,2026-09-08,Llamada,0,Número equivocado
+GES_000244,OBL_00135,A-ETXA,2026-09-09,Llamada,0,Ilocalizado
+GES_000245,OBL_00135,A-ETXA,2026-09-24,Llamada,0,Buzón de mensajes
+GES_000246,OBL_00136,A-ETXA,2026-09-07,Llamada,0,Número equivocado
+GES_000247,OBL_00136,A-ETXA,2026-09-15,Llamada,1,Negativa
+GES_000248,OBL_00136,A-ETXA,2026-09-27,Llamada,1,Titular no disponible
+GES_000249,OBL_00136,A-ETXA,2026-09-29,WhatsApp,1,Negativa
+GES_000250,OBL_00137,Telepromesa,2026-09-05,SMS,0,Ilocalizado
+GES_000251,OBL_00137,Telepromesa,2026-09-15,Llamada,0,Buzón de mensajes
+GES_000252,OBL_00137,Telepromesa,2026-09-19,WhatsApp,0,Ilocalizado
+GES_000253,OBL_00137,Telepromesa,2026-09-27,WhatsApp,1,Promesa de pago
+GES_000254,OBL_00138,Telepromesa,2026-09-15,Llamada,0,Ilocalizado
+GES_000255,OBL_00138,Telepromesa,2026-09-27,WhatsApp,1,Promesa de pago
+GES_000256,OBL_00140,A-ETXA,2026-09-05,SMS,1,Titular no disponible
+GES_000257,OBL_00141,A-ETXA,2026-09-03,Llamada,0,Buzón de mensajes
+GES_000258,OBL_00141,A-ETXA,2026-09-08,Llamada,0,Buzón de mensajes
+GES_000259,OBL_00141,A-ETXA,2026-09-08,WhatsApp,0,Ilocalizado
+GES_000260,OBL_00141,A-ETXA,2026-09-09,WhatsApp,0,Buzón de mensajes
+GES_000261,OBL_00143,Deskonecta,2026-09-04,WhatsApp,0,Ilocalizado
+GES_000262,OBL_00144,A-ETXA,2026-09-06,Llamada,0,Ilocalizado
+GES_000263,OBL_00144,A-ETXA,2026-09-09,WhatsApp,0,Buzón de mensajes
+GES_000264,OBL_00144,A-ETXA,2026-09-14,Llamada,0,Ilocalizado
+GES_000265,OBL_00144,A-ETXA,2026-09-29,Llamada,0,Ilocalizado
+GES_000266,OBL_00149,Telepromesa,2026-09-16,Llamada,1,Negativa
+GES_000267,OBL_00150,Deskonecta,2026-09-16,Llamada,1,Titular no disponible
+GES_000268,OBL_00151,A-ETXA,2026-09-07,Llamada,0,Número equivocado
+GES_000269,OBL_00151,A-ETXA,2026-09-12,WhatsApp,0,Número equivocado
+GES_000270,OBL_00151,A-ETXA,2026-09-27,Llamada,0,Ilocalizado
+GES_000271,OBL_00152,Telepromesa,2026-09-07,WhatsApp,0,Número equivocado
+GES_000272,OBL_00152,Telepromesa,2026-09-13,Llamada,0,Ilocalizado
+GES_000273,OBL_00152,Telepromesa,2026-09-27,SMS,0,Buzón de mensajes
+GES_000274,OBL_00152,Telepromesa,2026-09-28,WhatsApp,1,Titular no disponible
+GES_000275,OBL_00154,Telepromesa,2026-09-15,SMS,1,Titular no disponible
+GES_000276,OBL_00154,Telepromesa,2026-09-18,Llamada,0,Ilocalizado
+GES_000277,OBL_00154,Telepromesa,2026-09-23,Llamada,1,Titular no disponible
+GES_000278,OBL_00154,Telepromesa,2026-09-29,Llamada,1,Titular no disponible
+GES_000279,OBL_00155,A-ETXA,2026-09-12,WhatsApp,1,Negativa
+GES_000280,OBL_00155,A-ETXA,2026-09-20,WhatsApp,1,Negativa
+GES_000281,OBL_00156,A-ETXA,2026-09-02,SMS,0,Número equivocado
+GES_000282,OBL_00156,A-ETXA,2026-09-03,Llamada,0,Número equivocado
+GES_000283,OBL_00156,A-ETXA,2026-09-04,WhatsApp,0,Número equivocado
+GES_000284,OBL_00156,A-ETXA,2026-09-17,SMS,1,Titular no disponible
+GES_000285,OBL_00157,Telepromesa,2026-09-13,Llamada,1,Promesa de pago
+GES_000286,OBL_00157,Telepromesa,2026-09-18,Llamada,1,Promesa de pago
+GES_000287,OBL_00157,Telepromesa,2026-09-22,Llamada,1,Negativa
+GES_000288,OBL_00157,Telepromesa,2026-09-22,Llamada,1,Negativa
+GES_000289,OBL_00158,A-ETXA,2026-09-05,WhatsApp,0,Ilocalizado
+GES_000290,OBL_00158,A-ETXA,2026-09-27,Llamada,0,Número equivocado
+GES_000291,OBL_00159,A-ETXA,2026-09-14,Llamada,0,Buzón de mensajes
+GES_000292,OBL_00159,A-ETXA,2026-09-15,WhatsApp,0,Buzón de mensajes
+GES_000293,OBL_00159,A-ETXA,2026-09-16,WhatsApp,0,Número equivocado
+GES_000294,OBL_00159,A-ETXA,2026-09-29,Llamada,0,Buzón de mensajes
+GES_000295,OBL_00161,A-ETXA,2026-09-08,Llamada,0,Número equivocado
+GES_000296,OBL_00161,A-ETXA,2026-09-11,Llamada,0,Ilocalizado
+GES_000297,OBL_00161,A-ETXA,2026-09-11,Llamada,0,Ilocalizado
+GES_000298,OBL_00161,A-ETXA,2026-09-12,Llamada,1,Promesa de pago
+GES_000299,OBL_00163,Deskonecta,2026-09-14,WhatsApp,1,Negativa
+GES_000300,OBL_00163,Deskonecta,2026-09-22,WhatsApp,1,Negativa
+GES_000301,OBL_00164,Telepromesa,2026-09-09,WhatsApp,0,Ilocalizado
+GES_000302,OBL_00164,Telepromesa,2026-09-10,Llamada,1,Titular no disponible
+GES_000303,OBL_00164,Telepromesa,2026-09-22,Llamada,1,Negativa
+GES_000304,OBL_00165,Deskonecta,2026-09-04,Llamada,0,Ilocalizado
+GES_000305,OBL_00165,Deskonecta,2026-09-20,Llamada,0,Buzón de mensajes
+GES_000306,OBL_00165,Deskonecta,2026-09-24,Llamada,0,Número equivocado
+GES_000307,OBL_00165,Deskonecta,2026-09-28,SMS,0,Ilocalizado
+GES_000308,OBL_00166,Deskonecta,2026-09-09,Llamada,0,Número equivocado
+GES_000309,OBL_00166,Deskonecta,2026-09-14,SMS,0,Buzón de mensajes
+GES_000310,OBL_00166,Deskonecta,2026-09-17,WhatsApp,0,Número equivocado
+GES_000311,OBL_00166,Deskonecta,2026-09-24,Llamada,0,Buzón de mensajes
+GES_000312,OBL_00167,Telepromesa,2026-09-05,SMS,0,Ilocalizado
+GES_000313,OBL_00167,Telepromesa,2026-09-11,Llamada,0,Número equivocado
+GES_000314,OBL_00167,Telepromesa,2026-09-16,Llamada,1,Titular no disponible
+GES_000315,OBL_00167,Telepromesa,2026-09-28,SMS,1,Titular no disponible
+GES_000316,OBL_00168,A-ETXA,2026-09-10,Llamada,0,Buzón de mensajes
+GES_000317,OBL_00168,A-ETXA,2026-09-17,Llamada,0,Número equivocado
+GES_000318,OBL_00169,A-ETXA,2026-09-03,Llamada,0,Buzón de mensajes
+GES_000319,OBL_00169,A-ETXA,2026-09-16,Llamada,0,Ilocalizado
+GES_000320,OBL_00169,A-ETXA,2026-09-18,WhatsApp,0,Ilocalizado
+GES_000321,OBL_00169,A-ETXA,2026-09-20,Llamada,0,Ilocalizado
+GES_000322,OBL_00170,Telepromesa,2026-09-05,WhatsApp,0,Número equivocado
+GES_000323,OBL_00170,Telepromesa,2026-09-12,WhatsApp,0,Ilocalizado
+GES_000324,OBL_00171,A-ETXA,2026-09-15,Llamada,0,Ilocalizado
+GES_000325,OBL_00172,Telepromesa,2026-09-06,Llamada,1,Negativa
+GES_000326,OBL_00174,A-ETXA,2026-09-09,SMS,0,Ilocalizado
+GES_000327,OBL_00175,Telepromesa,2026-09-03,Llamada,0,Ilocalizado
+GES_000328,OBL_00175,Telepromesa,2026-09-20,Llamada,0,Número equivocado
+GES_000329,OBL_00175,Telepromesa,2026-09-25,Llamada,0,Número equivocado
+GES_000330,OBL_00176,Telepromesa,2026-09-10,WhatsApp,0,Número equivocado
+GES_000331,OBL_00176,Telepromesa,2026-09-17,Llamada,0,Buzón de mensajes
+GES_000332,OBL_00178,Telepromesa,2026-09-28,SMS,1,Negativa
+GES_000333,OBL_00179,A-ETXA,2026-09-27,Llamada,1,Promesa de pago
+GES_000334,OBL_00179,A-ETXA,2026-09-29,WhatsApp,1,Titular no disponible
+GES_000335,OBL_00180,Telepromesa,2026-09-04,Llamada,0,Ilocalizado
+GES_000336,OBL_00180,Telepromesa,2026-09-14,Llamada,0,Ilocalizado
+GES_000337,OBL_00180,Telepromesa,2026-09-27,SMS,0,Número equivocado
+GES_000338,OBL_00181,Deskonecta,2026-09-29,Llamada,1,Promesa de pago
+GES_000339,OBL_00183,Deskonecta,2026-09-04,Llamada,0,Buzón de mensajes
+GES_000340,OBL_00183,Deskonecta,2026-09-14,Llamada,0,Número equivocado
+GES_000341,OBL_00183,Deskonecta,2026-09-16,Llamada,1,Promesa de pago
+GES_000342,OBL_00185,Telepromesa,2026-09-12,Llamada,1,Negativa
+GES_000343,OBL_00185,Telepromesa,2026-09-14,Llamada,1,Promesa de pago
+GES_000344,OBL_00185,Telepromesa,2026-09-16,Llamada,0,Ilocalizado
+GES_000345,OBL_00185,Telepromesa,2026-09-29,Llamada,1,Titular no disponible
+GES_000346,OBL_00187,Telepromesa,2026-09-03,Llamada,0,Número equivocado
+GES_000347,OBL_00187,Telepromesa,2026-09-05,Llamada,0,Número equivocado
+GES_000348,OBL_00187,Telepromesa,2026-09-14,WhatsApp,1,Negativa
+GES_000349,OBL_00189,Telepromesa,2026-09-02,Llamada,1,Promesa de pago
+GES_000350,OBL_00189,Telepromesa,2026-09-09,Llamada,1,Titular no disponible
+GES_000351,OBL_00190,A-ETXA,2026-09-09,Llamada,0,Ilocalizado
+GES_000352,OBL_00190,A-ETXA,2026-09-23,Llamada,0,Número equivocado
+GES_000353,OBL_00190,A-ETXA,2026-09-29,Llamada,1,Negativa
+GES_000354,OBL_00191,Deskonecta,2026-09-19,Llamada,1,Negativa
+GES_000355,OBL_00191,Deskonecta,2026-09-23,Llamada,0,Ilocalizado
+GES_000356,OBL_00191,Deskonecta,2026-09-24,Llamada,1,Promesa de pago
+GES_000357,OBL_00192,A-ETXA,2026-09-07,Llamada,0,Número equivocado
+GES_000358,OBL_00192,A-ETXA,2026-09-18,Llamada,0,Ilocalizado
+GES_000359,OBL_00192,A-ETXA,2026-09-18,WhatsApp,0,Ilocalizado
+GES_000360,OBL_00192,A-ETXA,2026-09-26,SMS,0,Número equivocado
+GES_000361,OBL_00193,Deskonecta,2026-09-24,Llamada,0,Número equivocado
+GES_000362,OBL_00195,Deskonecta,2026-09-22,Llamada,1,Negativa
+GES_000363,OBL_00195,Deskonecta,2026-09-26,Llamada,1,Titular no disponible
+GES_000364,OBL_00196,A-ETXA,2026-09-03,Llamada,0,Ilocalizado
+GES_000365,OBL_00196,A-ETXA,2026-09-06,Llamada,0,Número equivocado
+GES_000366,OBL_00196,A-ETXA,2026-09-20,WhatsApp,0,Ilocalizado
+GES_000367,OBL_00196,A-ETXA,2026-09-20,Llamada,0,Número equivocado
+GES_000368,OBL_00197,A-ETXA,2026-09-04,Llamada,0,Buzón de mensajes
+GES_000369,OBL_00197,A-ETXA,2026-09-10,WhatsApp,0,Ilocalizado
+GES_000370,OBL_00197,A-ETXA,2026-09-15,WhatsApp,0,Número equivocado
+GES_000371,OBL_00198,Deskonecta,2026-09-06,Llamada,0,Buzón de mensajes
+GES_000372,OBL_00198,Deskonecta,2026-09-15,Llamada,0,Ilocalizado
+GES_000373,OBL_00198,Deskonecta,2026-09-16,Llamada,0,Número equivocado
+GES_000374,OBL_00198,Deskonecta,2026-09-25,WhatsApp,0,Buzón de mensajes
+GES_000375,OBL_00200,Telepromesa,2026-09-25,Llamada,1,Negativa
+GES_000376,OBL_00201,A-ETXA,2026-09-28,Llamada,1,Negativa
+GES_000377,OBL_00202,A-ETXA,2026-09-13,Llamada,0,Número equivocado
+GES_000378,OBL_00202,A-ETXA,2026-09-14,Llamada,0,Ilocalizado
+GES_000379,OBL_00203,Deskonecta,2026-09-20,SMS,0,Número equivocado
+GES_000380,OBL_00203,Deskonecta,2026-09-24,WhatsApp,0,Buzón de mensajes
+GES_000381,OBL_00203,Deskonecta,2026-09-25,WhatsApp,0,Número equivocado
+GES_000382,OBL_00204,A-ETXA,2026-09-08,Llamada,0,Número equivocado
+GES_000383,OBL_00204,A-ETXA,2026-09-11,Llamada,0,Número equivocado
+GES_000384,OBL_00204,A-ETXA,2026-09-13,Llamada,1,Promesa de pago
+GES_000385,OBL_00207,Telepromesa,2026-09-14,WhatsApp,1,Titular no disponible
+GES_000386,OBL_00209,A-ETXA,2026-09-08,Llamada,0,Ilocalizado
+GES_000387,OBL_00209,A-ETXA,2026-09-09,Llamada,0,Buzón de mensajes
+GES_000388,OBL_00209,A-ETXA,2026-09-09,Llamada,0,Número equivocado
+GES_000389,OBL_00209,A-ETXA,2026-09-24,WhatsApp,0,Número equivocado
+GES_000390,OBL_00210,Telepromesa,2026-09-29,Llamada,0,Buzón de mensajes
+GES_000391,OBL_00213,A-ETXA,2026-09-08,Llamada,0,Ilocalizado
+GES_000392,OBL_00214,Deskonecta,2026-09-05,Llamada,0,Buzón de mensajes
+GES_000393,OBL_00214,Deskonecta,2026-09-13,Llamada,1,Negativa
+GES_000394,OBL_00214,Deskonecta,2026-09-14,Llamada,1,Negativa
+GES_000395,OBL_00214,Deskonecta,2026-09-16,SMS,1,Titular no disponible
+GES_000396,OBL_00215,Telepromesa,2026-09-10,Llamada,0,Buzón de mensajes
+GES_000397,OBL_00215,Telepromesa,2026-09-14,WhatsApp,0,Número equivocado
+GES_000398,OBL_00215,Telepromesa,2026-09-15,Llamada,0,Ilocalizado
+GES_000399,OBL_00215,Telepromesa,2026-09-22,Llamada,0,Número equivocado
+GES_000400,OBL_00216,A-ETXA,2026-09-08,WhatsApp,0,Número equivocado
+GES_000401,OBL_00216,A-ETXA,2026-09-27,SMS,0,Buzón de mensajes
+GES_000402,OBL_00217,Deskonecta,2026-09-07,Llamada,0,Buzón de mensajes
+GES_000403,OBL_00217,Deskonecta,2026-09-16,WhatsApp,0,Número equivocado
+GES_000404,OBL_00217,Deskonecta,2026-09-18,WhatsApp,0,Buzón de mensajes
+GES_000405,OBL_00217,Deskonecta,2026-09-20,Llamada,1,Negativa
+GES_000406,OBL_00218,Telepromesa,2026-09-16,Llamada,1,Titular no disponible
+GES_000407,OBL_00218,Telepromesa,2026-09-26,Llamada,1,Negativa
+GES_000408,OBL_00219,A-ETXA,2026-09-03,Llamada,0,Ilocalizado
+GES_000409,OBL_00219,A-ETXA,2026-09-07,Llamada,0,Buzón de mensajes
+GES_000410,OBL_00219,A-ETXA,2026-09-13,SMS,0,Buzón de mensajes
+GES_000411,OBL_00219,A-ETXA,2026-09-15,Llamada,0,Ilocalizado
+GES_000412,OBL_00220,Telepromesa,2026-09-15,WhatsApp,0,Buzón de mensajes
+GES_000413,OBL_00220,Telepromesa,2026-09-27,Llamada,0,Ilocalizado
+GES_000414,OBL_00220,Telepromesa,2026-09-28,Llamada,0,Número equivocado
+GES_000415,OBL_00221,A-ETXA,2026-09-09,Llamada,0,Número equivocado
+GES_000416,OBL_00221,A-ETXA,2026-09-21,SMS,0,Buzón de mensajes
+GES_000417,OBL_00221,A-ETXA,2026-09-27,Llamada,0,Buzón de mensajes
+GES_000418,OBL_00222,Deskonecta,2026-09-14,Llamada,1,Negativa
+GES_000419,OBL_00225,Telepromesa,2026-09-02,WhatsApp,0,Buzón de mensajes
+GES_000420,OBL_00225,Telepromesa,2026-09-08,Llamada,0,Ilocalizado
+GES_000421,OBL_00225,Telepromesa,2026-09-18,Llamada,1,Negativa
+GES_000422,OBL_00226,A-ETXA,2026-09-08,Llamada,0,Número equivocado
+GES_000423,OBL_00226,A-ETXA,2026-09-18,Llamada,0,Número equivocado
+GES_000424,OBL_00226,A-ETXA,2026-09-19,Llamada,1,Negativa
+GES_000425,OBL_00227,A-ETXA,2026-09-06,Llamada,0,Buzón de mensajes
+GES_000426,OBL_00227,A-ETXA,2026-09-20,WhatsApp,1,Promesa de pago
+GES_000427,OBL_00228,Deskonecta,2026-09-04,Llamada,0,Número equivocado
+GES_000428,OBL_00228,Deskonecta,2026-09-08,Llamada,1,Promesa de pago
+GES_000429,OBL_00229,Telepromesa,2026-09-03,Llamada,0,Buzón de mensajes
+GES_000430,OBL_00229,Telepromesa,2026-09-08,SMS,0,Número equivocado
+GES_000431,OBL_00229,Telepromesa,2026-09-23,SMS,1,Negativa
+GES_000432,OBL_00230,A-ETXA,2026-09-22,WhatsApp,1,Titular no disponible
+GES_000433,OBL_00232,A-ETXA,2026-09-05,Llamada,0,Número equivocado
+GES_000434,OBL_00232,A-ETXA,2026-09-05,SMS,0,Buzón de mensajes
+GES_000435,OBL_00232,A-ETXA,2026-09-14,WhatsApp,0,Número equivocado
+GES_000436,OBL_00232,A-ETXA,2026-09-16,SMS,1,Negativa
+GES_000437,OBL_00234,Deskonecta,2026-09-04,WhatsApp,0,Número equivocado
+GES_000438,OBL_00234,Deskonecta,2026-09-08,Llamada,0,Ilocalizado
+GES_000439,OBL_00234,Deskonecta,2026-09-11,Llamada,1,Titular no disponible
+GES_000440,OBL_00234,Deskonecta,2026-09-16,WhatsApp,1,Negativa
+GES_000441,OBL_00235,Telepromesa,2026-09-12,SMS,1,Promesa de pago
+GES_000442,OBL_00235,Telepromesa,2026-09-13,Llamada,0,Número equivocado
+GES_000443,OBL_00235,Telepromesa,2026-09-13,Llamada,0,Buzón de mensajes
+GES_000444,OBL_00235,Telepromesa,2026-09-22,Llamada,1,Promesa de pago
+GES_000445,OBL_00236,Telepromesa,2026-09-03,SMS,1,Promesa de pago
+GES_000446,OBL_00236,Telepromesa,2026-09-11,Llamada,0,Buzón de mensajes
+GES_000447,OBL_00236,Telepromesa,2026-09-13,Llamada,0,Número equivocado
+GES_000448,OBL_00236,Telepromesa,2026-09-22,WhatsApp,1,Promesa de pago
+GES_000449,OBL_00237,Deskonecta,2026-09-12,SMS,1,Promesa de pago
+GES_000450,OBL_00237,Deskonecta,2026-09-14,WhatsApp,1,Negativa
+GES_000451,OBL_00242,A-ETXA,2026-09-17,Llamada,1,Negativa
+GES_000452,OBL_00242,A-ETXA,2026-09-19,WhatsApp,1,Titular no disponible
+GES_000453,OBL_00243,A-ETXA,2026-09-25,SMS,1,Promesa de pago
+GES_000454,OBL_00247,Deskonecta,2026-09-11,Llamada,0,Número equivocado
+GES_000455,OBL_00247,Deskonecta,2026-09-24,Llamada,0,Número equivocado
+GES_000456,OBL_00247,Deskonecta,2026-09-25,Llamada,0,Número equivocado
+GES_000457,OBL_00247,Deskonecta,2026-09-27,SMS,0,Ilocalizado
+GES_000458,OBL_00248,A-ETXA,2026-09-04,SMS,1,Negativa
+GES_000459,OBL_00248,A-ETXA,2026-09-14,WhatsApp,1,Titular no disponible
+GES_000460,OBL_00250,Deskonecta,2026-09-08,Llamada,0,Ilocalizado
+GES_000461,OBL_00250,Deskonecta,2026-09-16,Llamada,1,Promesa de pago
+GES_000462,OBL_00250,Deskonecta,2026-09-19,Llamada,0,Buzón de mensajes
+GES_000463,OBL_00250,Deskonecta,2026-09-28,WhatsApp,1,Negativa
+GES_000464,OBL_00251,Telepromesa,2026-09-09,WhatsApp,0,Ilocalizado
+GES_000465,OBL_00251,Telepromesa,2026-09-09,SMS,0,Buzón de mensajes
+GES_000466,OBL_00251,Telepromesa,2026-09-13,Llamada,1,Promesa de pago
+GES_000467,OBL_00252,A-ETXA,2026-09-14,Llamada,0,Buzón de mensajes
+GES_000468,OBL_00252,A-ETXA,2026-09-17,WhatsApp,0,Ilocalizado
+GES_000469,OBL_00252,A-ETXA,2026-09-29,SMS,1,Titular no disponible
+GES_000470,OBL_00254,Telepromesa,2026-09-05,Llamada,0,Ilocalizado
+GES_000471,OBL_00254,Telepromesa,2026-09-07,WhatsApp,0,Número equivocado
+GES_000472,OBL_00254,Telepromesa,2026-09-19,Llamada,0,Ilocalizado
+GES_000473,OBL_00254,Telepromesa,2026-09-29,Llamada,0,Número equivocado
+GES_000474,OBL_00255,A-ETXA,2026-09-15,WhatsApp,0,Ilocalizado
+GES_000475,OBL_00255,A-ETXA,2026-09-24,Llamada,1,Promesa de pago
+GES_000476,OBL_00255,A-ETXA,2026-09-24,SMS,1,Titular no disponible
+GES_000477,OBL_00256,Telepromesa,2026-09-16,Llamada,0,Ilocalizado
+GES_000478,OBL_00256,Telepromesa,2026-09-20,SMS,0,Ilocalizado
+GES_000479,OBL_00257,Deskonecta,2026-09-13,WhatsApp,0,Número equivocado
+GES_000480,OBL_00257,Deskonecta,2026-09-13,Llamada,0,Número equivocado
+GES_000481,OBL_00257,Deskonecta,2026-09-17,Llamada,1,Titular no disponible
+GES_000482,OBL_00257,Deskonecta,2026-09-26,WhatsApp,1,Titular no disponible
+GES_000483,OBL_00258,Telepromesa,2026-09-11,SMS,1,Negativa
+GES_000484,OBL_00259,Telepromesa,2026-09-04,Llamada,0,Ilocalizado
+GES_000485,OBL_00260,Deskonecta,2026-09-06,Llamada,0,Ilocalizado
+GES_000486,OBL_00260,Deskonecta,2026-09-13,WhatsApp,0,Buzón de mensajes
+GES_000487,OBL_00260,Deskonecta,2026-09-23,Llamada,0,Número equivocado
+GES_000488,OBL_00260,Deskonecta,2026-09-27,WhatsApp,0,Buzón de mensajes
+GES_000489,OBL_00261,Telepromesa,2026-09-28,Llamada,1,Negativa
+GES_000490,OBL_00262,Telepromesa,2026-09-14,WhatsApp,1,Titular no disponible
+GES_000491,OBL_00263,Deskonecta,2026-09-24,Llamada,0,Buzón de mensajes
+GES_000492,OBL_00264,A-ETXA,2026-09-11,SMS,0,Número equivocado
+GES_000493,OBL_00264,A-ETXA,2026-09-16,Llamada,0,Buzón de mensajes
+GES_000494,OBL_00264,A-ETXA,2026-09-26,Llamada,0,Número equivocado
+GES_000495,OBL_00266,A-ETXA,2026-09-15,Llamada,1,Promesa de pago
+GES_000496,OBL_00266,A-ETXA,2026-09-16,Llamada,0,Buzón de mensajes
+GES_000497,OBL_00266,A-ETXA,2026-09-19,WhatsApp,1,Promesa de pago
+GES_000498,OBL_00267,Telepromesa,2026-09-03,Llamada,0,Buzón de mensajes
+GES_000499,OBL_00267,Telepromesa,2026-09-06,WhatsApp,0,Buzón de mensajes
+GES_000500,OBL_00267,Telepromesa,2026-09-14,Llamada,0,Buzón de mensajes
+GES_000501,OBL_00267,Telepromesa,2026-09-15,Llamada,0,Ilocalizado
+GES_000502,OBL_00268,A-ETXA,2026-09-28,Llamada,1,Negativa
+GES_000503,OBL_00269,Deskonecta,2026-09-03,SMS,0,Buzón de mensajes
+GES_000504,OBL_00269,Deskonecta,2026-09-05,Llamada,0,Número equivocado
+GES_000505,OBL_00270,Deskonecta,2026-09-19,WhatsApp,0,Número equivocado
+GES_000506,OBL_00270,Deskonecta,2026-09-24,WhatsApp,0,Buzón de mensajes
+GES_000507,OBL_00271,A-ETXA,2026-09-05,Llamada,0,Ilocalizado
+GES_000508,OBL_00273,Deskonecta,2026-09-18,Llamada,0,Ilocalizado
+GES_000509,OBL_00273,Deskonecta,2026-09-20,SMS,0,Buzón de mensajes
+GES_000510,OBL_00273,Deskonecta,2026-09-21,WhatsApp,0,Ilocalizado
+GES_000511,OBL_00276,A-ETXA,2026-09-06,WhatsApp,0,Número equivocado
+GES_000512,OBL_00276,A-ETXA,2026-09-20,Llamada,0,Ilocalizado
+GES_000513,OBL_00277,Deskonecta,2026-09-03,Llamada,0,Número equivocado
+GES_000514,OBL_00278,A-ETXA,2026-09-03,Llamada,0,Número equivocado
+GES_000515,OBL_00278,A-ETXA,2026-09-12,Llamada,1,Titular no disponible
+GES_000516,OBL_00278,A-ETXA,2026-09-15,Llamada,1,Promesa de pago
+GES_000517,OBL_00278,A-ETXA,2026-09-25,Llamada,1,Promesa de pago
+GES_000518,OBL_00279,Telepromesa,2026-09-05,Llamada,1,Promesa de pago
+GES_000519,OBL_00279,Telepromesa,2026-09-20,WhatsApp,0,Ilocalizado
+GES_000520,OBL_00279,Telepromesa,2026-09-29,Llamada,1,Negativa
+GES_000521,OBL_00279,Telepromesa,2026-09-29,Llamada,1,Promesa de pago
+GES_000522,OBL_00280,Deskonecta,2026-09-02,Llamada,0,Ilocalizado
+GES_000523,OBL_00280,Deskonecta,2026-09-07,Llamada,0,Ilocalizado
+GES_000524,OBL_00280,Deskonecta,2026-09-25,Llamada,0,Buzón de mensajes
+GES_000525,OBL_00281,A-ETXA,2026-09-17,Llamada,1,Titular no disponible
+GES_000526,OBL_00282,Deskonecta,2026-09-03,WhatsApp,0,Número equivocado
+GES_000527,OBL_00282,Deskonecta,2026-09-06,SMS,0,Buzón de mensajes
+GES_000528,OBL_00282,Deskonecta,2026-09-20,WhatsApp,0,Buzón de mensajes
+GES_000529,OBL_00282,Deskonecta,2026-09-26,Llamada,1,Titular no disponible
+GES_000530,OBL_00283,Deskonecta,2026-09-09,SMS,1,Negativa
+GES_000531,OBL_00284,Deskonecta,2026-09-05,Llamada,0,Buzón de mensajes
+GES_000532,OBL_00284,Deskonecta,2026-09-26,WhatsApp,1,Promesa de pago
+GES_000533,OBL_00285,Telepromesa,2026-09-25,Llamada,1,Titular no disponible
+GES_000534,OBL_00286,Telepromesa,2026-09-26,SMS,1,Titular no disponible
+GES_000535,OBL_00287,A-ETXA,2026-09-13,WhatsApp,0,Ilocalizado
+GES_000536,OBL_00287,A-ETXA,2026-09-14,Llamada,0,Buzón de mensajes
+GES_000537,OBL_00287,A-ETXA,2026-09-15,SMS,0,Buzón de mensajes
+GES_000538,OBL_00287,A-ETXA,2026-09-17,Llamada,0,Ilocalizado
+GES_000539,OBL_00288,A-ETXA,2026-09-06,Llamada,1,Negativa
+GES_000540,OBL_00289,Telepromesa,2026-09-15,Llamada,0,Número equivocado
+GES_000541,OBL_00289,Telepromesa,2026-09-16,SMS,0,Ilocalizado
+GES_000542,OBL_00289,Telepromesa,2026-09-24,SMS,0,Buzón de mensajes
+GES_000543,OBL_00290,A-ETXA,2026-09-12,Llamada,1,Negativa
+GES_000544,OBL_00290,A-ETXA,2026-09-14,Llamada,0,Número equivocado
+GES_000545,OBL_00290,A-ETXA,2026-09-19,SMS,0,Número equivocado
+GES_000546,OBL_00290,A-ETXA,2026-09-29,Llamada,1,Titular no disponible
+GES_000547,OBL_00291,A-ETXA,2026-09-26,Llamada,0,Número equivocado
+GES_000548,OBL_00291,A-ETXA,2026-09-27,SMS,0,Buzón de mensajes
+GES_000549,OBL_00292,Telepromesa,2026-09-02,Llamada,0,Ilocalizado
+GES_000550,OBL_00292,Telepromesa,2026-09-08,Llamada,0,Número equivocado
+GES_000551,OBL_00292,Telepromesa,2026-09-21,Llamada,1,Negativa
+GES_000552,OBL_00294,Telepromesa,2026-09-03,Llamada,0,Buzón de mensajes
+GES_000553,OBL_00297,Telepromesa,2026-09-04,Llamada,1,Promesa de pago
+GES_000554,OBL_00297,Telepromesa,2026-09-07,WhatsApp,0,Buzón de mensajes
+GES_000555,OBL_00297,Telepromesa,2026-09-18,Llamada,1,Titular no disponible
+GES_000556,OBL_00297,Telepromesa,2026-09-23,Llamada,1,Negativa
+GES_000557,OBL_00298,Telepromesa,2026-09-02,Llamada,1,Titular no disponible
+GES_000558,OBL_00298,Telepromesa,2026-09-08,Llamada,1,Negativa
+GES_000559,OBL_00299,A-ETXA,2026-09-12,WhatsApp,1,Titular no disponible
+GES_000560,OBL_00299,A-ETXA,2026-09-12,SMS,0,Número equivocado
+GES_000561,OBL_00299,A-ETXA,2026-09-26,Llamada,0,Número equivocado
+GES_000562,OBL_00299,A-ETXA,2026-09-28,WhatsApp,1,Promesa de pago
+GES_000563,OBL_00300,Telepromesa,2026-09-02,Llamada,0,Buzón de mensajes
+GES_000564,OBL_00300,Telepromesa,2026-09-13,SMS,0,Buzón de mensajes
+GES_000565,OBL_00300,Telepromesa,2026-09-28,Llamada,0,Ilocalizado
+GES_000566,OBL_00301,Telepromesa,2026-09-21,Llamada,0,Número equivocado
+GES_000567,OBL_00301,Telepromesa,2026-09-22,SMS,1,Promesa de pago
+GES_000568,OBL_00302,Telepromesa,2026-09-23,Llamada,0,Número equivocado
+GES_000569,OBL_00302,Telepromesa,2026-09-24,Llamada,0,Ilocalizado
+GES_000570,OBL_00303,Deskonecta,2026-09-08,WhatsApp,1,Titular no disponible
+GES_000571,OBL_00303,Deskonecta,2026-09-16,SMS,0,Número equivocado
+GES_000572,OBL_00303,Deskonecta,2026-09-18,WhatsApp,0,Ilocalizado
+GES_000573,OBL_00303,Deskonecta,2026-09-22,SMS,1,Negativa
+GES_000574,OBL_00304,Deskonecta,2026-09-03,Llamada,1,Titular no disponible
+GES_000575,OBL_00304,Deskonecta,2026-09-04,SMS,0,Número equivocado
+GES_000576,OBL_00304,Deskonecta,2026-09-07,Llamada,0,Buzón de mensajes
+GES_000577,OBL_00304,Deskonecta,2026-09-20,Llamada,1,Titular no disponible
+GES_000578,OBL_00305,A-ETXA,2026-09-09,Llamada,0,Número equivocado
+GES_000579,OBL_00305,A-ETXA,2026-09-20,SMS,0,Ilocalizado
+GES_000580,OBL_00305,A-ETXA,2026-09-21,SMS,0,Número equivocado
+GES_000581,OBL_00306,A-ETXA,2026-09-12,SMS,1,Negativa
+GES_000582,OBL_00306,A-ETXA,2026-09-16,SMS,1,Negativa
+GES_000583,OBL_00307,Deskonecta,2026-09-02,Llamada,0,Número equivocado
+GES_000584,OBL_00307,Deskonecta,2026-09-18,Llamada,0,Ilocalizado
+GES_000585,OBL_00307,Deskonecta,2026-09-18,WhatsApp,0,Ilocalizado
+GES_000586,OBL_00308,Telepromesa,2026-09-15,Llamada,1,Promesa de pago
+GES_000587,OBL_00309,A-ETXA,2026-09-10,Llamada,1,Promesa de pago
+GES_000588,OBL_00309,A-ETXA,2026-09-27,Llamada,1,Promesa de pago
+GES_000589,OBL_00310,Deskonecta,2026-09-21,Llamada,1,Negativa
+GES_000590,OBL_00310,Deskonecta,2026-09-28,Llamada,1,Negativa
+GES_000591,OBL_00312,A-ETXA,2026-09-06,WhatsApp,0,Ilocalizado
+GES_000592,OBL_00312,A-ETXA,2026-09-27,Llamada,1,Promesa de pago
+GES_000593,OBL_00313,A-ETXA,2026-09-14,Llamada,0,Buzón de mensajes
+GES_000594,OBL_00313,A-ETXA,2026-09-20,SMS,1,Negativa
+GES_000595,OBL_00314,Deskonecta,2026-09-02,Llamada,0,Número equivocado
+GES_000596,OBL_00314,Deskonecta,2026-09-02,Llamada,0,Ilocalizado
+GES_000597,OBL_00316,Deskonecta,2026-09-14,Llamada,0,Número equivocado
+GES_000598,OBL_00316,Deskonecta,2026-09-23,Llamada,0,Buzón de mensajes
+GES_000599,OBL_00317,A-ETXA,2026-09-03,Llamada,1,Negativa
+GES_000600,OBL_00318,Telepromesa,2026-09-18,Llamada,1,Negativa
+GES_000601,OBL_00319,Telepromesa,2026-09-05,WhatsApp,0,Buzón de mensajes
+GES_000602,OBL_00320,Telepromesa,2026-09-12,SMS,0,Número equivocado
+GES_000603,OBL_00320,Telepromesa,2026-09-13,Llamada,0,Ilocalizado
+GES_000604,OBL_00320,Telepromesa,2026-09-21,Llamada,0,Buzón de mensajes
+GES_000605,OBL_00320,Telepromesa,2026-09-23,WhatsApp,0,Buzón de mensajes
+GES_000606,OBL_00321,Telepromesa,2026-09-19,SMS,0,Número equivocado
+GES_000607,OBL_00321,Telepromesa,2026-09-28,WhatsApp,0,Número equivocado
+GES_000608,OBL_00322,A-ETXA,2026-09-05,Llamada,0,Ilocalizado
+GES_000609,OBL_00322,A-ETXA,2026-09-09,SMS,0,Buzón de mensajes
+GES_000610,OBL_00322,A-ETXA,2026-09-27,WhatsApp,0,Buzón de mensajes
+GES_000611,OBL_00322,A-ETXA,2026-09-29,WhatsApp,0,Ilocalizado
+GES_000612,OBL_00323,Deskonecta,2026-09-18,Llamada,1,Promesa de pago
+GES_000613,OBL_00325,A-ETXA,2026-09-22,WhatsApp,1,Promesa de pago
+GES_000614,OBL_00326,A-ETXA,2026-09-05,SMS,0,Número equivocado
+GES_000615,OBL_00326,A-ETXA,2026-09-05,Llamada,0,Buzón de mensajes
+GES_000616,OBL_00326,A-ETXA,2026-09-11,WhatsApp,1,Promesa de pago
+GES_000617,OBL_00327,Deskonecta,2026-09-16,Llamada,0,Número equivocado
+GES_000618,OBL_00327,Deskonecta,2026-09-18,SMS,0,Buzón de mensajes
+GES_000619,OBL_00327,Deskonecta,2026-09-23,WhatsApp,1,Titular no disponible
+GES_000620,OBL_00328,Deskonecta,2026-09-03,WhatsApp,0,Número equivocado
+GES_000621,OBL_00328,Deskonecta,2026-09-21,WhatsApp,0,Buzón de mensajes
+GES_000622,OBL_00328,Deskonecta,2026-09-27,Llamada,0,Buzón de mensajes
+GES_000623,OBL_00329,A-ETXA,2026-09-17,SMS,1,Promesa de pago
+GES_000624,OBL_00329,A-ETXA,2026-09-19,Llamada,1,Promesa de pago
+GES_000625,OBL_00329,A-ETXA,2026-09-25,WhatsApp,1,Promesa de pago
+GES_000626,OBL_00329,A-ETXA,2026-09-27,WhatsApp,1,Negativa
+GES_000627,OBL_00330,A-ETXA,2026-09-03,WhatsApp,0,Ilocalizado
+GES_000628,OBL_00330,A-ETXA,2026-09-05,SMS,0,Buzón de mensajes
+GES_000629,OBL_00330,A-ETXA,2026-09-07,Llamada,0,Número equivocado
+GES_000630,OBL_00330,A-ETXA,2026-09-19,Llamada,0,Número equivocado
+GES_000631,OBL_00331,A-ETXA,2026-09-14,WhatsApp,0,Buzón de mensajes
+GES_000632,OBL_00332,A-ETXA,2026-09-03,Llamada,1,Negativa
+GES_000633,OBL_00332,A-ETXA,2026-09-05,Llamada,0,Ilocalizado
+GES_000634,OBL_00332,A-ETXA,2026-09-14,WhatsApp,1,Negativa
+GES_000635,OBL_00333,A-ETXA,2026-09-02,Llamada,0,Buzón de mensajes
+GES_000636,OBL_00333,A-ETXA,2026-09-02,SMS,0,Número equivocado
+GES_000637,OBL_00333,A-ETXA,2026-09-07,Llamada,0,Ilocalizado
+GES_000638,OBL_00333,A-ETXA,2026-09-10,WhatsApp,0,Buzón de mensajes
+GES_000639,OBL_00334,A-ETXA,2026-09-07,Llamada,0,Ilocalizado
+GES_000640,OBL_00334,A-ETXA,2026-09-16,WhatsApp,0,Número equivocado
+GES_000641,OBL_00334,A-ETXA,2026-09-22,WhatsApp,0,Buzón de mensajes
+GES_000642,OBL_00336,Deskonecta,2026-09-15,WhatsApp,0,Número equivocado
+GES_000643,OBL_00336,Deskonecta,2026-09-17,WhatsApp,1,Promesa de pago
+GES_000644,OBL_00337,Deskonecta,2026-09-11,Llamada,0,Número equivocado
+GES_000645,OBL_00337,Deskonecta,2026-09-12,Llamada,0,Buzón de mensajes
+GES_000646,OBL_00337,Deskonecta,2026-09-26,WhatsApp,1,Negativa
+GES_000647,OBL_00339,A-ETXA,2026-09-14,SMS,0,Número equivocado
+GES_000648,OBL_00340,Deskonecta,2026-09-04,WhatsApp,0,Ilocalizado
+GES_000649,OBL_00341,A-ETXA,2026-09-07,SMS,0,Número equivocado
+GES_000650,OBL_00341,A-ETXA,2026-09-14,Llamada,0,Buzón de mensajes
+GES_000651,OBL_00342,Deskonecta,2026-09-07,SMS,1,Promesa de pago
+GES_000652,OBL_00343,Deskonecta,2026-09-14,SMS,1,Negativa
+GES_000653,OBL_00343,Deskonecta,2026-09-16,Llamada,1,Negativa
+GES_000654,OBL_00344,Telepromesa,2026-09-06,WhatsApp,0,Número equivocado
+GES_000655,OBL_00344,Telepromesa,2026-09-08,Llamada,0,Buzón de mensajes
+GES_000656,OBL_00344,Telepromesa,2026-09-12,Llamada,0,Ilocalizado
+GES_000657,OBL_00344,Telepromesa,2026-09-24,Llamada,1,Promesa de pago
+GES_000658,OBL_00346,A-ETXA,2026-09-09,WhatsApp,0,Número equivocado
+GES_000659,OBL_00346,A-ETXA,2026-09-21,Llamada,1,Negativa
+GES_000660,OBL_00346,A-ETXA,2026-09-28,Llamada,1,Negativa
+GES_000661,OBL_00347,A-ETXA,2026-09-08,WhatsApp,0,Número equivocado
+GES_000662,OBL_00348,Telepromesa,2026-09-19,WhatsApp,0,Ilocalizado
+GES_000663,OBL_00349,Telepromesa,2026-09-02,Llamada,0,Ilocalizado
+GES_000664,OBL_00349,Telepromesa,2026-09-03,WhatsApp,1,Negativa
+GES_000665,OBL_00349,Telepromesa,2026-09-09,Llamada,0,Buzón de mensajes
+GES_000666,OBL_00349,Telepromesa,2026-09-22,Llamada,1,Negativa
+GES_000667,OBL_00350,A-ETXA,2026-09-12,Llamada,0,Buzón de mensajes
+GES_000668,OBL_00350,A-ETXA,2026-09-17,Llamada,1,Promesa de pago
+GES_000669,OBL_00354,Deskonecta,2026-09-06,SMS,0,Ilocalizado
+GES_000670,OBL_00354,Deskonecta,2026-09-15,SMS,0,Número equivocado
+GES_000671,OBL_00354,Deskonecta,2026-09-20,Llamada,0,Ilocalizado
+GES_000672,OBL_00355,A-ETXA,2026-09-07,Llamada,0,Buzón de mensajes
+GES_000673,OBL_00355,A-ETXA,2026-09-08,SMS,1,Promesa de pago
+GES_000674,OBL_00355,A-ETXA,2026-09-14,Llamada,1,Negativa
+GES_000675,OBL_00357,Telepromesa,2026-09-04,Llamada,0,Buzón de mensajes
+GES_000676,OBL_00357,Telepromesa,2026-09-10,Llamada,0,Número equivocado
+GES_000677,OBL_00357,Telepromesa,2026-09-24,Llamada,1,Negativa
+GES_000678,OBL_00357,Telepromesa,2026-09-27,Llamada,1,Negativa
+GES_000679,OBL_00358,Telepromesa,2026-09-11,SMS,0,Ilocalizado
+GES_000680,OBL_00358,Telepromesa,2026-09-23,SMS,0,Número equivocado
+GES_000681,OBL_00358,Telepromesa,2026-09-29,Llamada,0,Buzón de mensajes
+GES_000682,OBL_00362,Telepromesa,2026-09-21,SMS,0,Ilocalizado
+GES_000683,OBL_00362,Telepromesa,2026-09-27,SMS,1,Promesa de pago
+GES_000684,OBL_00363,Deskonecta,2026-09-13,Llamada,1,Negativa
+GES_000685,OBL_00363,Deskonecta,2026-09-17,Llamada,1,Promesa de pago
+GES_000686,OBL_00364,Telepromesa,2026-09-06,Llamada,0,Ilocalizado
+GES_000687,OBL_00364,Telepromesa,2026-09-09,Llamada,0,Número equivocado
+GES_000688,OBL_00364,Telepromesa,2026-09-20,Llamada,1,Negativa
+GES_000689,OBL_00365,Deskonecta,2026-09-04,Llamada,0,Buzón de mensajes
+GES_000690,OBL_00365,Deskonecta,2026-09-26,Llamada,0,Número equivocado
+GES_000691,OBL_00365,Deskonecta,2026-09-29,Llamada,0,Número equivocado
+GES_000692,OBL_00366,A-ETXA,2026-09-18,Llamada,0,Buzón de mensajes
+GES_000693,OBL_00366,A-ETXA,2026-09-20,Llamada,0,Buzón de mensajes
+GES_000694,OBL_00367,A-ETXA,2026-09-05,Llamada,0,Ilocalizado
+GES_000695,OBL_00368,Telepromesa,2026-09-04,Llamada,1,Negativa
+GES_000696,OBL_00369,Telepromesa,2026-09-06,Llamada,0,Buzón de mensajes
+GES_000697,OBL_00369,Telepromesa,2026-09-09,WhatsApp,0,Ilocalizado
+GES_000698,OBL_00369,Telepromesa,2026-09-25,Llamada,0,Número equivocado
+GES_000699,OBL_00369,Telepromesa,2026-09-27,Llamada,0,Número equivocado
+GES_000700,OBL_00370,A-ETXA,2026-09-06,Llamada,0,Buzón de mensajes
+GES_000701,OBL_00370,A-ETXA,2026-09-17,WhatsApp,0,Ilocalizado
+GES_000702,OBL_00370,A-ETXA,2026-09-24,Llamada,1,Negativa
+GES_000703,OBL_00371,Deskonecta,2026-09-07,Llamada,0,Número equivocado
+GES_000704,OBL_00371,Deskonecta,2026-09-11,SMS,0,Ilocalizado
+GES_000705,OBL_00371,Deskonecta,2026-09-12,Llamada,0,Buzón de mensajes
+GES_000706,OBL_00371,Deskonecta,2026-09-23,SMS,0,Buzón de mensajes
+GES_000707,OBL_00372,A-ETXA,2026-09-10,WhatsApp,0,Número equivocado
+GES_000708,OBL_00372,A-ETXA,2026-09-14,Llamada,0,Buzón de mensajes
+GES_000709,OBL_00372,A-ETXA,2026-09-21,SMS,0,Número equivocado
+GES_000710,OBL_00372,A-ETXA,2026-09-26,WhatsApp,0,Número equivocado
+GES_000711,OBL_00373,Telepromesa,2026-09-12,WhatsApp,0,Ilocalizado
+GES_000712,OBL_00373,Telepromesa,2026-09-27,WhatsApp,0,Ilocalizado
+GES_000713,OBL_00374,Deskonecta,2026-09-27,SMS,0,Ilocalizado
+GES_000714,OBL_00374,Deskonecta,2026-09-29,Llamada,1,Titular no disponible
+GES_000715,OBL_00375,Telepromesa,2026-09-03,Llamada,1,Negativa
+GES_000716,OBL_00375,Telepromesa,2026-09-29,WhatsApp,1,Negativa
+GES_000717,OBL_00377,Telepromesa,2026-09-14,Llamada,0,Buzón de mensajes
+GES_000718,OBL_00377,Telepromesa,2026-09-26,SMS,1,Promesa de pago
+GES_000719,OBL_00377,Telepromesa,2026-09-27,SMS,1,Negativa
+GES_000720,OBL_00378,A-ETXA,2026-09-24,Llamada,1,Titular no disponible
+GES_000721,OBL_00379,Telepromesa,2026-09-13,Llamada,1,Negativa
+GES_000722,OBL_00380,Deskonecta,2026-09-19,Llamada,0,Ilocalizado
+GES_000723,OBL_00380,Deskonecta,2026-09-22,Llamada,1,Titular no disponible
+GES_000724,OBL_00381,A-ETXA,2026-09-29,Llamada,0,Número equivocado
+GES_000725,OBL_00382,Deskonecta,2026-09-04,Llamada,0,Ilocalizado
+GES_000726,OBL_00382,Deskonecta,2026-09-12,Llamada,1,Promesa de pago
+GES_000727,OBL_00382,Deskonecta,2026-09-22,SMS,1,Promesa de pago
+GES_000728,OBL_00384,A-ETXA,2026-09-06,Llamada,0,Ilocalizado
+GES_000729,OBL_00384,A-ETXA,2026-09-18,WhatsApp,0,Número equivocado
+GES_000730,OBL_00384,A-ETXA,2026-09-18,Llamada,1,Promesa de pago
+GES_000731,OBL_00385,Deskonecta,2026-09-08,WhatsApp,0,Número equivocado
+GES_000732,OBL_00385,Deskonecta,2026-09-09,Llamada,1,Negativa
+GES_000733,OBL_00385,Deskonecta,2026-09-23,Llamada,1,Negativa
+GES_000734,OBL_00386,Deskonecta,2026-09-05,Llamada,0,Número equivocado
+GES_000735,OBL_00386,Deskonecta,2026-09-05,WhatsApp,0,Ilocalizado
+GES_000736,OBL_00386,Deskonecta,2026-09-10,Llamada,0,Número equivocado
+GES_000737,OBL_00386,Deskonecta,2026-09-28,Llamada,1,Promesa de pago
+GES_000738,OBL_00387,A-ETXA,2026-09-07,SMS,0,Número equivocado
+GES_000739,OBL_00387,A-ETXA,2026-09-15,WhatsApp,0,Buzón de mensajes
+GES_000740,OBL_00387,A-ETXA,2026-09-23,Llamada,0,Número equivocado
+GES_000741,OBL_00387,A-ETXA,2026-09-26,WhatsApp,0,Buzón de mensajes
+GES_000742,OBL_00388,Telepromesa,2026-09-15,Llamada,1,Promesa de pago
+GES_000743,OBL_00389,Telepromesa,2026-09-18,Llamada,0,Buzón de mensajes
+GES_000744,OBL_00389,Telepromesa,2026-09-19,Llamada,0,Buzón de mensajes
+GES_000745,OBL_00389,Telepromesa,2026-09-24,Llamada,1,Negativa
+GES_000746,OBL_00389,Telepromesa,2026-09-28,Llamada,1,Negativa
+GES_000747,OBL_00390,Deskonecta,2026-09-10,Llamada,1,Promesa de pago
+GES_000748,OBL_00391,Telepromesa,2026-09-09,SMS,1,Negativa
+GES_000749,OBL_00391,Telepromesa,2026-09-14,Llamada,0,Buzón de mensajes
+GES_000750,OBL_00391,Telepromesa,2026-09-21,WhatsApp,1,Titular no disponible
+GES_000751,OBL_00392,Telepromesa,2026-09-08,Llamada,1,Negativa
+GES_000752,OBL_00392,Telepromesa,2026-09-09,SMS,0,Buzón de mensajes
+GES_000753,OBL_00392,Telepromesa,2026-09-16,Llamada,1,Negativa
+GES_000754,OBL_00393,Deskonecta,2026-09-18,Llamada,1,Titular no disponible
+GES_000755,OBL_00393,Deskonecta,2026-09-22,Llamada,0,Buzón de mensajes
+GES_000756,OBL_00393,Deskonecta,2026-09-29,Llamada,1,Titular no disponible
+GES_000757,OBL_00394,Telepromesa,2026-09-07,Llamada,0,Ilocalizado
+GES_000758,OBL_00394,Telepromesa,2026-09-08,SMS,0,Número equivocado
+GES_000759,OBL_00394,Telepromesa,2026-09-15,SMS,0,Buzón de mensajes
+GES_000760,OBL_00394,Telepromesa,2026-09-25,Llamada,0,Número equivocado
+GES_000761,OBL_00396,Telepromesa,2026-09-02,WhatsApp,0,Número equivocado
+GES_000762,OBL_00396,Telepromesa,2026-09-10,Llamada,0,Número equivocado
+GES_000763,OBL_00397,Telepromesa,2026-09-12,Llamada,1,Promesa de pago
+GES_000764,OBL_00397,Telepromesa,2026-09-15,WhatsApp,0,Buzón de mensajes
+GES_000765,OBL_00397,Telepromesa,2026-09-24,Llamada,0,Número equivocado
+GES_000766,OBL_00397,Telepromesa,2026-09-28,WhatsApp,1,Promesa de pago
+GES_000767,OBL_00398,A-ETXA,2026-09-04,Llamada,0,Ilocalizado
+GES_000768,OBL_00398,A-ETXA,2026-09-12,Llamada,0,Buzón de mensajes
+GES_000769,OBL_00398,A-ETXA,2026-09-16,Llamada,0,Ilocalizado
+GES_000770,OBL_00398,A-ETXA,2026-09-25,SMS,0,Buzón de mensajes
+GES_000771,OBL_00399,Telepromesa,2026-09-10,Llamada,0,Buzón de mensajes
+GES_000772,OBL_00401,A-ETXA,2026-09-05,Llamada,1,Negativa
+GES_000773,OBL_00401,A-ETXA,2026-09-09,Llamada,1,Titular no disponible
+GES_000774,OBL_00401,A-ETXA,2026-09-14,WhatsApp,1,Titular no disponible
+GES_000775,OBL_00402,Telepromesa,2026-09-14,WhatsApp,1,Negativa
+GES_000776,OBL_00402,Telepromesa,2026-09-22,SMS,1,Titular no disponible
+GES_000777,OBL_00402,Telepromesa,2026-09-25,SMS,1,Negativa
+GES_000778,OBL_00403,Deskonecta,2026-09-21,Llamada,0,Ilocalizado
+GES_000779,OBL_00403,Deskonecta,2026-09-23,WhatsApp,0,Número equivocado
+GES_000780,OBL_00403,Deskonecta,2026-09-24,WhatsApp,0,Ilocalizado
+GES_000781,OBL_00404,Telepromesa,2026-09-02,WhatsApp,0,Buzón de mensajes
+GES_000782,OBL_00406,Deskonecta,2026-09-02,WhatsApp,0,Ilocalizado
+GES_000783,OBL_00406,Deskonecta,2026-09-13,SMS,1,Promesa de pago
+GES_000784,OBL_00406,Deskonecta,2026-09-22,SMS,1,Promesa de pago
+GES_000785,OBL_00408,Deskonecta,2026-09-08,Llamada,0,Número equivocado
+GES_000786,OBL_00408,Deskonecta,2026-09-19,WhatsApp,0,Número equivocado
+GES_000787,OBL_00408,Deskonecta,2026-09-25,Llamada,0,Ilocalizado
+GES_000788,OBL_00408,Deskonecta,2026-09-26,SMS,1,Titular no disponible
+GES_000789,OBL_00409,A-ETXA,2026-09-04,Llamada,0,Buzón de mensajes
+GES_000790,OBL_00409,A-ETXA,2026-09-24,WhatsApp,1,Negativa
+GES_000791,OBL_00410,A-ETXA,2026-09-09,WhatsApp,1,Promesa de pago
+GES_000792,OBL_00412,Telepromesa,2026-09-05,WhatsApp,1,Titular no disponible
+GES_000793,OBL_00412,Telepromesa,2026-09-25,WhatsApp,1,Titular no disponible
+GES_000794,OBL_00413,Deskonecta,2026-09-08,SMS,0,Número equivocado
+GES_000795,OBL_00415,Deskonecta,2026-09-02,WhatsApp,0,Buzón de mensajes
+GES_000796,OBL_00415,Deskonecta,2026-09-12,WhatsApp,1,Negativa
+GES_000797,OBL_00415,Deskonecta,2026-09-21,WhatsApp,0,Buzón de mensajes
+GES_000798,OBL_00415,Deskonecta,2026-09-24,WhatsApp,1,Titular no disponible
+GES_000799,OBL_00416,A-ETXA,2026-09-10,WhatsApp,0,Número equivocado
+GES_000800,OBL_00417,Deskonecta,2026-09-28,Llamada,0,Número equivocado
+GES_000801,OBL_00418,Deskonecta,2026-09-10,Llamada,0,Buzón de mensajes
+GES_000802,OBL_00418,Deskonecta,2026-09-12,Llamada,0,Buzón de mensajes
+GES_000803,OBL_00418,Deskonecta,2026-09-14,SMS,1,Promesa de pago
+GES_000804,OBL_00419,Deskonecta,2026-09-20,Llamada,0,Ilocalizado
+GES_000805,OBL_00419,Deskonecta,2026-09-23,SMS,1,Titular no disponible
+GES_000806,OBL_00421,Deskonecta,2026-09-14,Llamada,0,Buzón de mensajes
+GES_000807,OBL_00421,Deskonecta,2026-09-19,Llamada,1,Promesa de pago
+GES_000808,OBL_00422,Telepromesa,2026-09-03,Llamada,0,Ilocalizado
+GES_000809,OBL_00422,Telepromesa,2026-09-21,WhatsApp,0,Número equivocado
+GES_000810,OBL_00422,Telepromesa,2026-09-25,Llamada,0,Buzón de mensajes
+GES_000811,OBL_00423,A-ETXA,2026-09-14,WhatsApp,0,Ilocalizado
+GES_000812,OBL_00423,A-ETXA,2026-09-16,Llamada,0,Número equivocado
+GES_000813,OBL_00423,A-ETXA,2026-09-22,Llamada,0,Número equivocado
+GES_000814,OBL_00423,A-ETXA,2026-09-22,Llamada,0,Buzón de mensajes
+GES_000815,OBL_00425,Telepromesa,2026-09-02,Llamada,0,Ilocalizado
+GES_000816,OBL_00425,Telepromesa,2026-09-06,Llamada,0,Buzón de mensajes
+GES_000817,OBL_00425,Telepromesa,2026-09-26,Llamada,1,Promesa de pago
+GES_000818,OBL_00426,Telepromesa,2026-09-18,Llamada,0,Buzón de mensajes
+GES_000819,OBL_00427,A-ETXA,2026-09-03,Llamada,1,Promesa de pago
+GES_000820,OBL_00427,A-ETXA,2026-09-06,WhatsApp,1,Negativa
+GES_000821,OBL_00427,A-ETXA,2026-09-09,Llamada,0,Número equivocado
+GES_000822,OBL_00427,A-ETXA,2026-09-10,WhatsApp,1,Negativa
+GES_000823,OBL_00430,Deskonecta,2026-09-06,Llamada,1,Promesa de pago
+GES_000824,OBL_00430,Deskonecta,2026-09-06,Llamada,0,Número equivocado
+GES_000825,OBL_00430,Deskonecta,2026-09-17,WhatsApp,0,Ilocalizado
+GES_000826,OBL_00430,Deskonecta,2026-09-27,WhatsApp,1,Titular no disponible
+GES_000827,OBL_00431,A-ETXA,2026-09-12,SMS,0,Número equivocado
+GES_000828,OBL_00431,A-ETXA,2026-09-13,Llamada,0,Número equivocado
+GES_000829,OBL_00431,A-ETXA,2026-09-26,Llamada,0,Buzón de mensajes
+GES_000830,OBL_00432,A-ETXA,2026-09-25,SMS,1,Titular no disponible
+GES_000831,OBL_00433,Deskonecta,2026-09-09,WhatsApp,0,Ilocalizado
+GES_000832,OBL_00435,Deskonecta,2026-09-02,Llamada,1,Titular no disponible
+GES_000833,OBL_00435,Deskonecta,2026-09-12,Llamada,1,Titular no disponible
+GES_000834,OBL_00435,Deskonecta,2026-09-18,Llamada,1,Promesa de pago
+GES_000835,OBL_00437,Deskonecta,2026-09-11,Llamada,0,Ilocalizado
+GES_000836,OBL_00437,Deskonecta,2026-09-17,Llamada,0,Buzón de mensajes
+GES_000837,OBL_00437,Deskonecta,2026-09-25,Llamada,0,Ilocalizado
+GES_000838,OBL_00437,Deskonecta,2026-09-29,Llamada,1,Titular no disponible
+GES_000839,OBL_00438,Telepromesa,2026-09-04,Llamada,1,Titular no disponible
+GES_000840,OBL_00438,Telepromesa,2026-09-23,SMS,0,Ilocalizado
+GES_000841,OBL_00438,Telepromesa,2026-09-28,Llamada,1,Titular no disponible
+GES_000842,OBL_00439,Deskonecta,2026-09-04,Llamada,0,Número equivocado
+GES_000843,OBL_00439,Deskonecta,2026-09-09,WhatsApp,0,Ilocalizado
+GES_000844,OBL_00439,Deskonecta,2026-09-18,WhatsApp,1,Negativa
+GES_000845,OBL_00440,A-ETXA,2026-09-17,WhatsApp,1,Titular no disponible
+GES_000846,OBL_00440,A-ETXA,2026-09-17,SMS,1,Titular no disponible
+GES_000847,OBL_00442,Telepromesa,2026-09-26,Llamada,0,Ilocalizado
+GES_000848,OBL_00443,Deskonecta,2026-09-15,WhatsApp,0,Ilocalizado
+GES_000849,OBL_00443,Deskonecta,2026-09-16,Llamada,0,Número equivocado
+GES_000850,OBL_00443,Deskonecta,2026-09-17,WhatsApp,0,Buzón de mensajes
+GES_000851,OBL_00443,Deskonecta,2026-09-17,WhatsApp,0,Buzón de mensajes
+GES_000852,OBL_00445,Deskonecta,2026-09-07,WhatsApp,0,Ilocalizado
+GES_000853,OBL_00445,Deskonecta,2026-09-11,Llamada,0,Ilocalizado
+GES_000854,OBL_00447,Deskonecta,2026-09-21,Llamada,1,Negativa
+GES_000855,OBL_00448,A-ETXA,2026-09-08,Llamada,0,Ilocalizado
+GES_000856,OBL_00448,A-ETXA,2026-09-20,Llamada,0,Número equivocado
+GES_000857,OBL_00448,A-ETXA,2026-09-24,WhatsApp,0,Buzón de mensajes
+GES_000858,OBL_00448,A-ETXA,2026-09-27,Llamada,0,Número equivocado
+GES_000859,OBL_00449,Telepromesa,2026-09-11,Llamada,0,Ilocalizado
+GES_000860,OBL_00450,Telepromesa,2026-09-08,WhatsApp,1,Titular no disponible
+GES_000861,OBL_00450,Telepromesa,2026-09-19,Llamada,1,Negativa
+GES_000862,OBL_00450,Telepromesa,2026-09-19,Llamada,1,Promesa de pago
+GES_000863,OBL_00451,Telepromesa,2026-09-29,Llamada,0,Buzón de mensajes
+GES_000864,OBL_00452,Telepromesa,2026-09-11,Llamada,0,Número equivocado
+GES_000865,OBL_00452,Telepromesa,2026-09-13,Llamada,0,Ilocalizado
+GES_000866,OBL_00452,Telepromesa,2026-09-22,Llamada,0,Buzón de mensajes
+GES_000867,OBL_00452,Telepromesa,2026-09-24,SMS,0,Ilocalizado
+GES_000868,OBL_00453,Telepromesa,2026-09-14,Llamada,1,Promesa de pago
+GES_000869,OBL_00453,Telepromesa,2026-09-19,Llamada,1,Titular no disponible
+GES_000870,OBL_00454,Deskonecta,2026-09-03,Llamada,0,Buzón de mensajes
+GES_000871,OBL_00454,Deskonecta,2026-09-05,Llamada,1,Promesa de pago
+GES_000872,OBL_00455,Telepromesa,2026-09-03,WhatsApp,0,Buzón de mensajes
+GES_000873,OBL_00455,Telepromesa,2026-09-28,Llamada,0,Número equivocado
+GES_000874,OBL_00456,A-ETXA,2026-09-04,SMS,0,Buzón de mensajes
+GES_000875,OBL_00456,A-ETXA,2026-09-13,SMS,0,Número equivocado
+GES_000876,OBL_00456,A-ETXA,2026-09-22,Llamada,0,Ilocalizado
+GES_000877,OBL_00457,Telepromesa,2026-09-09,Llamada,0,Ilocalizado
+GES_000878,OBL_00457,Telepromesa,2026-09-26,WhatsApp,0,Número equivocado
+GES_000879,OBL_00458,Telepromesa,2026-09-09,Llamada,0,Ilocalizado
+GES_000880,OBL_00458,Telepromesa,2026-09-12,WhatsApp,0,Ilocalizado
+GES_000881,OBL_00459,A-ETXA,2026-09-07,Llamada,0,Buzón de mensajes
+GES_000882,OBL_00460,Deskonecta,2026-09-25,WhatsApp,0,Buzón de mensajes
+GES_000883,OBL_00460,Deskonecta,2026-09-27,WhatsApp,0,Número equivocado
+GES_000884,OBL_00460,Deskonecta,2026-09-29,Llamada,0,Número equivocado
+GES_000885,OBL_00462,Telepromesa,2026-09-23,Llamada,1,Promesa de pago
+GES_000886,OBL_00463,A-ETXA,2026-09-16,Llamada,0,Número equivocado
+GES_000887,OBL_00463,A-ETXA,2026-09-19,WhatsApp,1,Titular no disponible
+GES_000888,OBL_00465,A-ETXA,2026-09-05,WhatsApp,0,Buzón de mensajes
+GES_000889,OBL_00465,A-ETXA,2026-09-06,SMS,0,Ilocalizado
+GES_000890,OBL_00465,A-ETXA,2026-09-12,Llamada,1,Titular no disponible
+GES_000891,OBL_00465,A-ETXA,2026-09-27,Llamada,1,Promesa de pago
+GES_000892,OBL_00466,A-ETXA,2026-09-07,Llamada,0,Buzón de mensajes
+GES_000893,OBL_00466,A-ETXA,2026-09-17,Llamada,0,Ilocalizado
+GES_000894,OBL_00466,A-ETXA,2026-09-24,SMS,1,Negativa
+GES_000895,OBL_00466,A-ETXA,2026-09-28,Llamada,1,Negativa
+GES_000896,OBL_00467,A-ETXA,2026-09-27,SMS,1,Negativa
+GES_000897,OBL_00467,A-ETXA,2026-09-28,WhatsApp,1,Promesa de pago
+GES_000898,OBL_00468,Telepromesa,2026-09-11,Llamada,1,Titular no disponible
+GES_000899,OBL_00468,Telepromesa,2026-09-16,Llamada,1,Negativa
+GES_000900,OBL_00471,Deskonecta,2026-09-17,Llamada,0,Número equivocado
+GES_000901,OBL_00471,Deskonecta,2026-09-20,WhatsApp,0,Buzón de mensajes
+GES_000902,OBL_00472,Telepromesa,2026-09-14,WhatsApp,0,Número equivocado
+GES_000903,OBL_00472,Telepromesa,2026-09-20,WhatsApp,1,Promesa de pago
+GES_000904,OBL_00473,Telepromesa,2026-09-15,SMS,0,Buzón de mensajes
+GES_000905,OBL_00473,Telepromesa,2026-09-21,Llamada,0,Buzón de mensajes
+GES_000906,OBL_00474,Deskonecta,2026-09-15,Llamada,0,Número equivocado
+GES_000907,OBL_00474,Deskonecta,2026-09-16,Llamada,0,Número equivocado
+GES_000908,OBL_00475,A-ETXA,2026-09-13,SMS,0,Buzón de mensajes
+GES_000909,OBL_00475,A-ETXA,2026-09-22,WhatsApp,1,Negativa
+GES_000910,OBL_00476,A-ETXA,2026-09-13,Llamada,0,Número equivocado
+GES_000911,OBL_00476,A-ETXA,2026-09-14,WhatsApp,0,Número equivocado
+GES_000912,OBL_00476,A-ETXA,2026-09-20,Llamada,0,Buzón de mensajes
+GES_000913,OBL_00476,A-ETXA,2026-09-28,Llamada,1,Promesa de pago
+GES_000914,OBL_00477,Telepromesa,2026-09-10,WhatsApp,1,Promesa de pago
+GES_000915,OBL_00479,A-ETXA,2026-09-23,WhatsApp,1,Promesa de pago
+GES_000916,OBL_00479,A-ETXA,2026-09-23,Llamada,1,Titular no disponible
+GES_000917,OBL_00480,A-ETXA,2026-09-13,WhatsApp,0,Buzón de mensajes
+GES_000918,OBL_00481,Deskonecta,2026-09-11,WhatsApp,0,Buzón de mensajes
+GES_000919,OBL_00481,Deskonecta,2026-09-14,Llamada,1,Negativa
+GES_000920,OBL_00482,Telepromesa,2026-09-22,WhatsApp,1,Promesa de pago
+GES_000921,OBL_00483,A-ETXA,2026-09-24,Llamada,0,Ilocalizado
+GES_000922,OBL_00484,A-ETXA,2026-09-14,Llamada,0,Ilocalizado
+GES_000923,OBL_00484,A-ETXA,2026-09-19,SMS,1,Promesa de pago
+GES_000924,OBL_00484,A-ETXA,2026-09-21,Llamada,1,Titular no disponible
+GES_000925,OBL_00485,Telepromesa,2026-09-12,Llamada,1,Titular no disponible
+GES_000926,OBL_00486,A-ETXA,2026-09-25,WhatsApp,0,Número equivocado
+GES_000927,OBL_00488,Deskonecta,2026-09-04,Llamada,0,Buzón de mensajes
+GES_000928,OBL_00488,Deskonecta,2026-09-18,Llamada,1,Promesa de pago
+GES_000929,OBL_00489,Telepromesa,2026-09-08,WhatsApp,0,Ilocalizado
+GES_000930,OBL_00489,Telepromesa,2026-09-12,SMS,0,Buzón de mensajes
+GES_000931,OBL_00489,Telepromesa,2026-09-17,Llamada,0,Ilocalizado
+GES_000932,OBL_00489,Telepromesa,2026-09-19,WhatsApp,1,Promesa de pago
+GES_000933,OBL_00490,Telepromesa,2026-09-17,Llamada,1,Negativa
+GES_000934,OBL_00491,Telepromesa,2026-09-12,Llamada,1,Titular no disponible
+GES_000935,OBL_00492,A-ETXA,2026-09-14,Llamada,0,Número equivocado
+GES_000936,OBL_00492,A-ETXA,2026-09-22,Llamada,0,Número equivocado
+GES_000937,OBL_00492,A-ETXA,2026-09-23,WhatsApp,0,Número equivocado
+GES_000938,OBL_00492,A-ETXA,2026-09-26,Llamada,0,Ilocalizado
+GES_000939,OBL_00493,A-ETXA,2026-09-02,Llamada,0,Ilocalizado
+GES_000940,OBL_00493,A-ETXA,2026-09-12,Llamada,0,Ilocalizado
+GES_000941,OBL_00493,A-ETXA,2026-09-14,Llamada,0,Ilocalizado
+GES_000942,OBL_00493,A-ETXA,2026-09-15,WhatsApp,0,Ilocalizado
+GES_000943,OBL_00494,A-ETXA,2026-09-07,Llamada,0,Buzón de mensajes
+GES_000944,OBL_00494,A-ETXA,2026-09-09,SMS,0,Ilocalizado
+GES_000945,OBL_00494,A-ETXA,2026-09-10,Llamada,0,Ilocalizado
+GES_000946,OBL_00494,A-ETXA,2026-09-18,Llamada,0,Ilocalizado
+GES_000947,OBL_00496,Telepromesa,2026-09-08,Llamada,1,Titular no disponible
+GES_000948,OBL_00496,Telepromesa,2026-09-08,Llamada,0,Número equivocado
+GES_000949,OBL_00496,Telepromesa,2026-09-19,Llamada,1,Titular no disponible
+GES_000950,OBL_00497,Deskonecta,2026-09-29,WhatsApp,1,Negativa
+GES_000951,OBL_00498,Deskonecta,2026-09-06,SMS,0,Buzón de mensajes
+GES_000952,OBL_00498,Deskonecta,2026-09-07,WhatsApp,1,Promesa de pago
+GES_000953,OBL_00499,A-ETXA,2026-09-09,WhatsApp,0,Buzón de mensajes
+GES_000954,OBL_00499,A-ETXA,2026-09-26,Llamada,1,Negativa
+GES_000955,OBL_00500,Deskonecta,2026-09-16,Llamada,1,Negativa
+GES_000956,OBL_00501,A-ETXA,2026-09-16,WhatsApp,1,Promesa de pago
+GES_000957,OBL_00501,A-ETXA,2026-09-17,SMS,0,Número equivocado
+GES_000958,OBL_00501,A-ETXA,2026-09-23,Llamada,0,Número equivocado
+GES_000959,OBL_00501,A-ETXA,2026-09-24,Llamada,1,Promesa de pago
+GES_000960,OBL_00504,A-ETXA,2026-09-20,SMS,0,Número equivocado
+GES_000961,OBL_00504,A-ETXA,2026-09-26,WhatsApp,0,Buzón de mensajes
+GES_000962,OBL_00508,Deskonecta,2026-09-10,WhatsApp,0,Número equivocado
+GES_000963,OBL_00509,Telepromesa,2026-09-05,Llamada,0,Número equivocado
+GES_000964,OBL_00509,Telepromesa,2026-09-14,Llamada,1,Titular no disponible
+GES_000965,OBL_00509,Telepromesa,2026-09-19,Llamada,0,Número equivocado
+GES_000966,OBL_00509,Telepromesa,2026-09-24,Llamada,1,Promesa de pago
+GES_000967,OBL_00510,Deskonecta,2026-09-16,Llamada,0,Número equivocado
+GES_000968,OBL_00510,Deskonecta,2026-09-27,Llamada,0,Ilocalizado
+GES_000969,OBL_00510,Deskonecta,2026-09-29,SMS,0,Número equivocado
+GES_000970,OBL_00511,Telepromesa,2026-09-13,Llamada,1,Titular no disponible
+GES_000971,OBL_00512,Telepromesa,2026-09-07,Llamada,0,Buzón de mensajes
+GES_000972,OBL_00512,Telepromesa,2026-09-07,Llamada,0,Ilocalizado
+GES_000973,OBL_00512,Telepromesa,2026-09-14,WhatsApp,0,Número equivocado
+GES_000974,OBL_00512,Telepromesa,2026-09-15,SMS,0,Ilocalizado
+GES_000975,OBL_00513,Telepromesa,2026-09-02,Llamada,0,Número equivocado
+GES_000976,OBL_00513,Telepromesa,2026-09-05,SMS,0,Buzón de mensajes
+GES_000977,OBL_00513,Telepromesa,2026-09-09,SMS,0,Ilocalizado
+GES_000978,OBL_00513,Telepromesa,2026-09-29,WhatsApp,0,Número equivocado
+GES_000979,OBL_00514,Telepromesa,2026-09-25,Llamada,0,Ilocalizado
+GES_000980,OBL_00516,A-ETXA,2026-09-06,WhatsApp,1,Promesa de pago
+GES_000981,OBL_00516,A-ETXA,2026-09-11,WhatsApp,0,Número equivocado
+GES_000982,OBL_00516,A-ETXA,2026-09-16,Llamada,0,Buzón de mensajes
+GES_000983,OBL_00516,A-ETXA,2026-09-29,WhatsApp,1,Promesa de pago
+GES_000984,OBL_00517,Deskonecta,2026-09-06,Llamada,0,Ilocalizado
+GES_000985,OBL_00517,Deskonecta,2026-09-09,Llamada,0,Número equivocado
+GES_000986,OBL_00517,Deskonecta,2026-09-22,WhatsApp,1,Titular no disponible
+GES_000987,OBL_00518,A-ETXA,2026-09-06,Llamada,0,Número equivocado
+GES_000988,OBL_00518,A-ETXA,2026-09-12,Llamada,1,Promesa de pago
+GES_000989,OBL_00518,A-ETXA,2026-09-13,Llamada,1,Titular no disponible
+GES_000990,OBL_00519,Deskonecta,2026-09-06,Llamada,0,Buzón de mensajes
+GES_000991,OBL_00519,Deskonecta,2026-09-09,WhatsApp,0,Ilocalizado
+GES_000992,OBL_00519,Deskonecta,2026-09-12,Llamada,0,Buzón de mensajes
+GES_000993,OBL_00519,Deskonecta,2026-09-29,Llamada,0,Número equivocado
+GES_000994,OBL_00520,Telepromesa,2026-09-02,WhatsApp,1,Promesa de pago
+GES_000995,OBL_00520,Telepromesa,2026-09-03,WhatsApp,0,Buzón de mensajes
+GES_000996,OBL_00520,Telepromesa,2026-09-19,SMS,1,Titular no disponible
+GES_000997,OBL_00521,Telepromesa,2026-09-24,Llamada,1,Titular no disponible
+GES_000998,OBL_00522,Deskonecta,2026-09-10,SMS,0,Ilocalizado
+GES_000999,OBL_00522,Deskonecta,2026-09-26,Llamada,0,Buzón de mensajes
+GES_001000,OBL_00524,A-ETXA,2026-09-07,Llamada,0,Número equivocado
+GES_001001,OBL_00524,A-ETXA,2026-09-10,WhatsApp,0,Número equivocado
+GES_001002,OBL_00524,A-ETXA,2026-09-14,WhatsApp,0,Ilocalizado
+GES_001003,OBL_00525,Deskonecta,2026-09-13,Llamada,0,Número equivocado
+GES_001004,OBL_00525,Deskonecta,2026-09-24,Llamada,0,Ilocalizado
+GES_001005,OBL_00526,A-ETXA,2026-09-28,WhatsApp,0,Buzón de mensajes
+GES_001006,OBL_00527,A-ETXA,2026-09-22,Llamada,0,Número equivocado
+GES_001007,OBL_00527,A-ETXA,2026-09-28,Llamada,0,Buzón de mensajes
+GES_001008,OBL_00527,A-ETXA,2026-09-29,Llamada,0,Buzón de mensajes
+GES_001009,OBL_00528,A-ETXA,2026-09-02,WhatsApp,0,Número equivocado
+GES_001010,OBL_00528,A-ETXA,2026-09-17,Llamada,0,Número equivocado
+GES_001011,OBL_00528,A-ETXA,2026-09-20,Llamada,0,Número equivocado
+GES_001012,OBL_00529,Telepromesa,2026-09-17,WhatsApp,1,Promesa de pago
+GES_001013,OBL_00529,Telepromesa,2026-09-22,Llamada,1,Promesa de pago
+GES_001014,OBL_00530,A-ETXA,2026-09-04,Llamada,0,Buzón de mensajes
+GES_001015,OBL_00530,A-ETXA,2026-09-06,WhatsApp,0,Buzón de mensajes
+GES_001016,OBL_00530,A-ETXA,2026-09-19,WhatsApp,0,Ilocalizado
+GES_001017,OBL_00530,A-ETXA,2026-09-24,WhatsApp,0,Número equivocado
+GES_001018,OBL_00531,Deskonecta,2026-09-16,Llamada,0,Buzón de mensajes
+GES_001019,OBL_00532,Telepromesa,2026-09-09,Llamada,1,Promesa de pago
+GES_001020,OBL_00533,A-ETXA,2026-09-04,Llamada,0,Ilocalizado
+GES_001021,OBL_00533,A-ETXA,2026-09-14,Llamada,0,Ilocalizado
+GES_001022,OBL_00533,A-ETXA,2026-09-27,WhatsApp,1,Titular no disponible
+GES_001023,OBL_00534,Telepromesa,2026-09-05,Llamada,0,Ilocalizado
+GES_001024,OBL_00534,Telepromesa,2026-09-16,SMS,0,Buzón de mensajes
+GES_001025,OBL_00534,Telepromesa,2026-09-19,Llamada,1,Negativa
+GES_001026,OBL_00535,Deskonecta,2026-09-05,Llamada,1,Titular no disponible
+GES_001027,OBL_00535,Deskonecta,2026-09-18,Llamada,0,Ilocalizado
+GES_001028,OBL_00535,Deskonecta,2026-09-19,WhatsApp,0,Buzón de mensajes
+GES_001029,OBL_00535,Deskonecta,2026-09-25,WhatsApp,1,Titular no disponible
+GES_001030,OBL_00536,Deskonecta,2026-09-09,SMS,1,Promesa de pago
+GES_001031,OBL_00536,Deskonecta,2026-09-12,Llamada,1,Titular no disponible
+GES_001032,OBL_00536,Deskonecta,2026-09-14,SMS,0,Ilocalizado
+GES_001033,OBL_00536,Deskonecta,2026-09-16,Llamada,1,Negativa
+GES_001034,OBL_00537,A-ETXA,2026-09-15,WhatsApp,0,Ilocalizado
+GES_001035,OBL_00537,A-ETXA,2026-09-18,Llamada,0,Buzón de mensajes
+GES_001036,OBL_00537,A-ETXA,2026-09-21,Llamada,0,Buzón de mensajes
+GES_001037,OBL_00537,A-ETXA,2026-09-25,SMS,1,Promesa de pago
+GES_001038,OBL_00538,Deskonecta,2026-09-06,Llamada,1,Titular no disponible
+GES_001039,OBL_00539,A-ETXA,2026-09-08,Llamada,0,Número equivocado
+GES_001040,OBL_00539,A-ETXA,2026-09-12,WhatsApp,0,Ilocalizado
+GES_001041,OBL_00539,A-ETXA,2026-09-21,Llamada,0,Ilocalizado
+GES_001042,OBL_00540,A-ETXA,2026-09-04,Llamada,1,Titular no disponible
+GES_001043,OBL_00541,A-ETXA,2026-09-12,WhatsApp,0,Buzón de mensajes
+GES_001044,OBL_00541,A-ETXA,2026-09-16,Llamada,0,Buzón de mensajes
+GES_001045,OBL_00541,A-ETXA,2026-09-20,SMS,0,Ilocalizado
+GES_001046,OBL_00541,A-ETXA,2026-09-20,Llamada,0,Número equivocado
+GES_001047,OBL_00542,Deskonecta,2026-09-11,Llamada,1,Negativa
+GES_001048,OBL_00542,Deskonecta,2026-09-22,Llamada,1,Titular no disponible
+GES_001049,OBL_00542,Deskonecta,2026-09-28,Llamada,1,Titular no disponible
+GES_001050,OBL_00543,A-ETXA,2026-09-02,Llamada,1,Titular no disponible
+GES_001051,OBL_00544,A-ETXA,2026-09-08,Llamada,0,Ilocalizado
+GES_001052,OBL_00544,A-ETXA,2026-09-19,Llamada,0,Ilocalizado
+GES_001053,OBL_00545,Telepromesa,2026-09-19,WhatsApp,0,Número equivocado
+GES_001054,OBL_00545,Telepromesa,2026-09-24,Llamada,0,Ilocalizado
+GES_001055,OBL_00547,Deskonecta,2026-09-15,WhatsApp,0,Número equivocado
+GES_001056,OBL_00547,Deskonecta,2026-09-22,Llamada,1,Promesa de pago
+GES_001057,OBL_00547,Deskonecta,2026-09-26,WhatsApp,1,Promesa de pago
+GES_001058,OBL_00548,A-ETXA,2026-09-08,Llamada,1,Promesa de pago
+GES_001059,OBL_00548,A-ETXA,2026-09-10,Llamada,1,Negativa
+GES_001060,OBL_00548,A-ETXA,2026-09-18,Llamada,1,Negativa
+GES_001061,OBL_00549,Deskonecta,2026-09-29,Llamada,0,Número equivocado
+GES_001062,OBL_00550,Telepromesa,2026-09-04,Llamada,0,Ilocalizado
+GES_001063,OBL_00550,Telepromesa,2026-09-21,Llamada,0,Ilocalizado
+GES_001064,OBL_00550,Telepromesa,2026-09-26,Llamada,0,Ilocalizado
+GES_001065,OBL_00552,A-ETXA,2026-09-18,Llamada,0,Buzón de mensajes
+GES_001066,OBL_00552,A-ETXA,2026-09-21,SMS,0,Ilocalizado
+GES_001067,OBL_00552,A-ETXA,2026-09-27,SMS,0,Ilocalizado
+GES_001068,OBL_00552,A-ETXA,2026-09-29,SMS,0,Buzón de mensajes
+GES_001069,OBL_00553,Telepromesa,2026-09-10,WhatsApp,0,Ilocalizado
+GES_001070,OBL_00553,Telepromesa,2026-09-17,WhatsApp,0,Número equivocado
+GES_001071,OBL_00554,Deskonecta,2026-09-07,Llamada,0,Ilocalizado
+GES_001072,OBL_00554,Deskonecta,2026-09-27,Llamada,0,Número equivocado
+GES_001073,OBL_00554,Deskonecta,2026-09-28,SMS,0,Buzón de mensajes
+GES_001074,OBL_00554,Deskonecta,2026-09-29,Llamada,0,Ilocalizado
+GES_001075,OBL_00555,Deskonecta,2026-09-10,Llamada,0,Buzón de mensajes
+GES_001076,OBL_00556,Telepromesa,2026-09-04,SMS,0,Buzón de mensajes
+GES_001077,OBL_00556,Telepromesa,2026-09-18,Llamada,0,Número equivocado
+GES_001078,OBL_00556,Telepromesa,2026-09-24,Llamada,0,Buzón de mensajes
+GES_001079,OBL_00556,Telepromesa,2026-09-25,Llamada,0,Buzón de mensajes
+GES_001080,OBL_00558,Telepromesa,2026-09-07,Llamada,0,Número equivocado
+GES_001081,OBL_00558,Telepromesa,2026-09-11,Llamada,1,Negativa
+GES_001082,OBL_00558,Telepromesa,2026-09-23,SMS,1,Titular no disponible
+GES_001083,OBL_00559,A-ETXA,2026-09-06,Llamada,1,Promesa de pago
+GES_001084,OBL_00559,A-ETXA,2026-09-20,Llamada,0,Ilocalizado
+GES_001085,OBL_00559,A-ETXA,2026-09-28,SMS,1,Titular no disponible
+GES_001086,OBL_00560,Deskonecta,2026-09-07,Llamada,0,Ilocalizado
+GES_001087,OBL_00560,Deskonecta,2026-09-07,Llamada,0,Ilocalizado
+GES_001088,OBL_00560,Deskonecta,2026-09-24,SMS,0,Buzón de mensajes
+GES_001089,OBL_00561,A-ETXA,2026-09-09,Llamada,0,Número equivocado
+GES_001090,OBL_00561,A-ETXA,2026-09-09,WhatsApp,1,Promesa de pago
+GES_001091,OBL_00561,A-ETXA,2026-09-25,Llamada,1,Titular no disponible
+GES_001092,OBL_00563,A-ETXA,2026-09-19,Llamada,0,Ilocalizado
+GES_001093,OBL_00564,Deskonecta,2026-09-06,Llamada,0,Buzón de mensajes
+GES_001094,OBL_00564,Deskonecta,2026-09-14,SMS,1,Titular no disponible
+GES_001095,OBL_00565,Deskonecta,2026-09-12,Llamada,1,Titular no disponible
+GES_001096,OBL_00565,Deskonecta,2026-09-14,Llamada,0,Buzón de mensajes
+GES_001097,OBL_00565,Deskonecta,2026-09-17,Llamada,1,Titular no disponible
+GES_001098,OBL_00566,A-ETXA,2026-09-21,WhatsApp,0,Ilocalizado
+GES_001099,OBL_00566,A-ETXA,2026-09-23,WhatsApp,0,Ilocalizado
+GES_001100,OBL_00568,Telepromesa,2026-09-24,Llamada,1,Negativa
+GES_001101,OBL_00569,Deskonecta,2026-09-18,Llamada,1,Titular no disponible
+GES_001102,OBL_00570,Telepromesa,2026-09-09,WhatsApp,1,Negativa
+GES_001103,OBL_00570,Telepromesa,2026-09-16,Llamada,1,Promesa de pago
+GES_001104,OBL_00570,Telepromesa,2026-09-20,Llamada,1,Promesa de pago
+GES_001105,OBL_00571,Telepromesa,2026-09-06,Llamada,0,Número equivocado
+GES_001106,OBL_00571,Telepromesa,2026-09-08,WhatsApp,1,Negativa
+GES_001107,OBL_00571,Telepromesa,2026-09-23,Llamada,1,Promesa de pago
+GES_001108,OBL_00572,A-ETXA,2026-09-02,Llamada,1,Negativa
+GES_001109,OBL_00572,A-ETXA,2026-09-11,WhatsApp,1,Promesa de pago
+GES_001110,OBL_00572,A-ETXA,2026-09-16,Llamada,0,Ilocalizado
+GES_001111,OBL_00572,A-ETXA,2026-09-25,WhatsApp,1,Titular no disponible
+GES_001112,OBL_00573,A-ETXA,2026-09-03,Llamada,0,Número equivocado
+GES_001113,OBL_00574,A-ETXA,2026-09-04,WhatsApp,0,Número equivocado
+GES_001114,OBL_00574,A-ETXA,2026-09-04,Llamada,0,Número equivocado
+GES_001115,OBL_00574,A-ETXA,2026-09-05,Llamada,0,Ilocalizado
+GES_001116,OBL_00574,A-ETXA,2026-09-10,Llamada,0,Número equivocado
+GES_001117,OBL_00575,Deskonecta,2026-09-07,WhatsApp,0,Ilocalizado
+GES_001118,OBL_00575,Deskonecta,2026-09-23,WhatsApp,1,Promesa de pago
+GES_001119,OBL_00576,Telepromesa,2026-09-14,WhatsApp,0,Buzón de mensajes
+GES_001120,OBL_00576,Telepromesa,2026-09-18,Llamada,0,Buzón de mensajes
+GES_001121,OBL_00576,Telepromesa,2026-09-21,WhatsApp,1,Negativa
+GES_001122,OBL_00577,Telepromesa,2026-09-18,Llamada,0,Número equivocado
+GES_001123,OBL_00578,A-ETXA,2026-09-02,Llamada,1,Negativa
+GES_001124,OBL_00578,A-ETXA,2026-09-15,Llamada,1,Promesa de pago
+GES_001125,OBL_00579,Deskonecta,2026-09-18,WhatsApp,0,Número equivocado
+GES_001126,OBL_00580,Deskonecta,2026-09-07,Llamada,0,Ilocalizado
+GES_001127,OBL_00580,Deskonecta,2026-09-08,WhatsApp,0,Número equivocado
+GES_001128,OBL_00580,Deskonecta,2026-09-26,Llamada,0,Ilocalizado
+GES_001129,OBL_00580,Deskonecta,2026-09-28,WhatsApp,0,Número equivocado
+GES_001130,OBL_00582,A-ETXA,2026-09-05,WhatsApp,0,Buzón de mensajes
+GES_001131,OBL_00582,A-ETXA,2026-09-25,WhatsApp,0,Buzón de mensajes
+GES_001132,OBL_00583,Deskonecta,2026-09-13,Llamada,1,Titular no disponible
+GES_001133,OBL_00583,Deskonecta,2026-09-28,Llamada,1,Titular no disponible
+GES_001134,OBL_00584,Deskonecta,2026-09-06,SMS,1,Negativa
+GES_001135,OBL_00585,Deskonecta,2026-09-03,Llamada,0,Ilocalizado
+GES_001136,OBL_00585,Deskonecta,2026-09-08,SMS,1,Negativa
+GES_001137,OBL_00587,Telepromesa,2026-09-13,Llamada,0,Buzón de mensajes
+GES_001138,OBL_00587,Telepromesa,2026-09-22,Llamada,1,Titular no disponible
+GES_001139,OBL_00588,Telepromesa,2026-09-20,Llamada,0,Número equivocado
+GES_001140,OBL_00589,Deskonecta,2026-09-09,Llamada,0,Buzón de mensajes
+GES_001141,OBL_00589,Deskonecta,2026-09-14,SMS,1,Negativa
+GES_001142,OBL_00589,Deskonecta,2026-09-21,WhatsApp,0,Número equivocado
+GES_001143,OBL_00589,Deskonecta,2026-09-24,Llamada,1,Promesa de pago
+GES_001144,OBL_00590,Deskonecta,2026-09-03,WhatsApp,0,Buzón de mensajes
+GES_001145,OBL_00590,Deskonecta,2026-09-08,WhatsApp,0,Número equivocado
+GES_001146,OBL_00590,Deskonecta,2026-09-09,Llamada,0,Número equivocado
+GES_001147,OBL_00590,Deskonecta,2026-09-10,WhatsApp,0,Número equivocado
+GES_001148,OBL_00591,Telepromesa,2026-09-09,Llamada,0,Buzón de mensajes
+GES_001149,OBL_00591,Telepromesa,2026-09-17,WhatsApp,0,Ilocalizado
+GES_001150,OBL_00591,Telepromesa,2026-09-23,Llamada,0,Número equivocado
+GES_001151,OBL_00593,Deskonecta,2026-09-10,Llamada,1,Negativa
+GES_001152,OBL_00594,A-ETXA,2026-09-20,WhatsApp,0,Número equivocado
+GES_001153,OBL_00594,A-ETXA,2026-09-27,Llamada,0,Número equivocado
+GES_001154,OBL_00595,A-ETXA,2026-09-06,Llamada,0,Ilocalizado
+GES_001155,OBL_00595,A-ETXA,2026-09-21,WhatsApp,1,Promesa de pago
+GES_001156,OBL_00595,A-ETXA,2026-09-22,Llamada,1,Titular no disponible
+GES_001157,OBL_00595,A-ETXA,2026-09-28,Llamada,1,Negativa
+GES_001158,OBL_00596,Deskonecta,2026-09-06,Llamada,0,Ilocalizado
+GES_001159,OBL_00596,Deskonecta,2026-09-14,Llamada,0,Buzón de mensajes
+GES_001160,OBL_00596,Deskonecta,2026-09-19,Llamada,0,Ilocalizado
+GES_001161,OBL_00596,Deskonecta,2026-09-27,SMS,0,Número equivocado
+GES_001162,OBL_00597,A-ETXA,2026-09-25,Llamada,0,Buzón de mensajes
+GES_001163,OBL_00598,A-ETXA,2026-09-02,WhatsApp,0,Buzón de mensajes
+GES_001164,OBL_00599,A-ETXA,2026-09-15,SMS,1,Promesa de pago
+GES_001165,OBL_00599,A-ETXA,2026-09-17,WhatsApp,1,Negativa
+GES_001166,OBL_00601,Deskonecta,2026-09-03,SMS,0,Número equivocado
+GES_001167,OBL_00601,Deskonecta,2026-09-04,Llamada,0,Número equivocado
+GES_001168,OBL_00601,Deskonecta,2026-09-07,Llamada,1,Negativa
+GES_001169,OBL_00602,Deskonecta,2026-09-09,Llamada,0,Número equivocado
+GES_001170,OBL_00602,Deskonecta,2026-09-16,Llamada,1,Negativa
+GES_001171,OBL_00603,Deskonecta,2026-09-12,Llamada,0,Número equivocado
+GES_001172,OBL_00603,Deskonecta,2026-09-23,Llamada,0,Ilocalizado
+GES_001173,OBL_00603,Deskonecta,2026-09-24,Llamada,0,Buzón de mensajes
+GES_001174,OBL_00604,Telepromesa,2026-09-07,SMS,0,Número equivocado
+GES_001175,OBL_00604,Telepromesa,2026-09-14,WhatsApp,1,Promesa de pago
+GES_001176,OBL_00604,Telepromesa,2026-09-19,Llamada,0,Buzón de mensajes
+GES_001177,OBL_00604,Telepromesa,2026-09-28,Llamada,1,Negativa
+GES_001178,OBL_00605,Deskonecta,2026-09-25,WhatsApp,0,Buzón de mensajes
+GES_001179,OBL_00605,Deskonecta,2026-09-29,Llamada,0,Número equivocado
+GES_001180,OBL_00607,A-ETXA,2026-09-06,WhatsApp,0,Buzón de mensajes
+GES_001181,OBL_00607,A-ETXA,2026-09-19,Llamada,0,Ilocalizado
+GES_001182,OBL_00608,Telepromesa,2026-09-12,WhatsApp,1,Titular no disponible
+GES_001183,OBL_00608,Telepromesa,2026-09-18,Llamada,0,Ilocalizado
+GES_001184,OBL_00608,Telepromesa,2026-09-18,SMS,0,Ilocalizado
+GES_001185,OBL_00608,Telepromesa,2026-09-20,SMS,1,Promesa de pago
+GES_001186,OBL_00610,Deskonecta,2026-09-04,Llamada,0,Número equivocado
+GES_001187,OBL_00610,Deskonecta,2026-09-04,WhatsApp,1,Titular no disponible
+GES_001188,OBL_00610,Deskonecta,2026-09-16,Llamada,1,Negativa
+GES_001189,OBL_00611,A-ETXA,2026-09-13,WhatsApp,0,Ilocalizado
+GES_001190,OBL_00611,A-ETXA,2026-09-16,Llamada,1,Promesa de pago
+GES_001191,OBL_00612,Telepromesa,2026-09-15,WhatsApp,1,Titular no disponible
+GES_001192,OBL_00613,Deskonecta,2026-09-13,Llamada,0,Número equivocado
+GES_001193,OBL_00613,Deskonecta,2026-09-14,Llamada,0,Número equivocado
+GES_001194,OBL_00613,Deskonecta,2026-09-28,SMS,1,Promesa de pago
+GES_001195,OBL_00614,Telepromesa,2026-09-06,WhatsApp,0,Número equivocado
+GES_001196,OBL_00614,Telepromesa,2026-09-22,WhatsApp,0,Número equivocado
+GES_001197,OBL_00614,Telepromesa,2026-09-22,Llamada,0,Ilocalizado
+GES_001198,OBL_00614,Telepromesa,2026-09-23,Llamada,1,Promesa de pago
+GES_001199,OBL_00615,Telepromesa,2026-09-17,Llamada,0,Número equivocado
+GES_001200,OBL_00615,Telepromesa,2026-09-26,Llamada,0,Ilocalizado
+GES_001201,OBL_00616,A-ETXA,2026-09-27,Llamada,0,Ilocalizado
+GES_001202,OBL_00618,Telepromesa,2026-09-02,Llamada,0,Número equivocado
+GES_001203,OBL_00618,Telepromesa,2026-09-10,WhatsApp,0,Buzón de mensajes
+GES_001204,OBL_00618,Telepromesa,2026-09-13,Llamada,0,Número equivocado
+GES_001205,OBL_00618,Telepromesa,2026-09-17,SMS,0,Ilocalizado
+GES_001206,OBL_00619,Telepromesa,2026-09-15,Llamada,1,Negativa
+GES_001207,OBL_00619,Telepromesa,2026-09-18,Llamada,1,Negativa
+GES_001208,OBL_00619,Telepromesa,2026-09-25,Llamada,1,Titular no disponible
+GES_001209,OBL_00620,Deskonecta,2026-09-26,Llamada,1,Negativa
+GES_001210,OBL_00621,Telepromesa,2026-09-04,Llamada,0,Ilocalizado
+GES_001211,OBL_00621,Telepromesa,2026-09-14,Llamada,0,Buzón de mensajes
+GES_001212,OBL_00621,Telepromesa,2026-09-15,Llamada,0,Buzón de mensajes
+GES_001213,OBL_00622,A-ETXA,2026-09-07,Llamada,0,Ilocalizado
+GES_001214,OBL_00622,A-ETXA,2026-09-10,Llamada,0,Buzón de mensajes
+GES_001215,OBL_00622,A-ETXA,2026-09-14,Llamada,0,Número equivocado
+GES_001216,OBL_00622,A-ETXA,2026-09-16,Llamada,0,Buzón de mensajes
+GES_001217,OBL_00623,Telepromesa,2026-09-06,Llamada,0,Número equivocado
+GES_001218,OBL_00623,Telepromesa,2026-09-19,SMS,0,Buzón de mensajes
+GES_001219,OBL_00624,Telepromesa,2026-09-05,Llamada,0,Ilocalizado
+GES_001220,OBL_00625,A-ETXA,2026-09-09,Llamada,0,Número equivocado
+GES_001221,OBL_00625,A-ETXA,2026-09-21,Llamada,0,Buzón de mensajes
+GES_001222,OBL_00625,A-ETXA,2026-09-22,Llamada,0,Ilocalizado
+GES_001223,OBL_00626,Deskonecta,2026-09-04,WhatsApp,1,Titular no disponible
+GES_001224,OBL_00627,Telepromesa,2026-09-06,Llamada,1,Negativa
+GES_001225,OBL_00627,Telepromesa,2026-09-08,WhatsApp,0,Buzón de mensajes
+GES_001226,OBL_00627,Telepromesa,2026-09-23,Llamada,1,Promesa de pago
+GES_001227,OBL_00628,Telepromesa,2026-09-20,Llamada,1,Titular no disponible
+GES_001228,OBL_00629,Deskonecta,2026-09-03,Llamada,0,Ilocalizado
+GES_001229,OBL_00629,Deskonecta,2026-09-09,Llamada,1,Negativa
+GES_001230,OBL_00629,Deskonecta,2026-09-14,Llamada,1,Promesa de pago
+GES_001231,OBL_00629,Deskonecta,2026-09-28,Llamada,1,Promesa de pago
+GES_001232,OBL_00631,A-ETXA,2026-09-28,Llamada,0,Número equivocado
+GES_001233,OBL_00633,Telepromesa,2026-09-13,Llamada,1,Promesa de pago
+GES_001234,OBL_00633,Telepromesa,2026-09-14,SMS,1,Titular no disponible
+GES_001235,OBL_00633,Telepromesa,2026-09-15,Llamada,0,Buzón de mensajes
+GES_001236,OBL_00633,Telepromesa,2026-09-20,Llamada,1,Titular no disponible
+GES_001237,OBL_00634,Telepromesa,2026-09-03,Llamada,0,Número equivocado
+GES_001238,OBL_00634,Telepromesa,2026-09-18,Llamada,1,Promesa de pago
+GES_001239,OBL_00635,A-ETXA,2026-09-03,Llamada,0,Número equivocado
+GES_001240,OBL_00635,A-ETXA,2026-09-04,SMS,0,Buzón de mensajes
+GES_001241,OBL_00635,A-ETXA,2026-09-14,Llamada,0,Ilocalizado
+GES_001242,OBL_00635,A-ETXA,2026-09-20,Llamada,0,Número equivocado
+GES_001243,OBL_00636,Deskonecta,2026-09-02,SMS,0,Número equivocado
+GES_001244,OBL_00636,Deskonecta,2026-09-10,SMS,0,Número equivocado
+GES_001245,OBL_00636,Deskonecta,2026-09-16,SMS,0,Número equivocado
+GES_001246,OBL_00636,Deskonecta,2026-09-24,WhatsApp,0,Buzón de mensajes
+GES_001247,OBL_00637,Deskonecta,2026-09-20,SMS,0,Ilocalizado
+GES_001248,OBL_00640,Telepromesa,2026-09-13,Llamada,0,Número equivocado
+GES_001249,OBL_00640,Telepromesa,2026-09-17,Llamada,0,Ilocalizado
+GES_001250,OBL_00640,Telepromesa,2026-09-21,SMS,0,Buzón de mensajes
+GES_001251,OBL_00641,Deskonecta,2026-09-03,Llamada,0,Número equivocado
+GES_001252,OBL_00641,Deskonecta,2026-09-25,Llamada,1,Negativa
+GES_001253,OBL_00641,Deskonecta,2026-09-29,Llamada,1,Titular no disponible
+GES_001254,OBL_00643,Deskonecta,2026-09-16,WhatsApp,1,Titular no disponible
+GES_001255,OBL_00643,Deskonecta,2026-09-18,Llamada,1,Titular no disponible
+GES_001256,OBL_00643,Deskonecta,2026-09-21,Llamada,1,Negativa
+GES_001257,OBL_00643,Deskonecta,2026-09-23,SMS,1,Titular no disponible
+GES_001258,OBL_00645,A-ETXA,2026-09-17,Llamada,0,Número equivocado
+GES_001259,OBL_00646,A-ETXA,2026-09-04,Llamada,0,Buzón de mensajes
+GES_001260,OBL_00646,A-ETXA,2026-09-10,WhatsApp,0,Número equivocado
+GES_001261,OBL_00647,Telepromesa,2026-09-17,Llamada,0,Buzón de mensajes
+GES_001262,OBL_00647,Telepromesa,2026-09-18,WhatsApp,0,Ilocalizado
+GES_001263,OBL_00647,Telepromesa,2026-09-24,Llamada,0,Ilocalizado
+GES_001264,OBL_00647,Telepromesa,2026-09-28,WhatsApp,0,Número equivocado
+GES_001265,OBL_00648,Telepromesa,2026-09-17,Llamada,0,Buzón de mensajes
+GES_001266,OBL_00648,Telepromesa,2026-09-22,Llamada,0,Ilocalizado
+GES_001267,OBL_00648,Telepromesa,2026-09-24,SMS,0,Buzón de mensajes
+GES_001268,OBL_00649,Deskonecta,2026-09-02,SMS,0,Número equivocado
+GES_001269,OBL_00649,Deskonecta,2026-09-04,WhatsApp,0,Ilocalizado
+GES_001270,OBL_00649,Deskonecta,2026-09-16,Llamada,0,Número equivocado
+GES_001271,OBL_00649,Deskonecta,2026-09-27,Llamada,0,Número equivocado
+GES_001272,OBL_00650,Telepromesa,2026-09-10,Llamada,1,Promesa de pago
+GES_001273,OBL_00651,Telepromesa,2026-09-05,SMS,1,Promesa de pago
+GES_001274,OBL_00651,Telepromesa,2026-09-06,Llamada,0,Buzón de mensajes
+GES_001275,OBL_00651,Telepromesa,2026-09-12,Llamada,1,Negativa
+GES_001276,OBL_00652,Deskonecta,2026-09-03,Llamada,1,Promesa de pago
+GES_001277,OBL_00652,Deskonecta,2026-09-03,Llamada,0,Número equivocado
+GES_001278,OBL_00652,Deskonecta,2026-09-24,Llamada,1,Promesa de pago
+GES_001279,OBL_00652,Deskonecta,2026-09-25,Llamada,1,Promesa de pago
+GES_001280,OBL_00653,Telepromesa,2026-09-16,Llamada,0,Buzón de mensajes
+GES_001281,OBL_00653,Telepromesa,2026-09-25,WhatsApp,0,Ilocalizado
+GES_001282,OBL_00654,Telepromesa,2026-09-26,WhatsApp,1,Negativa
+GES_001283,OBL_00655,A-ETXA,2026-09-09,WhatsApp,0,Número equivocado
+GES_001284,OBL_00655,A-ETXA,2026-09-19,WhatsApp,1,Negativa
+GES_001285,OBL_00656,Telepromesa,2026-09-17,Llamada,0,Buzón de mensajes
+GES_001286,OBL_00656,Telepromesa,2026-09-28,WhatsApp,1,Titular no disponible
+GES_001287,OBL_00656,Telepromesa,2026-09-28,Llamada,0,Número equivocado
+GES_001288,OBL_00656,Telepromesa,2026-09-28,Llamada,1,Negativa
+GES_001289,OBL_00657,Telepromesa,2026-09-03,Llamada,0,Ilocalizado
+GES_001290,OBL_00657,Telepromesa,2026-09-20,WhatsApp,0,Número equivocado
+GES_001291,OBL_00657,Telepromesa,2026-09-29,SMS,0,Ilocalizado
+GES_001292,OBL_00657,Telepromesa,2026-09-29,Llamada,0,Ilocalizado
+GES_001293,OBL_00659,Telepromesa,2026-09-10,WhatsApp,0,Número equivocado
+GES_001294,OBL_00659,Telepromesa,2026-09-16,Llamada,1,Negativa
+GES_001295,OBL_00660,Telepromesa,2026-09-04,WhatsApp,0,Buzón de mensajes
+GES_001296,OBL_00660,Telepromesa,2026-09-20,Llamada,1,Titular no disponible
+GES_001297,OBL_00660,Telepromesa,2026-09-24,Llamada,1,Negativa
+GES_001298,OBL_00661,Deskonecta,2026-09-17,WhatsApp,0,Buzón de mensajes
+GES_001299,OBL_00661,Deskonecta,2026-09-17,Llamada,1,Promesa de pago
+GES_001300,OBL_00663,A-ETXA,2026-09-05,SMS,0,Número equivocado
+GES_001301,OBL_00663,A-ETXA,2026-09-14,Llamada,1,Negativa
+GES_001302,OBL_00664,Telepromesa,2026-09-09,SMS,0,Ilocalizado
+GES_001303,OBL_00664,Telepromesa,2026-09-10,Llamada,1,Negativa
+GES_001304,OBL_00664,Telepromesa,2026-09-21,WhatsApp,0,Buzón de mensajes
+GES_001305,OBL_00664,Telepromesa,2026-09-28,WhatsApp,1,Promesa de pago
+GES_001306,OBL_00665,Telepromesa,2026-09-06,Llamada,0,Buzón de mensajes
+GES_001307,OBL_00665,Telepromesa,2026-09-10,Llamada,0,Buzón de mensajes
+GES_001308,OBL_00665,Telepromesa,2026-09-14,Llamada,0,Ilocalizado
+GES_001309,OBL_00665,Telepromesa,2026-09-16,Llamada,0,Buzón de mensajes
+GES_001310,OBL_00666,A-ETXA,2026-09-04,Llamada,0,Ilocalizado
+GES_001311,OBL_00666,A-ETXA,2026-09-07,Llamada,0,Número equivocado
+GES_001312,OBL_00666,A-ETXA,2026-09-11,Llamada,0,Ilocalizado
+GES_001313,OBL_00666,A-ETXA,2026-09-27,Llamada,0,Ilocalizado
+GES_001314,OBL_00667,Telepromesa,2026-09-02,Llamada,0,Buzón de mensajes
+GES_001315,OBL_00667,Telepromesa,2026-09-06,Llamada,1,Promesa de pago
+GES_001316,OBL_00667,Telepromesa,2026-09-11,WhatsApp,0,Buzón de mensajes
+GES_001317,OBL_00667,Telepromesa,2026-09-24,Llamada,1,Negativa
+GES_001318,OBL_00668,Deskonecta,2026-09-12,Llamada,1,Titular no disponible
+GES_001319,OBL_00670,Telepromesa,2026-09-08,SMS,1,Titular no disponible
+GES_001320,OBL_00671,A-ETXA,2026-09-13,SMS,1,Promesa de pago
+GES_001321,OBL_00672,Telepromesa,2026-09-08,Llamada,0,Buzón de mensajes
+GES_001322,OBL_00672,Telepromesa,2026-09-12,Llamada,1,Titular no disponible
+GES_001323,OBL_00673,A-ETXA,2026-09-25,Llamada,0,Número equivocado
+GES_001324,OBL_00673,A-ETXA,2026-09-25,Llamada,0,Número equivocado
+GES_001325,OBL_00674,Telepromesa,2026-09-02,Llamada,0,Buzón de mensajes
+GES_001326,OBL_00674,Telepromesa,2026-09-07,SMS,0,Número equivocado
+GES_001327,OBL_00674,Telepromesa,2026-09-13,Llamada,0,Ilocalizado
+GES_001328,OBL_00674,Telepromesa,2026-09-27,Llamada,0,Ilocalizado
+GES_001329,OBL_00675,A-ETXA,2026-09-02,WhatsApp,0,Buzón de mensajes
+GES_001330,OBL_00675,A-ETXA,2026-09-03,WhatsApp,0,Buzón de mensajes
+GES_001331,OBL_00675,A-ETXA,2026-09-07,Llamada,0,Número equivocado
+GES_001332,OBL_00675,A-ETXA,2026-09-19,Llamada,0,Buzón de mensajes
+GES_001333,OBL_00677,Telepromesa,2026-09-12,Llamada,0,Ilocalizado
+GES_001334,OBL_00677,Telepromesa,2026-09-28,WhatsApp,1,Promesa de pago
+GES_001335,OBL_00678,A-ETXA,2026-09-19,WhatsApp,0,Número equivocado
+GES_001336,OBL_00678,A-ETXA,2026-09-29,Llamada,0,Buzón de mensajes
+GES_001337,OBL_00679,Telepromesa,2026-09-24,WhatsApp,1,Negativa
+GES_001338,OBL_00680,A-ETXA,2026-09-04,WhatsApp,0,Ilocalizado
+GES_001339,OBL_00680,A-ETXA,2026-09-21,WhatsApp,0,Número equivocado
+GES_001340,OBL_00682,A-ETXA,2026-09-23,Llamada,1,Negativa
+GES_001341,OBL_00683,A-ETXA,2026-09-08,Llamada,0,Buzón de mensajes
+GES_001342,OBL_00685,Telepromesa,2026-09-21,Llamada,0,Número equivocado
+GES_001343,OBL_00685,Telepromesa,2026-09-24,SMS,1,Promesa de pago
+GES_001344,OBL_00686,Telepromesa,2026-09-02,Llamada,0,Ilocalizado
+GES_001345,OBL_00686,Telepromesa,2026-09-22,Llamada,0,Buzón de mensajes
+GES_001346,OBL_00686,Telepromesa,2026-09-23,Llamada,0,Número equivocado
+GES_001347,OBL_00686,Telepromesa,2026-09-26,Llamada,0,Ilocalizado
+GES_001348,OBL_00687,Deskonecta,2026-09-17,WhatsApp,0,Ilocalizado
+GES_001349,OBL_00687,Deskonecta,2026-09-18,Llamada,0,Número equivocado
+GES_001350,OBL_00688,Telepromesa,2026-09-11,Llamada,1,Negativa
+GES_001351,OBL_00690,Deskonecta,2026-09-08,Llamada,1,Titular no disponible
+GES_001352,OBL_00690,Deskonecta,2026-09-28,Llamada,1,Negativa
+GES_001353,OBL_00691,Deskonecta,2026-09-06,SMS,0,Buzón de mensajes
+GES_001354,OBL_00691,Deskonecta,2026-09-09,SMS,1,Titular no disponible
+GES_001355,OBL_00691,Deskonecta,2026-09-14,SMS,0,Número equivocado
+GES_001356,OBL_00691,Deskonecta,2026-09-24,Llamada,1,Negativa
+GES_001357,OBL_00692,Deskonecta,2026-09-10,SMS,0,Número equivocado
+GES_001358,OBL_00692,Deskonecta,2026-09-15,Llamada,1,Negativa
+GES_001359,OBL_00692,Deskonecta,2026-09-21,Llamada,1,Negativa
+GES_001360,OBL_00693,Telepromesa,2026-09-14,Llamada,1,Negativa
+GES_001361,OBL_00694,Deskonecta,2026-09-09,Llamada,0,Ilocalizado
+GES_001362,OBL_00694,Deskonecta,2026-09-09,SMS,0,Ilocalizado
+GES_001363,OBL_00694,Deskonecta,2026-09-19,WhatsApp,0,Ilocalizado
+GES_001364,OBL_00695,Telepromesa,2026-09-04,Llamada,0,Ilocalizado
+GES_001365,OBL_00695,Telepromesa,2026-09-22,Llamada,0,Buzón de mensajes
+GES_001366,OBL_00696,A-ETXA,2026-09-03,Llamada,0,Buzón de mensajes
+GES_001367,OBL_00696,A-ETXA,2026-09-04,WhatsApp,0,Ilocalizado
+GES_001368,OBL_00696,A-ETXA,2026-09-20,Llamada,0,Número equivocado
+GES_001369,OBL_00697,A-ETXA,2026-09-02,SMS,0,Número equivocado
+GES_001370,OBL_00697,A-ETXA,2026-09-27,WhatsApp,1,Negativa
+GES_001371,OBL_00698,Telepromesa,2026-09-04,WhatsApp,0,Ilocalizado
+GES_001372,OBL_00698,Telepromesa,2026-09-09,SMS,1,Negativa
+GES_001373,OBL_00698,Telepromesa,2026-09-25,SMS,1,Promesa de pago
+GES_001374,OBL_00699,Telepromesa,2026-09-18,WhatsApp,1,Negativa
+GES_001375,OBL_00699,Telepromesa,2026-09-19,WhatsApp,0,Buzón de mensajes
+GES_001376,OBL_00699,Telepromesa,2026-09-20,WhatsApp,0,Buzón de mensajes
+GES_001377,OBL_00699,Telepromesa,2026-09-25,Llamada,1,Negativa
+GES_001378,OBL_00700,Deskonecta,2026-09-25,WhatsApp,0,Ilocalizado
+GES_001379,OBL_00700,Deskonecta,2026-09-27,Llamada,0,Ilocalizado
+GES_001380,OBL_00701,Telepromesa,2026-09-03,WhatsApp,0,Número equivocado
+GES_001381,OBL_00701,Telepromesa,2026-09-07,Llamada,1,Promesa de pago
+GES_001382,OBL_00701,Telepromesa,2026-09-14,Llamada,1,Promesa de pago
+GES_001383,OBL_00702,A-ETXA,2026-09-22,Llamada,1,Titular no disponible
+GES_001384,OBL_00703,A-ETXA,2026-09-10,Llamada,1,Promesa de pago
+GES_001385,OBL_00704,A-ETXA,2026-09-23,SMS,1,Titular no disponible
+GES_001386,OBL_00705,Telepromesa,2026-09-29,Llamada,0,Buzón de mensajes
+GES_001387,OBL_00706,A-ETXA,2026-09-21,WhatsApp,0,Ilocalizado
+GES_001388,OBL_00706,A-ETXA,2026-09-24,SMS,0,Ilocalizado
+GES_001389,OBL_00707,Deskonecta,2026-09-12,Llamada,0,Número equivocado
+GES_001390,OBL_00707,Deskonecta,2026-09-12,WhatsApp,0,Ilocalizado
+GES_001391,OBL_00707,Deskonecta,2026-09-23,Llamada,0,Número equivocado
+GES_001392,OBL_00709,Deskonecta,2026-09-07,Llamada,0,Buzón de mensajes
+GES_001393,OBL_00709,Deskonecta,2026-09-07,SMS,0,Número equivocado
+GES_001394,OBL_00709,Deskonecta,2026-09-16,Llamada,0,Buzón de mensajes
+GES_001395,OBL_00709,Deskonecta,2026-09-17,Llamada,0,Ilocalizado
+GES_001396,OBL_00710,Telepromesa,2026-09-11,Llamada,0,Ilocalizado
+GES_001397,OBL_00710,Telepromesa,2026-09-14,Llamada,1,Titular no disponible
+GES_001398,OBL_00710,Telepromesa,2026-09-15,Llamada,1,Promesa de pago
+GES_001399,OBL_00710,Telepromesa,2026-09-28,Llamada,1,Titular no disponible
+GES_001400,OBL_00712,Telepromesa,2026-09-16,SMS,1,Promesa de pago
+GES_001401,OBL_00713,A-ETXA,2026-09-05,WhatsApp,0,Número equivocado
+GES_001402,OBL_00713,A-ETXA,2026-09-06,Llamada,0,Ilocalizado
+GES_001403,OBL_00713,A-ETXA,2026-09-12,SMS,0,Número equivocado
+GES_001404,OBL_00713,A-ETXA,2026-09-17,Llamada,0,Buzón de mensajes
+GES_001405,OBL_00715,Deskonecta,2026-09-09,Llamada,0,Buzón de mensajes
+GES_001406,OBL_00715,Deskonecta,2026-09-16,Llamada,1,Titular no disponible
+GES_001407,OBL_00715,Deskonecta,2026-09-24,WhatsApp,1,Titular no disponible
+GES_001408,OBL_00717,Deskonecta,2026-09-14,Llamada,0,Buzón de mensajes
+GES_001409,OBL_00717,Deskonecta,2026-09-16,Llamada,0,Buzón de mensajes
+GES_001410,OBL_00717,Deskonecta,2026-09-20,Llamada,0,Número equivocado
+GES_001411,OBL_00717,Deskonecta,2026-09-23,Llamada,0,Ilocalizado
+GES_001412,OBL_00719,Telepromesa,2026-09-10,Llamada,0,Ilocalizado
+GES_001413,OBL_00720,Telepromesa,2026-09-29,Llamada,1,Negativa
+GES_001414,OBL_00721,Deskonecta,2026-09-18,Llamada,0,Buzón de mensajes
+GES_001415,OBL_00723,A-ETXA,2026-09-02,WhatsApp,1,Promesa de pago
+GES_001416,OBL_00723,A-ETXA,2026-09-19,Llamada,1,Negativa
+GES_001417,OBL_00723,A-ETXA,2026-09-21,Llamada,0,Buzón de mensajes
+GES_001418,OBL_00723,A-ETXA,2026-09-22,Llamada,1,Titular no disponible
+GES_001419,OBL_00725,Telepromesa,2026-09-04,Llamada,1,Titular no disponible
+GES_001420,OBL_00725,Telepromesa,2026-09-19,Llamada,1,Promesa de pago
+GES_001421,OBL_00725,Telepromesa,2026-09-27,Llamada,1,Titular no disponible
+GES_001422,OBL_00726,A-ETXA,2026-09-20,Llamada,1,Promesa de pago
+GES_001423,OBL_00727,A-ETXA,2026-09-03,Llamada,1,Titular no disponible
+GES_001424,OBL_00727,A-ETXA,2026-09-26,Llamada,1,Negativa
+GES_001425,OBL_00728,Telepromesa,2026-09-15,Llamada,0,Ilocalizado
+GES_001426,OBL_00728,Telepromesa,2026-09-21,SMS,1,Titular no disponible
+GES_001427,OBL_00728,Telepromesa,2026-09-27,Llamada,1,Negativa
+GES_001428,OBL_00728,Telepromesa,2026-09-27,Llamada,1,Titular no disponible
+GES_001429,OBL_00729,Deskonecta,2026-09-03,Llamada,0,Buzón de mensajes
+GES_001430,OBL_00729,Deskonecta,2026-09-05,Llamada,0,Buzón de mensajes
+GES_001431,OBL_00729,Deskonecta,2026-09-08,Llamada,0,Buzón de mensajes
+GES_001432,OBL_00729,Deskonecta,2026-09-11,Llamada,0,Ilocalizado
+GES_001433,OBL_00730,A-ETXA,2026-09-11,WhatsApp,1,Promesa de pago
+GES_001434,OBL_00730,A-ETXA,2026-09-26,Llamada,0,Número equivocado
+GES_001435,OBL_00730,A-ETXA,2026-09-26,WhatsApp,1,Promesa de pago
+GES_001436,OBL_00732,A-ETXA,2026-09-13,WhatsApp,1,Promesa de pago
+GES_001437,OBL_00734,Telepromesa,2026-09-02,SMS,0,Buzón de mensajes
+GES_001438,OBL_00734,Telepromesa,2026-09-04,Llamada,0,Número equivocado
+GES_001439,OBL_00734,Telepromesa,2026-09-19,Llamada,0,Buzón de mensajes
+GES_001440,OBL_00734,Telepromesa,2026-09-25,Llamada,0,Número equivocado
+GES_001441,OBL_00735,A-ETXA,2026-09-15,WhatsApp,0,Número equivocado
+GES_001442,OBL_00735,A-ETXA,2026-09-16,Llamada,0,Ilocalizado
+GES_001443,OBL_00736,Telepromesa,2026-09-08,WhatsApp,0,Ilocalizado
+GES_001444,OBL_00736,Telepromesa,2026-09-09,SMS,0,Buzón de mensajes
+GES_001445,OBL_00736,Telepromesa,2026-09-09,Llamada,1,Negativa
+GES_001446,OBL_00736,Telepromesa,2026-09-29,Llamada,1,Negativa
+GES_001447,OBL_00737,A-ETXA,2026-09-05,Llamada,1,Titular no disponible
+GES_001448,OBL_00737,A-ETXA,2026-09-06,SMS,0,Ilocalizado
+GES_001449,OBL_00737,A-ETXA,2026-09-08,WhatsApp,1,Promesa de pago
+GES_001450,OBL_00738,Telepromesa,2026-09-03,Llamada,1,Titular no disponible
+GES_001451,OBL_00740,Telepromesa,2026-09-18,Llamada,0,Número equivocado
+GES_001452,OBL_00741,A-ETXA,2026-09-05,Llamada,0,Buzón de mensajes
+GES_001453,OBL_00741,A-ETXA,2026-09-07,Llamada,0,Número equivocado
+GES_001454,OBL_00741,A-ETXA,2026-09-25,Llamada,0,Buzón de mensajes
+GES_001455,OBL_00742,Telepromesa,2026-09-11,Llamada,0,Buzón de mensajes
+GES_001456,OBL_00742,Telepromesa,2026-09-19,Llamada,1,Negativa
+GES_001457,OBL_00742,Telepromesa,2026-09-24,SMS,1,Negativa
+GES_001458,OBL_00743,A-ETXA,2026-09-05,Llamada,0,Número equivocado
+GES_001459,OBL_00743,A-ETXA,2026-09-09,Llamada,0,Número equivocado
+GES_001460,OBL_00743,A-ETXA,2026-09-24,Llamada,1,Negativa
+GES_001461,OBL_00743,A-ETXA,2026-09-26,Llamada,1,Negativa
+GES_001462,OBL_00744,Telepromesa,2026-09-10,Llamada,0,Número equivocado
+GES_001463,OBL_00744,Telepromesa,2026-09-29,Llamada,0,Buzón de mensajes
+GES_001464,OBL_00745,Deskonecta,2026-09-13,WhatsApp,1,Titular no disponible
+GES_001465,OBL_00745,Deskonecta,2026-09-29,Llamada,1,Titular no disponible
+GES_001466,OBL_00749,Telepromesa,2026-09-27,Llamada,0,Ilocalizado
+GES_001467,OBL_00749,Telepromesa,2026-09-28,Llamada,1,Titular no disponible
+GES_001468,OBL_00750,A-ETXA,2026-09-22,Llamada,0,Ilocalizado
+GES_001469,OBL_00750,A-ETXA,2026-09-22,WhatsApp,0,Ilocalizado
+GES_001470,OBL_00750,A-ETXA,2026-09-27,WhatsApp,1,Negativa
+GES_001471,OBL_00752,A-ETXA,2026-09-09,SMS,1,Titular no disponible
+GES_001472,OBL_00753,Telepromesa,2026-09-10,Llamada,0,Buzón de mensajes
+GES_001473,OBL_00753,Telepromesa,2026-09-14,Llamada,0,Número equivocado
+GES_001474,OBL_00753,Telepromesa,2026-09-15,Llamada,0,Número equivocado
+GES_001475,OBL_00753,Telepromesa,2026-09-21,SMS,0,Número equivocado
+GES_001476,OBL_00754,Telepromesa,2026-09-11,SMS,0,Ilocalizado
+GES_001477,OBL_00754,Telepromesa,2026-09-12,Llamada,0,Número equivocado
+GES_001478,OBL_00754,Telepromesa,2026-09-22,Llamada,0,Buzón de mensajes
+GES_001479,OBL_00754,Telepromesa,2026-09-29,Llamada,1,Negativa
+GES_001480,OBL_00755,A-ETXA,2026-09-09,Llamada,0,Buzón de mensajes
+GES_001481,OBL_00756,A-ETXA,2026-09-06,Llamada,0,Número equivocado
+GES_001482,OBL_00756,A-ETXA,2026-09-19,Llamada,0,Número equivocado
+GES_001483,OBL_00756,A-ETXA,2026-09-22,Llamada,0,Ilocalizado
+GES_001484,OBL_00756,A-ETXA,2026-09-23,Llamada,0,Ilocalizado
+GES_001485,OBL_00757,Telepromesa,2026-09-06,WhatsApp,1,Negativa
+GES_001486,OBL_00759,Telepromesa,2026-09-02,Llamada,0,Número equivocado
+GES_001487,OBL_00759,Telepromesa,2026-09-08,Llamada,0,Ilocalizado
+GES_001488,OBL_00759,Telepromesa,2026-09-09,WhatsApp,0,Buzón de mensajes
+GES_001489,OBL_00760,A-ETXA,2026-09-07,SMS,0,Ilocalizado
+GES_001490,OBL_00760,A-ETXA,2026-09-21,Llamada,1,Promesa de pago
+GES_001491,OBL_00761,Telepromesa,2026-09-14,SMS,0,Buzón de mensajes
+GES_001492,OBL_00761,Telepromesa,2026-09-16,Llamada,0,Buzón de mensajes
+GES_001493,OBL_00761,Telepromesa,2026-09-22,WhatsApp,0,Buzón de mensajes
+GES_001494,OBL_00761,Telepromesa,2026-09-26,WhatsApp,1,Negativa
+GES_001495,OBL_00762,A-ETXA,2026-09-15,WhatsApp,0,Número equivocado
+GES_001496,OBL_00764,Deskonecta,2026-09-06,WhatsApp,1,Titular no disponible
+GES_001497,OBL_00764,Deskonecta,2026-09-25,Llamada,0,Ilocalizado
+GES_001498,OBL_00764,Deskonecta,2026-09-25,WhatsApp,1,Titular no disponible
+GES_001499,OBL_00765,Deskonecta,2026-09-27,Llamada,0,Buzón de mensajes
+GES_001500,OBL_00765,Deskonecta,2026-09-29,Llamada,1,Negativa
+GES_001501,OBL_00766,Telepromesa,2026-09-22,Llamada,0,Ilocalizado
+GES_001502,OBL_00766,Telepromesa,2026-09-26,Llamada,0,Número equivocado
+GES_001503,OBL_00766,Telepromesa,2026-09-28,SMS,1,Negativa
+GES_001504,OBL_00767,Telepromesa,2026-09-14,Llamada,0,Buzón de mensajes
+GES_001505,OBL_00767,Telepromesa,2026-09-21,SMS,0,Buzón de mensajes
+GES_001506,OBL_00769,A-ETXA,2026-09-03,WhatsApp,0,Ilocalizado
+GES_001507,OBL_00769,A-ETXA,2026-09-05,Llamada,0,Buzón de mensajes
+GES_001508,OBL_00769,A-ETXA,2026-09-10,Llamada,0,Buzón de mensajes
+GES_001509,OBL_00769,A-ETXA,2026-09-27,Llamada,0,Ilocalizado
+GES_001510,OBL_00772,Deskonecta,2026-09-19,Llamada,0,Buzón de mensajes
+GES_001511,OBL_00772,Deskonecta,2026-09-19,Llamada,0,Número equivocado
+GES_001512,OBL_00772,Deskonecta,2026-09-26,WhatsApp,0,Ilocalizado
+GES_001513,OBL_00773,Telepromesa,2026-09-02,SMS,0,Número equivocado
+GES_001514,OBL_00774,Deskonecta,2026-09-14,SMS,1,Promesa de pago
+GES_001515,OBL_00774,Deskonecta,2026-09-19,SMS,0,Buzón de mensajes
+GES_001516,OBL_00774,Deskonecta,2026-09-23,Llamada,1,Promesa de pago
+GES_001517,OBL_00774,Deskonecta,2026-09-27,Llamada,1,Promesa de pago
+GES_001518,OBL_00775,Deskonecta,2026-09-02,Llamada,0,Buzón de mensajes
+GES_001519,OBL_00775,Deskonecta,2026-09-20,WhatsApp,1,Promesa de pago
+GES_001520,OBL_00776,Deskonecta,2026-09-03,WhatsApp,0,Buzón de mensajes
+GES_001521,OBL_00776,Deskonecta,2026-09-18,Llamada,1,Promesa de pago
+GES_001522,OBL_00776,Deskonecta,2026-09-18,Llamada,1,Promesa de pago
+GES_001523,OBL_00778,Deskonecta,2026-09-11,WhatsApp,0,Número equivocado
+GES_001524,OBL_00779,Deskonecta,2026-09-19,Llamada,0,Buzón de mensajes
+GES_001525,OBL_00779,Deskonecta,2026-09-23,Llamada,0,Buzón de mensajes
+GES_001526,OBL_00780,Deskonecta,2026-09-11,Llamada,0,Ilocalizado
+GES_001527,OBL_00780,Deskonecta,2026-09-12,SMS,0,Número equivocado
+GES_001528,OBL_00782,A-ETXA,2026-09-22,Llamada,0,Número equivocado
+GES_001529,OBL_00782,A-ETXA,2026-09-25,Llamada,0,Buzón de mensajes
+GES_001530,OBL_00786,A-ETXA,2026-09-11,SMS,0,Ilocalizado
+GES_001531,OBL_00786,A-ETXA,2026-09-12,WhatsApp,0,Número equivocado
+GES_001532,OBL_00786,A-ETXA,2026-09-23,Llamada,1,Promesa de pago
+GES_001533,OBL_00786,A-ETXA,2026-09-25,Llamada,1,Negativa
+GES_001534,OBL_00787,A-ETXA,2026-09-09,Llamada,0,Ilocalizado
+GES_001535,OBL_00787,A-ETXA,2026-09-14,WhatsApp,0,Ilocalizado
+GES_001536,OBL_00788,Telepromesa,2026-09-05,WhatsApp,1,Titular no disponible
+GES_001537,OBL_00789,Telepromesa,2026-09-05,Llamada,0,Buzón de mensajes
+GES_001538,OBL_00789,Telepromesa,2026-09-11,Llamada,0,Número equivocado
+GES_001539,OBL_00789,Telepromesa,2026-09-27,Llamada,1,Promesa de pago
+GES_001540,OBL_00790,Telepromesa,2026-09-12,Llamada,1,Titular no disponible
+GES_001541,OBL_00791,Deskonecta,2026-09-16,SMS,0,Buzón de mensajes
+GES_001542,OBL_00791,Deskonecta,2026-09-17,Llamada,0,Ilocalizado
+GES_001543,OBL_00791,Deskonecta,2026-09-19,SMS,0,Buzón de mensajes
+GES_001544,OBL_00791,Deskonecta,2026-09-22,Llamada,0,Número equivocado
+GES_001545,OBL_00792,Telepromesa,2026-09-10,Llamada,1,Titular no disponible
+GES_001546,OBL_00792,Telepromesa,2026-09-14,Llamada,0,Ilocalizado
+GES_001547,OBL_00792,Telepromesa,2026-09-26,Llamada,0,Número equivocado
+GES_001548,OBL_00792,Telepromesa,2026-09-29,WhatsApp,1,Negativa
+GES_001549,OBL_00793,Telepromesa,2026-09-18,Llamada,0,Número equivocado
+GES_001550,OBL_00793,Telepromesa,2026-09-28,WhatsApp,0,Número equivocado
+GES_001551,OBL_00794,Telepromesa,2026-09-13,Llamada,1,Titular no disponible
+GES_001552,OBL_00794,Telepromesa,2026-09-17,Llamada,0,Número equivocado
+GES_001553,OBL_00794,Telepromesa,2026-09-24,Llamada,1,Promesa de pago
+GES_001554,OBL_00794,Telepromesa,2026-09-25,SMS,1,Titular no disponible
+GES_001555,OBL_00795,A-ETXA,2026-09-12,SMS,0,Número equivocado
+GES_001556,OBL_00796,A-ETXA,2026-09-06,Llamada,0,Número equivocado
+GES_001557,OBL_00796,A-ETXA,2026-09-15,Llamada,0,Número equivocado
+GES_001558,OBL_00796,A-ETXA,2026-09-16,Llamada,0,Ilocalizado
+GES_001559,OBL_00796,A-ETXA,2026-09-24,Llamada,1,Negativa
+GES_001560,OBL_00797,Deskonecta,2026-09-04,Llamada,0,Buzón de mensajes
+GES_001561,OBL_00797,Deskonecta,2026-09-23,SMS,1,Titular no disponible
+GES_001562,OBL_00798,A-ETXA,2026-09-06,Llamada,0,Ilocalizado
+GES_001563,OBL_00798,A-ETXA,2026-09-17,Llamada,0,Ilocalizado
+GES_001564,OBL_00798,A-ETXA,2026-09-23,SMS,0,Buzón de mensajes
+GES_001565,OBL_00798,A-ETXA,2026-09-25,Llamada,0,Buzón de mensajes
+GES_001566,OBL_00799,Telepromesa,2026-09-07,Llamada,1,Promesa de pago
+GES_001567,OBL_00799,Telepromesa,2026-09-07,Llamada,0,Número equivocado
+GES_001568,OBL_00799,Telepromesa,2026-09-28,Llamada,1,Promesa de pago
+GES_001569,OBL_00801,A-ETXA,2026-09-10,Llamada,0,Ilocalizado
+GES_001570,OBL_00801,A-ETXA,2026-09-11,WhatsApp,1,Negativa
+GES_001571,OBL_00801,A-ETXA,2026-09-27,Llamada,1,Titular no disponible
+GES_001572,OBL_00802,Deskonecta,2026-09-17,Llamada,0,Ilocalizado
+GES_001573,OBL_00802,Deskonecta,2026-09-18,Llamada,1,Promesa de pago
+GES_001574,OBL_00804,Telepromesa,2026-09-19,Llamada,0,Número equivocado
+GES_001575,OBL_00804,Telepromesa,2026-09-20,Llamada,1,Negativa
+GES_001576,OBL_00804,Telepromesa,2026-09-23,SMS,1,Negativa
+GES_001577,OBL_00806,Telepromesa,2026-09-11,SMS,1,Negativa
+GES_001578,OBL_00807,A-ETXA,2026-09-26,Llamada,0,Buzón de mensajes
+GES_001579,OBL_00807,A-ETXA,2026-09-26,Llamada,0,Número equivocado
+GES_001580,OBL_00807,A-ETXA,2026-09-27,Llamada,0,Buzón de mensajes
+GES_001581,OBL_00808,Telepromesa,2026-09-16,Llamada,1,Titular no disponible
+GES_001582,OBL_00810,A-ETXA,2026-09-25,SMS,0,Número equivocado
+GES_001583,OBL_00812,A-ETXA,2026-09-03,Llamada,0,Ilocalizado
+GES_001584,OBL_00812,A-ETXA,2026-09-11,WhatsApp,0,Número equivocado
+GES_001585,OBL_00812,A-ETXA,2026-09-26,WhatsApp,0,Ilocalizado
+GES_001586,OBL_00813,Telepromesa,2026-09-20,Llamada,0,Buzón de mensajes
+GES_001587,OBL_00814,A-ETXA,2026-09-11,Llamada,0,Número equivocado
+GES_001588,OBL_00815,Deskonecta,2026-09-13,Llamada,1,Negativa
+GES_001589,OBL_00815,Deskonecta,2026-09-27,Llamada,1,Titular no disponible
+GES_001590,OBL_00818,Telepromesa,2026-09-05,WhatsApp,0,Número equivocado
+GES_001591,OBL_00818,Telepromesa,2026-09-10,Llamada,0,Ilocalizado
+GES_001592,OBL_00818,Telepromesa,2026-09-26,Llamada,0,Ilocalizado
+GES_001593,OBL_00819,Deskonecta,2026-09-07,Llamada,0,Ilocalizado
+GES_001594,OBL_00819,Deskonecta,2026-09-10,Llamada,0,Número equivocado
+GES_001595,OBL_00819,Deskonecta,2026-09-13,WhatsApp,0,Ilocalizado
+GES_001596,OBL_00819,Deskonecta,2026-09-21,WhatsApp,0,Ilocalizado
+GES_001597,OBL_00820,Telepromesa,2026-09-08,Llamada,1,Promesa de pago
+GES_001598,OBL_00820,Telepromesa,2026-09-26,SMS,1,Promesa de pago
+GES_001599,OBL_00820,Telepromesa,2026-09-27,Llamada,1,Promesa de pago
+GES_001600,OBL_00821,Telepromesa,2026-09-25,Llamada,1,Titular no disponible
+GES_001601,OBL_00822,Telepromesa,2026-09-17,Llamada,0,Número equivocado
+GES_001602,OBL_00823,Telepromesa,2026-09-14,SMS,1,Promesa de pago
+GES_001603,OBL_00824,Telepromesa,2026-09-06,SMS,0,Número equivocado
+GES_001604,OBL_00824,Telepromesa,2026-09-21,Llamada,1,Negativa
+GES_001605,OBL_00826,A-ETXA,2026-09-21,WhatsApp,0,Buzón de mensajes
+GES_001606,OBL_00826,A-ETXA,2026-09-22,Llamada,1,Titular no disponible
+GES_001607,OBL_00827,Telepromesa,2026-09-07,Llamada,0,Buzón de mensajes
+GES_001608,OBL_00827,Telepromesa,2026-09-11,Llamada,0,Ilocalizado
+GES_001609,OBL_00827,Telepromesa,2026-09-22,Llamada,1,Titular no disponible
+GES_001610,OBL_00828,A-ETXA,2026-09-03,Llamada,0,Número equivocado
+GES_001611,OBL_00828,A-ETXA,2026-09-05,SMS,0,Ilocalizado
+GES_001612,OBL_00828,A-ETXA,2026-09-14,WhatsApp,0,Ilocalizado
+GES_001613,OBL_00828,A-ETXA,2026-09-28,Llamada,0,Número equivocado
+GES_001614,OBL_00829,Telepromesa,2026-09-07,WhatsApp,0,Ilocalizado
+GES_001615,OBL_00829,Telepromesa,2026-09-11,SMS,0,Ilocalizado
+GES_001616,OBL_00829,Telepromesa,2026-09-24,Llamada,0,Número equivocado
+GES_001617,OBL_00832,Deskonecta,2026-09-08,WhatsApp,0,Buzón de mensajes
+GES_001618,OBL_00832,Deskonecta,2026-09-22,SMS,0,Ilocalizado
+GES_001619,OBL_00832,Deskonecta,2026-09-22,SMS,0,Ilocalizado
+GES_001620,OBL_00832,Deskonecta,2026-09-28,WhatsApp,0,Buzón de mensajes
+GES_001621,OBL_00833,Deskonecta,2026-09-06,Llamada,1,Promesa de pago
+GES_001622,OBL_00833,Deskonecta,2026-09-09,Llamada,1,Negativa
+GES_001623,OBL_00834,A-ETXA,2026-09-03,Llamada,1,Negativa
+GES_001624,OBL_00834,A-ETXA,2026-09-12,Llamada,1,Negativa
+GES_001625,OBL_00834,A-ETXA,2026-09-18,WhatsApp,1,Titular no disponible
+GES_001626,OBL_00834,A-ETXA,2026-09-24,WhatsApp,1,Negativa
+GES_001627,OBL_00835,A-ETXA,2026-09-03,SMS,0,Ilocalizado
+GES_001628,OBL_00835,A-ETXA,2026-09-07,Llamada,0,Buzón de mensajes
+GES_001629,OBL_00835,A-ETXA,2026-09-16,WhatsApp,0,Ilocalizado
+GES_001630,OBL_00836,Telepromesa,2026-09-19,Llamada,1,Negativa
+GES_001631,OBL_00837,Telepromesa,2026-09-17,Llamada,1,Promesa de pago
+GES_001632,OBL_00837,Telepromesa,2026-09-29,Llamada,1,Titular no disponible
+GES_001633,OBL_00838,Deskonecta,2026-09-11,Llamada,1,Titular no disponible
+GES_001634,OBL_00838,Deskonecta,2026-09-13,SMS,0,Número equivocado
+GES_001635,OBL_00838,Deskonecta,2026-09-19,WhatsApp,0,Ilocalizado
+GES_001636,OBL_00838,Deskonecta,2026-09-20,SMS,1,Titular no disponible
+GES_001637,OBL_00840,Deskonecta,2026-09-10,WhatsApp,0,Ilocalizado
+GES_001638,OBL_00840,Deskonecta,2026-09-26,SMS,1,Promesa de pago
+GES_001639,OBL_00844,Deskonecta,2026-09-09,SMS,0,Buzón de mensajes
+GES_001640,OBL_00844,Deskonecta,2026-09-13,Llamada,0,Ilocalizado
+GES_001641,OBL_00846,Telepromesa,2026-09-02,Llamada,1,Promesa de pago
+GES_001642,OBL_00848,Telepromesa,2026-09-05,Llamada,1,Promesa de pago
+GES_001643,OBL_00850,Telepromesa,2026-09-28,WhatsApp,0,Buzón de mensajes
+GES_001644,OBL_00851,Deskonecta,2026-09-02,Llamada,0,Buzón de mensajes
+GES_001645,OBL_00851,Deskonecta,2026-09-07,Llamada,1,Negativa
+GES_001646,OBL_00852,A-ETXA,2026-09-12,Llamada,1,Promesa de pago
+GES_001647,OBL_00853,A-ETXA,2026-09-10,WhatsApp,0,Ilocalizado
+GES_001648,OBL_00853,A-ETXA,2026-09-24,Llamada,0,Ilocalizado
+GES_001649,OBL_00854,A-ETXA,2026-09-08,Llamada,0,Buzón de mensajes
+GES_001650,OBL_00854,A-ETXA,2026-09-25,WhatsApp,0,Ilocalizado
+GES_001651,OBL_00854,A-ETXA,2026-09-26,Llamada,1,Promesa de pago
+GES_001652,OBL_00854,A-ETXA,2026-09-28,SMS,1,Negativa
+GES_001653,OBL_00855,Telepromesa,2026-09-05,Llamada,0,Ilocalizado
+GES_001654,OBL_00855,Telepromesa,2026-09-15,Llamada,0,Ilocalizado
+GES_001655,OBL_00855,Telepromesa,2026-09-20,Llamada,0,Ilocalizado
+GES_001656,OBL_00856,A-ETXA,2026-09-08,Llamada,1,Negativa
+GES_001657,OBL_00857,A-ETXA,2026-09-19,Llamada,0,Ilocalizado
+GES_001658,OBL_00857,A-ETXA,2026-09-20,Llamada,0,Ilocalizado
+GES_001659,OBL_00857,A-ETXA,2026-09-24,WhatsApp,0,Ilocalizado
+GES_001660,OBL_00857,A-ETXA,2026-09-24,Llamada,0,Número equivocado
+GES_001661,OBL_00858,Deskonecta,2026-09-08,WhatsApp,0,Buzón de mensajes
+GES_001662,OBL_00858,Deskonecta,2026-09-08,SMS,0,Ilocalizado
+GES_001663,OBL_00858,Deskonecta,2026-09-08,Llamada,0,Número equivocado
+GES_001664,OBL_00858,Deskonecta,2026-09-29,Llamada,0,Número equivocado
+GES_001665,OBL_00859,Deskonecta,2026-09-02,Llamada,0,Ilocalizado
+GES_001666,OBL_00859,Deskonecta,2026-09-06,Llamada,0,Ilocalizado
+GES_001667,OBL_00859,Deskonecta,2026-09-16,WhatsApp,0,Número equivocado
+GES_001668,OBL_00859,Deskonecta,2026-09-23,Llamada,0,Buzón de mensajes
+GES_001669,OBL_00860,Telepromesa,2026-09-17,SMS,1,Titular no disponible
+GES_001670,OBL_00861,Telepromesa,2026-09-16,Llamada,0,Buzón de mensajes
+GES_001671,OBL_00861,Telepromesa,2026-09-21,SMS,1,Titular no disponible
+GES_001672,OBL_00861,Telepromesa,2026-09-26,WhatsApp,1,Negativa
+GES_001673,OBL_00861,Telepromesa,2026-09-26,Llamada,1,Promesa de pago
+GES_001674,OBL_00862,Telepromesa,2026-09-25,SMS,0,Buzón de mensajes
+GES_001675,OBL_00863,Deskonecta,2026-09-26,WhatsApp,1,Promesa de pago
+GES_001676,OBL_00864,Deskonecta,2026-09-02,Llamada,0,Ilocalizado
+GES_001677,OBL_00864,Deskonecta,2026-09-09,WhatsApp,0,Número equivocado
+GES_001678,OBL_00864,Deskonecta,2026-09-13,Llamada,0,Ilocalizado
+GES_001679,OBL_00864,Deskonecta,2026-09-28,Llamada,0,Ilocalizado
+GES_001680,OBL_00867,Deskonecta,2026-09-13,Llamada,0,Número equivocado
+GES_001681,OBL_00867,Deskonecta,2026-09-22,WhatsApp,1,Titular no disponible
+GES_001682,OBL_00868,Telepromesa,2026-09-04,SMS,1,Promesa de pago
+GES_001683,OBL_00869,A-ETXA,2026-09-02,Llamada,0,Ilocalizado
+GES_001684,OBL_00869,A-ETXA,2026-09-07,WhatsApp,1,Negativa
+GES_001685,OBL_00869,A-ETXA,2026-09-09,WhatsApp,0,Ilocalizado
+GES_001686,OBL_00869,A-ETXA,2026-09-19,SMS,1,Titular no disponible
+GES_001687,OBL_00870,Telepromesa,2026-09-12,Llamada,0,Número equivocado
+GES_001688,OBL_00870,Telepromesa,2026-09-13,Llamada,0,Número equivocado
+GES_001689,OBL_00870,Telepromesa,2026-09-26,Llamada,1,Titular no disponible
+GES_001690,OBL_00871,Deskonecta,2026-09-10,Llamada,0,Ilocalizado
+GES_001691,OBL_00872,Telepromesa,2026-09-06,Llamada,0,Número equivocado
+GES_001692,OBL_00872,Telepromesa,2026-09-08,WhatsApp,0,Número equivocado
+GES_001693,OBL_00872,Telepromesa,2026-09-16,Llamada,1,Promesa de pago
+GES_001694,OBL_00873,A-ETXA,2026-09-04,Llamada,0,Número equivocado
+GES_001695,OBL_00873,A-ETXA,2026-09-20,Llamada,1,Negativa
+GES_001696,OBL_00875,Telepromesa,2026-09-08,WhatsApp,0,Buzón de mensajes
+GES_001697,OBL_00875,Telepromesa,2026-09-13,SMS,0,Número equivocado
+GES_001698,OBL_00875,Telepromesa,2026-09-25,Llamada,0,Ilocalizado
+GES_001699,OBL_00875,Telepromesa,2026-09-26,Llamada,1,Promesa de pago
+GES_001700,OBL_00877,A-ETXA,2026-09-13,WhatsApp,0,Ilocalizado
+GES_001701,OBL_00877,A-ETXA,2026-09-22,Llamada,0,Número equivocado
+GES_001702,OBL_00877,A-ETXA,2026-09-23,WhatsApp,1,Negativa
+GES_001703,OBL_00879,Telepromesa,2026-09-05,WhatsApp,0,Buzón de mensajes
+GES_001704,OBL_00879,Telepromesa,2026-09-18,Llamada,0,Número equivocado
+GES_001705,OBL_00879,Telepromesa,2026-09-23,SMS,0,Ilocalizado
+GES_001706,OBL_00879,Telepromesa,2026-09-25,Llamada,0,Ilocalizado
+GES_001707,OBL_00881,Telepromesa,2026-09-02,WhatsApp,0,Número equivocado
+GES_001708,OBL_00881,Telepromesa,2026-09-26,Llamada,0,Número equivocado
+GES_001709,OBL_00882,Deskonecta,2026-09-13,WhatsApp,1,Negativa
+GES_001710,OBL_00882,Deskonecta,2026-09-14,Llamada,0,Ilocalizado
+GES_001711,OBL_00882,Deskonecta,2026-09-15,SMS,0,Ilocalizado
+GES_001712,OBL_00882,Deskonecta,2026-09-28,Llamada,1,Promesa de pago
+GES_001713,OBL_00883,A-ETXA,2026-09-11,Llamada,0,Ilocalizado
+GES_001714,OBL_00883,A-ETXA,2026-09-13,Llamada,0,Ilocalizado
+GES_001715,OBL_00883,A-ETXA,2026-09-22,Llamada,0,Ilocalizado
+GES_001716,OBL_00884,Telepromesa,2026-09-04,Llamada,0,Número equivocado
+GES_001717,OBL_00884,Telepromesa,2026-09-08,Llamada,1,Promesa de pago
+GES_001718,OBL_00884,Telepromesa,2026-09-29,WhatsApp,1,Negativa
+GES_001719,OBL_00885,A-ETXA,2026-09-04,Llamada,0,Ilocalizado
+GES_001720,OBL_00885,A-ETXA,2026-09-29,WhatsApp,0,Número equivocado
+GES_001721,OBL_00887,Telepromesa,2026-09-22,Llamada,0,Buzón de mensajes
+GES_001722,OBL_00887,Telepromesa,2026-09-24,Llamada,1,Negativa
+GES_001723,OBL_00887,Telepromesa,2026-09-24,WhatsApp,1,Negativa
+GES_001724,OBL_00888,A-ETXA,2026-09-07,SMS,1,Promesa de pago
+GES_001725,OBL_00888,A-ETXA,2026-09-09,Llamada,0,Número equivocado
+GES_001726,OBL_00888,A-ETXA,2026-09-18,SMS,1,Negativa
+GES_001727,OBL_00888,A-ETXA,2026-09-25,WhatsApp,1,Titular no disponible
+GES_001728,OBL_00889,A-ETXA,2026-09-28,Llamada,1,Promesa de pago
+GES_001729,OBL_00890,Deskonecta,2026-09-16,Llamada,0,Número equivocado
+GES_001730,OBL_00890,Deskonecta,2026-09-29,Llamada,0,Buzón de mensajes
+GES_001731,OBL_00892,A-ETXA,2026-09-10,WhatsApp,1,Negativa
+GES_001732,OBL_00892,A-ETXA,2026-09-11,SMS,1,Promesa de pago
+GES_001733,OBL_00892,A-ETXA,2026-09-13,WhatsApp,1,Promesa de pago
+GES_001734,OBL_00892,A-ETXA,2026-09-14,SMS,1,Negativa
+GES_001735,OBL_00893,Telepromesa,2026-09-05,Llamada,0,Buzón de mensajes
+GES_001736,OBL_00893,Telepromesa,2026-09-23,WhatsApp,1,Negativa
+GES_001737,OBL_00894,A-ETXA,2026-09-09,SMS,0,Ilocalizado
+GES_001738,OBL_00894,A-ETXA,2026-09-27,Llamada,0,Número equivocado
+GES_001739,OBL_00894,A-ETXA,2026-09-28,SMS,0,Número equivocado
+GES_001740,OBL_00896,Deskonecta,2026-09-04,Llamada,0,Número equivocado
+GES_001741,OBL_00897,Telepromesa,2026-09-14,WhatsApp,0,Número equivocado
+GES_001742,OBL_00897,Telepromesa,2026-09-21,Llamada,1,Negativa
+GES_001743,OBL_00899,Telepromesa,2026-09-23,Llamada,1,Negativa
+GES_001744,OBL_00899,Telepromesa,2026-09-29,Llamada,1,Negativa
+GES_001745,OBL_00900,A-ETXA,2026-09-09,WhatsApp,0,Número equivocado
+GES_001746,OBL_00900,A-ETXA,2026-09-11,Llamada,0,Ilocalizado
+GES_001747,OBL_00900,A-ETXA,2026-09-20,Llamada,1,Titular no disponible
+GES_001748,OBL_00901,Deskonecta,2026-09-09,SMS,0,Ilocalizado
+GES_001749,OBL_00901,Deskonecta,2026-09-22,Llamada,1,Titular no disponible
+GES_001750,OBL_00904,Telepromesa,2026-09-11,Llamada,1,Negativa
+GES_001751,OBL_00905,Deskonecta,2026-09-08,WhatsApp,0,Número equivocado
+GES_001752,OBL_00905,Deskonecta,2026-09-14,WhatsApp,0,Número equivocado
+GES_001753,OBL_00905,Deskonecta,2026-09-21,SMS,0,Ilocalizado
+GES_001754,OBL_00906,Telepromesa,2026-09-14,Llamada,0,Ilocalizado
+GES_001755,OBL_00906,Telepromesa,2026-09-22,Llamada,0,Ilocalizado
+GES_001756,OBL_00906,Telepromesa,2026-09-24,Llamada,1,Promesa de pago
+GES_001757,OBL_00906,Telepromesa,2026-09-25,SMS,1,Negativa
+GES_001758,OBL_00907,Deskonecta,2026-09-18,Llamada,0,Ilocalizado
+GES_001759,OBL_00907,Deskonecta,2026-09-20,Llamada,0,Buzón de mensajes
+GES_001760,OBL_00907,Deskonecta,2026-09-24,Llamada,0,Número equivocado
+GES_001761,OBL_00907,Deskonecta,2026-09-29,Llamada,0,Buzón de mensajes
+GES_001762,OBL_00908,A-ETXA,2026-09-23,SMS,0,Número equivocado
+GES_001763,OBL_00909,Deskonecta,2026-09-02,Llamada,1,Promesa de pago
+GES_001764,OBL_00910,A-ETXA,2026-09-06,Llamada,0,Ilocalizado
+GES_001765,OBL_00910,A-ETXA,2026-09-09,Llamada,0,Ilocalizado
+GES_001766,OBL_00910,A-ETXA,2026-09-14,WhatsApp,0,Buzón de mensajes
+GES_001767,OBL_00910,A-ETXA,2026-09-18,Llamada,0,Número equivocado
+GES_001768,OBL_00912,Telepromesa,2026-09-11,Llamada,0,Buzón de mensajes
+GES_001769,OBL_00912,Telepromesa,2026-09-16,WhatsApp,0,Buzón de mensajes
+GES_001770,OBL_00912,Telepromesa,2026-09-17,Llamada,1,Promesa de pago
+GES_001771,OBL_00913,Deskonecta,2026-09-06,Llamada,0,Ilocalizado
+GES_001772,OBL_00913,Deskonecta,2026-09-06,SMS,0,Buzón de mensajes
+GES_001773,OBL_00913,Deskonecta,2026-09-18,Llamada,0,Buzón de mensajes
+GES_001774,OBL_00913,Deskonecta,2026-09-24,Llamada,0,Número equivocado
+GES_001775,OBL_00914,Telepromesa,2026-09-18,Llamada,1,Titular no disponible
+GES_001776,OBL_00915,A-ETXA,2026-09-03,WhatsApp,0,Ilocalizado
+GES_001777,OBL_00915,A-ETXA,2026-09-04,WhatsApp,0,Buzón de mensajes
+GES_001778,OBL_00915,A-ETXA,2026-09-08,WhatsApp,0,Buzón de mensajes
+GES_001779,OBL_00915,A-ETXA,2026-09-20,SMS,0,Ilocalizado
+GES_001780,OBL_00916,A-ETXA,2026-09-23,Llamada,0,Buzón de mensajes
+GES_001781,OBL_00918,A-ETXA,2026-09-09,WhatsApp,1,Titular no disponible
+GES_001782,OBL_00918,A-ETXA,2026-09-14,Llamada,1,Titular no disponible
+GES_001783,OBL_00918,A-ETXA,2026-09-27,Llamada,1,Titular no disponible
+GES_001784,OBL_00918,A-ETXA,2026-09-27,Llamada,1,Titular no disponible
+GES_001785,OBL_00920,Telepromesa,2026-09-22,Llamada,1,Negativa
+GES_001786,OBL_00920,Telepromesa,2026-09-24,Llamada,1,Promesa de pago
+GES_001787,OBL_00921,A-ETXA,2026-09-17,SMS,0,Ilocalizado
+GES_001788,OBL_00921,A-ETXA,2026-09-18,WhatsApp,1,Negativa
+GES_001789,OBL_00921,A-ETXA,2026-09-21,Llamada,0,Número equivocado
+GES_001790,OBL_00921,A-ETXA,2026-09-26,Llamada,1,Negativa
+GES_001791,OBL_00925,A-ETXA,2026-09-02,Llamada,0,Número equivocado
+GES_001792,OBL_00925,A-ETXA,2026-09-13,Llamada,1,Negativa
+GES_001793,OBL_00925,A-ETXA,2026-09-27,SMS,1,Titular no disponible
+GES_001794,OBL_00926,A-ETXA,2026-09-05,Llamada,0,Ilocalizado
+GES_001795,OBL_00926,A-ETXA,2026-09-11,Llamada,0,Buzón de mensajes
+GES_001796,OBL_00927,Deskonecta,2026-09-15,Llamada,0,Ilocalizado
+GES_001797,OBL_00928,Deskonecta,2026-09-07,SMS,0,Número equivocado
+GES_001798,OBL_00928,Deskonecta,2026-09-07,Llamada,0,Ilocalizado
+GES_001799,OBL_00928,Deskonecta,2026-09-09,SMS,0,Número equivocado
+GES_001800,OBL_00928,Deskonecta,2026-09-09,Llamada,0,Buzón de mensajes
+GES_001801,OBL_00929,Telepromesa,2026-09-11,SMS,0,Número equivocado
+GES_001802,OBL_00929,Telepromesa,2026-09-18,Llamada,0,Ilocalizado
+GES_001803,OBL_00929,Telepromesa,2026-09-26,Llamada,0,Buzón de mensajes
+GES_001804,OBL_00930,Deskonecta,2026-09-02,WhatsApp,0,Buzón de mensajes
+GES_001805,OBL_00930,Deskonecta,2026-09-16,Llamada,0,Ilocalizado
+GES_001806,OBL_00931,A-ETXA,2026-09-10,SMS,0,Ilocalizado
+GES_001807,OBL_00931,A-ETXA,2026-09-19,Llamada,0,Número equivocado
+GES_001808,OBL_00931,A-ETXA,2026-09-24,Llamada,0,Buzón de mensajes
+GES_001809,OBL_00932,Deskonecta,2026-09-05,WhatsApp,1,Titular no disponible
+GES_001810,OBL_00932,Deskonecta,2026-09-08,WhatsApp,0,Número equivocado
+GES_001811,OBL_00932,Deskonecta,2026-09-22,Llamada,0,Ilocalizado
+GES_001812,OBL_00932,Deskonecta,2026-09-29,SMS,1,Promesa de pago
+GES_001813,OBL_00933,Deskonecta,2026-09-06,WhatsApp,0,Buzón de mensajes
+GES_001814,OBL_00933,Deskonecta,2026-09-10,SMS,0,Buzón de mensajes
+GES_001815,OBL_00934,A-ETXA,2026-09-08,WhatsApp,0,Ilocalizado
+GES_001816,OBL_00934,A-ETXA,2026-09-10,Llamada,1,Promesa de pago
+GES_001817,OBL_00934,A-ETXA,2026-09-28,SMS,1,Titular no disponible
+GES_001818,OBL_00935,Deskonecta,2026-09-02,Llamada,0,Número equivocado
+GES_001819,OBL_00935,Deskonecta,2026-09-11,Llamada,0,Número equivocado
+GES_001820,OBL_00939,Telepromesa,2026-09-18,Llamada,1,Negativa
+GES_001821,OBL_00940,Telepromesa,2026-09-27,Llamada,1,Titular no disponible
+GES_001822,OBL_00943,A-ETXA,2026-09-04,Llamada,0,Buzón de mensajes
+GES_001823,OBL_00943,A-ETXA,2026-09-09,WhatsApp,0,Ilocalizado
+GES_001824,OBL_00943,A-ETXA,2026-09-29,Llamada,0,Número equivocado
+GES_001825,OBL_00944,Deskonecta,2026-09-07,Llamada,0,Buzón de mensajes
+GES_001826,OBL_00944,Deskonecta,2026-09-18,Llamada,0,Buzón de mensajes
+GES_001827,OBL_00944,Deskonecta,2026-09-22,WhatsApp,0,Número equivocado
+GES_001828,OBL_00944,Deskonecta,2026-09-27,Llamada,0,Número equivocado
+GES_001829,OBL_00946,Deskonecta,2026-09-07,Llamada,0,Número equivocado
+GES_001830,OBL_00946,Deskonecta,2026-09-24,WhatsApp,0,Número equivocado
+GES_001831,OBL_00946,Deskonecta,2026-09-26,WhatsApp,0,Número equivocado
+GES_001832,OBL_00947,Deskonecta,2026-09-12,Llamada,0,Ilocalizado
+GES_001833,OBL_00947,Deskonecta,2026-09-21,Llamada,0,Buzón de mensajes
+GES_001834,OBL_00947,Deskonecta,2026-09-23,Llamada,0,Número equivocado
+GES_001835,OBL_00948,Telepromesa,2026-09-15,WhatsApp,0,Ilocalizado
+GES_001836,OBL_00948,Telepromesa,2026-09-19,Llamada,0,Buzón de mensajes
+GES_001837,OBL_00948,Telepromesa,2026-09-21,WhatsApp,0,Buzón de mensajes
+GES_001838,OBL_00948,Telepromesa,2026-09-24,Llamada,0,Ilocalizado
+GES_001839,OBL_00949,Telepromesa,2026-09-24,SMS,1,Negativa
+GES_001840,OBL_00950,A-ETXA,2026-09-05,Llamada,0,Número equivocado
+GES_001841,OBL_00950,A-ETXA,2026-09-13,Llamada,0,Buzón de mensajes
+GES_001842,OBL_00950,A-ETXA,2026-09-20,Llamada,0,Número equivocado
+GES_001843,OBL_00950,A-ETXA,2026-09-27,WhatsApp,0,Número equivocado
+GES_001844,OBL_00951,Deskonecta,2026-09-04,Llamada,0,Número equivocado
+GES_001845,OBL_00951,Deskonecta,2026-09-14,Llamada,0,Buzón de mensajes
+GES_001846,OBL_00953,Telepromesa,2026-09-12,Llamada,0,Número equivocado
+GES_001847,OBL_00953,Telepromesa,2026-09-13,Llamada,1,Promesa de pago
+GES_001848,OBL_00954,A-ETXA,2026-09-05,Llamada,0,Número equivocado
+GES_001849,OBL_00954,A-ETXA,2026-09-14,Llamada,1,Negativa
+GES_001850,OBL_00954,A-ETXA,2026-09-26,WhatsApp,1,Negativa
+GES_001851,OBL_00955,Telepromesa,2026-09-14,Llamada,1,Promesa de pago
+GES_001852,OBL_00956,A-ETXA,2026-09-10,Llamada,0,Número equivocado
+GES_001853,OBL_00956,A-ETXA,2026-09-21,Llamada,1,Promesa de pago
+GES_001854,OBL_00959,Deskonecta,2026-09-08,SMS,0,Buzón de mensajes
+GES_001855,OBL_00959,Deskonecta,2026-09-12,Llamada,0,Ilocalizado
+GES_001856,OBL_00959,Deskonecta,2026-09-20,WhatsApp,1,Negativa
+GES_001857,OBL_00961,Telepromesa,2026-09-19,Llamada,1,Promesa de pago
+GES_001858,OBL_00962,Telepromesa,2026-09-25,Llamada,1,Titular no disponible
+GES_001859,OBL_00963,Telepromesa,2026-09-23,Llamada,0,Buzón de mensajes
+GES_001860,OBL_00963,Telepromesa,2026-09-25,WhatsApp,1,Titular no disponible
+GES_001861,OBL_00964,Deskonecta,2026-09-12,SMS,0,Número equivocado
+GES_001862,OBL_00964,Deskonecta,2026-09-19,SMS,0,Buzón de mensajes
+GES_001863,OBL_00964,Deskonecta,2026-09-20,Llamada,0,Ilocalizado
+GES_001864,OBL_00964,Deskonecta,2026-09-26,Llamada,0,Número equivocado
+GES_001865,OBL_00966,A-ETXA,2026-09-03,WhatsApp,0,Ilocalizado
+GES_001866,OBL_00966,A-ETXA,2026-09-20,Llamada,0,Ilocalizado
+GES_001867,OBL_00966,A-ETXA,2026-09-21,WhatsApp,0,Ilocalizado
+GES_001868,OBL_00967,Deskonecta,2026-09-02,SMS,0,Buzón de mensajes
+GES_001869,OBL_00967,Deskonecta,2026-09-05,WhatsApp,0,Ilocalizado
+GES_001870,OBL_00967,Deskonecta,2026-09-18,Llamada,0,Buzón de mensajes
+GES_001871,OBL_00967,Deskonecta,2026-09-22,Llamada,0,Número equivocado
+GES_001872,OBL_00969,Telepromesa,2026-09-20,Llamada,0,Ilocalizado
+GES_001873,OBL_00970,A-ETXA,2026-09-10,WhatsApp,0,Número equivocado
+GES_001874,OBL_00970,A-ETXA,2026-09-20,Llamada,1,Promesa de pago
+GES_001875,OBL_00970,A-ETXA,2026-09-21,Llamada,1,Titular no disponible
+GES_001876,OBL_00970,A-ETXA,2026-09-24,WhatsApp,1,Titular no disponible
+GES_001877,OBL_00971,Deskonecta,2026-09-12,SMS,0,Número equivocado
+GES_001878,OBL_00971,Deskonecta,2026-09-22,Llamada,0,Ilocalizado
+GES_001879,OBL_00971,Deskonecta,2026-09-25,WhatsApp,0,Buzón de mensajes
+GES_001880,OBL_00972,A-ETXA,2026-09-12,WhatsApp,1,Promesa de pago
+GES_001881,OBL_00974,A-ETXA,2026-09-17,WhatsApp,0,Buzón de mensajes
+GES_001882,OBL_00974,A-ETXA,2026-09-23,SMS,0,Ilocalizado
+GES_001883,OBL_00976,Telepromesa,2026-09-03,Llamada,0,Número equivocado
+GES_001884,OBL_00976,Telepromesa,2026-09-06,Llamada,0,Buzón de mensajes
+GES_001885,OBL_00976,Telepromesa,2026-09-11,Llamada,0,Ilocalizado
+GES_001886,OBL_00976,Telepromesa,2026-09-29,Llamada,0,Número equivocado
+GES_001887,OBL_00977,Deskonecta,2026-09-19,Llamada,1,Titular no disponible
+GES_001888,OBL_00978,A-ETXA,2026-09-20,Llamada,0,Número equivocado
+GES_001889,OBL_00978,A-ETXA,2026-09-20,WhatsApp,0,Ilocalizado
+GES_001890,OBL_00978,A-ETXA,2026-09-29,Llamada,0,Ilocalizado
+GES_001891,OBL_00979,A-ETXA,2026-09-03,Llamada,0,Buzón de mensajes
+GES_001892,OBL_00979,A-ETXA,2026-09-06,Llamada,0,Ilocalizado
+GES_001893,OBL_00979,A-ETXA,2026-09-12,Llamada,0,Ilocalizado
+GES_001894,OBL_00980,A-ETXA,2026-09-10,Llamada,0,Ilocalizado
+GES_001895,OBL_00980,A-ETXA,2026-09-21,Llamada,0,Número equivocado
+GES_001896,OBL_00980,A-ETXA,2026-09-23,Llamada,0,Ilocalizado
+GES_001897,OBL_00980,A-ETXA,2026-09-24,Llamada,0,Número equivocado
+GES_001898,OBL_00981,Deskonecta,2026-09-06,Llamada,0,Buzón de mensajes
+GES_001899,OBL_00981,Deskonecta,2026-09-20,SMS,1,Negativa
+GES_001900,OBL_00981,Deskonecta,2026-09-22,WhatsApp,1,Titular no disponible
+GES_001901,OBL_00982,A-ETXA,2026-09-15,SMS,0,Ilocalizado
+GES_001902,OBL_00983,Deskonecta,2026-09-02,Llamada,0,Buzón de mensajes
+GES_001903,OBL_00983,Deskonecta,2026-09-13,Llamada,1,Negativa
+GES_001904,OBL_00984,Deskonecta,2026-09-03,Llamada,0,Número equivocado
+GES_001905,OBL_00984,Deskonecta,2026-09-08,Llamada,0,Buzón de mensajes
+GES_001906,OBL_00984,Deskonecta,2026-09-21,WhatsApp,1,Promesa de pago
+GES_001907,OBL_00985,Telepromesa,2026-09-04,WhatsApp,1,Promesa de pago
+GES_001908,OBL_00985,Telepromesa,2026-09-21,SMS,0,Número equivocado
+GES_001909,OBL_00985,Telepromesa,2026-09-26,Llamada,1,Negativa
+GES_001910,OBL_00985,Telepromesa,2026-09-26,Llamada,1,Promesa de pago
+GES_001911,OBL_00986,Deskonecta,2026-09-07,Llamada,0,Ilocalizado
+GES_001912,OBL_00986,Deskonecta,2026-09-10,Llamada,0,Número equivocado
+GES_001913,OBL_00987,A-ETXA,2026-09-28,WhatsApp,1,Promesa de pago
+GES_001914,OBL_00988,Telepromesa,2026-09-23,Llamada,1,Negativa
+GES_001915,OBL_00990,Telepromesa,2026-09-08,WhatsApp,0,Número equivocado
+GES_001916,OBL_00990,Telepromesa,2026-09-23,SMS,1,Negativa
+GES_001917,OBL_00990,Telepromesa,2026-09-24,WhatsApp,1,Promesa de pago
+GES_001918,OBL_00991,Deskonecta,2026-09-21,WhatsApp,0,Buzón de mensajes
+GES_001919,OBL_00991,Deskonecta,2026-09-24,WhatsApp,0,Ilocalizado
+GES_001920,OBL_00992,A-ETXA,2026-09-17,WhatsApp,0,Ilocalizado
+GES_001921,OBL_00992,A-ETXA,2026-09-21,Llamada,0,Buzón de mensajes
+GES_001922,OBL_00992,A-ETXA,2026-09-24,WhatsApp,0,Buzón de mensajes
+GES_001923,OBL_00992,A-ETXA,2026-09-24,Llamada,0,Número equivocado
+GES_001924,OBL_00994,Telepromesa,2026-09-20,Llamada,0,Número equivocado
+GES_001925,OBL_00995,Telepromesa,2026-09-06,Llamada,0,Ilocalizado
+GES_001926,OBL_00995,Telepromesa,2026-09-20,Llamada,0,Ilocalizado
+GES_001927,OBL_00995,Telepromesa,2026-09-24,Llamada,0,Número equivocado
+GES_001928,OBL_00995,Telepromesa,2026-09-29,Llamada,0,Buzón de mensajes
+GES_001929,OBL_00996,Deskonecta,2026-09-27,Llamada,1,Negativa
+GES_001930,OBL_00997,Telepromesa,2026-09-12,Llamada,0,Número equivocado
+GES_001931,OBL_00997,Telepromesa,2026-09-16,Llamada,1,Negativa
+GES_001932,OBL_00999,Telepromesa,2026-09-02,Llamada,1,Negativa
+GES_001933,OBL_00999,Telepromesa,2026-09-19,Llamada,0,Ilocalizado
+GES_001934,OBL_00999,Telepromesa,2026-09-20,Llamada,1,Titular no disponible
+GES_001935,OBL_00999,Telepromesa,2026-09-26,WhatsApp,1,Titular no disponible
+GES_001936,OBL_01000,Telepromesa,2026-09-10,Llamada,0,Buzón de mensajes
+GES_001937,OBL_01000,Telepromesa,2026-09-19,Llamada,1,Titular no disponible
+GES_001938,OBL_01000,Telepromesa,2026-09-23,Llamada,1,Titular no disponible
+GES_001939,OBL_01000,Telepromesa,2026-09-24,SMS,1,Promesa de pago
+GES_001940,OBL_01003,Telepromesa,2026-09-17,Llamada,0,Ilocalizado
+GES_001941,OBL_01003,Telepromesa,2026-09-19,WhatsApp,0,Ilocalizado
+GES_001942,OBL_01003,Telepromesa,2026-09-23,Llamada,0,Buzón de mensajes
+GES_001943,OBL_01003,Telepromesa,2026-09-27,WhatsApp,0,Buzón de mensajes
+GES_001944,OBL_01004,Deskonecta,2026-09-03,SMS,0,Buzón de mensajes
+GES_001945,OBL_01004,Deskonecta,2026-09-20,Llamada,1,Promesa de pago
+GES_001946,OBL_01005,Deskonecta,2026-09-07,Llamada,0,Ilocalizado
+GES_001947,OBL_01005,Deskonecta,2026-09-16,WhatsApp,0,Ilocalizado
+GES_001948,OBL_01005,Deskonecta,2026-09-16,SMS,0,Número equivocado
+GES_001949,OBL_01005,Deskonecta,2026-09-28,SMS,1,Negativa
+GES_001950,OBL_01008,A-ETXA,2026-09-10,Llamada,0,Buzón de mensajes
+GES_001951,OBL_01008,A-ETXA,2026-09-12,WhatsApp,0,Número equivocado
+GES_001952,OBL_01008,A-ETXA,2026-09-20,Llamada,0,Número equivocado
+GES_001953,OBL_01008,A-ETXA,2026-09-27,WhatsApp,0,Número equivocado
+GES_001954,OBL_01009,A-ETXA,2026-09-02,Llamada,0,Número equivocado
+GES_001955,OBL_01009,A-ETXA,2026-09-07,Llamada,0,Ilocalizado
+GES_001956,OBL_01010,Deskonecta,2026-09-16,Llamada,0,Buzón de mensajes
+GES_001957,OBL_01010,Deskonecta,2026-09-17,Llamada,0,Buzón de mensajes
+GES_001958,OBL_01011,Telepromesa,2026-09-08,Llamada,0,Ilocalizado
+GES_001959,OBL_01011,Telepromesa,2026-09-08,SMS,0,Buzón de mensajes
+GES_001960,OBL_01011,Telepromesa,2026-09-27,Llamada,1,Titular no disponible
+GES_001961,OBL_01012,A-ETXA,2026-09-07,Llamada,0,Ilocalizado
+GES_001962,OBL_01012,A-ETXA,2026-09-21,SMS,0,Número equivocado
+GES_001963,OBL_01012,A-ETXA,2026-09-27,Llamada,0,Número equivocado
+GES_001964,OBL_01013,Deskonecta,2026-09-03,Llamada,0,Número equivocado
+GES_001965,OBL_01013,Deskonecta,2026-09-09,Llamada,0,Buzón de mensajes
+GES_001966,OBL_01014,A-ETXA,2026-09-03,Llamada,0,Número equivocado
+GES_001967,OBL_01015,A-ETXA,2026-09-10,SMS,0,Buzón de mensajes
+GES_001968,OBL_01015,A-ETXA,2026-09-27,SMS,0,Buzón de mensajes
+GES_001969,OBL_01016,Telepromesa,2026-09-10,Llamada,0,Ilocalizado
+GES_001970,OBL_01016,Telepromesa,2026-09-15,WhatsApp,0,Número equivocado
+GES_001971,OBL_01018,A-ETXA,2026-09-07,WhatsApp,1,Negativa
+GES_001972,OBL_01019,A-ETXA,2026-09-16,WhatsApp,0,Número equivocado
+GES_001973,OBL_01019,A-ETXA,2026-09-21,WhatsApp,0,Número equivocado
+GES_001974,OBL_01019,A-ETXA,2026-09-25,Llamada,1,Promesa de pago
+GES_001975,OBL_01019,A-ETXA,2026-09-26,Llamada,1,Negativa
+GES_001976,OBL_01020,Telepromesa,2026-09-10,SMS,0,Número equivocado
+GES_001977,OBL_01020,Telepromesa,2026-09-11,Llamada,1,Negativa
+GES_001978,OBL_01021,Telepromesa,2026-09-13,WhatsApp,0,Número equivocado
+GES_001979,OBL_01022,Deskonecta,2026-09-02,Llamada,0,Ilocalizado
+GES_001980,OBL_01022,Deskonecta,2026-09-15,Llamada,0,Ilocalizado
+GES_001981,OBL_01022,Deskonecta,2026-09-29,WhatsApp,0,Número equivocado
+GES_001982,OBL_01023,A-ETXA,2026-09-23,Llamada,0,Número equivocado
+GES_001983,OBL_01024,Deskonecta,2026-09-04,WhatsApp,1,Promesa de pago
+GES_001984,OBL_01024,Deskonecta,2026-09-15,SMS,0,Ilocalizado
+GES_001985,OBL_01024,Deskonecta,2026-09-26,Llamada,1,Promesa de pago
+GES_001986,OBL_01025,Deskonecta,2026-09-08,Llamada,0,Ilocalizado
+GES_001987,OBL_01025,Deskonecta,2026-09-09,Llamada,0,Buzón de mensajes
+GES_001988,OBL_01025,Deskonecta,2026-09-09,Llamada,1,Promesa de pago
+GES_001989,OBL_01026,Telepromesa,2026-09-04,SMS,0,Buzón de mensajes
+GES_001990,OBL_01026,Telepromesa,2026-09-20,WhatsApp,0,Ilocalizado
+GES_001991,OBL_01026,Telepromesa,2026-09-24,Llamada,0,Número equivocado
+GES_001992,OBL_01026,Telepromesa,2026-09-25,Llamada,0,Buzón de mensajes
+GES_001993,OBL_01027,Deskonecta,2026-09-17,Llamada,0,Ilocalizado
+GES_001994,OBL_01027,Deskonecta,2026-09-23,Llamada,1,Titular no disponible
+GES_001995,OBL_01028,A-ETXA,2026-09-27,WhatsApp,0,Buzón de mensajes
+GES_001996,OBL_01029,Telepromesa,2026-09-12,Llamada,1,Negativa
+GES_001997,OBL_01029,Telepromesa,2026-09-20,Llamada,0,Ilocalizado
+GES_001998,OBL_01029,Telepromesa,2026-09-25,SMS,1,Negativa
+GES_001999,OBL_01029,Telepromesa,2026-09-28,Llamada,1,Promesa de pago
+GES_002000,OBL_01030,A-ETXA,2026-09-03,Llamada,1,Titular no disponible
+GES_002001,OBL_01031,Telepromesa,2026-09-23,WhatsApp,1,Negativa
+GES_002002,OBL_01031,Telepromesa,2026-09-24,SMS,0,Número equivocado
+GES_002003,OBL_01031,Telepromesa,2026-09-24,Llamada,1,Negativa
+GES_002004,OBL_01032,Deskonecta,2026-09-03,Llamada,0,Ilocalizado
+GES_002005,OBL_01032,Deskonecta,2026-09-09,Llamada,0,Número equivocado
+GES_002006,OBL_01032,Deskonecta,2026-09-27,SMS,0,Buzón de mensajes
+GES_002007,OBL_01033,A-ETXA,2026-09-03,Llamada,1,Titular no disponible
+GES_002008,OBL_01033,A-ETXA,2026-09-10,WhatsApp,0,Ilocalizado
+GES_002009,OBL_01033,A-ETXA,2026-09-23,Llamada,1,Negativa
+GES_002010,OBL_01033,A-ETXA,2026-09-27,SMS,1,Negativa
+GES_002011,OBL_01034,Deskonecta,2026-09-17,Llamada,0,Número equivocado
+GES_002012,OBL_01034,Deskonecta,2026-09-25,SMS,0,Ilocalizado
+GES_002013,OBL_01034,Deskonecta,2026-09-28,Llamada,0,Buzón de mensajes
+GES_002014,OBL_01035,Telepromesa,2026-09-15,Llamada,0,Buzón de mensajes
+GES_002015,OBL_01037,A-ETXA,2026-09-04,WhatsApp,0,Número equivocado
+GES_002016,OBL_01037,A-ETXA,2026-09-05,WhatsApp,0,Buzón de mensajes
+GES_002017,OBL_01037,A-ETXA,2026-09-10,Llamada,0,Ilocalizado
+GES_002018,OBL_01037,A-ETXA,2026-09-17,SMS,0,Ilocalizado
+GES_002019,OBL_01038,Deskonecta,2026-09-08,Llamada,0,Ilocalizado
+GES_002020,OBL_01038,Deskonecta,2026-09-09,Llamada,0,Número equivocado
+GES_002021,OBL_01038,Deskonecta,2026-09-10,Llamada,0,Número equivocado
+GES_002022,OBL_01039,A-ETXA,2026-09-09,Llamada,0,Ilocalizado
+GES_002023,OBL_01039,A-ETXA,2026-09-14,Llamada,0,Ilocalizado
+GES_002024,OBL_01039,A-ETXA,2026-09-23,Llamada,0,Buzón de mensajes
+GES_002025,OBL_01040,A-ETXA,2026-09-18,Llamada,0,Ilocalizado
+GES_002026,OBL_01041,A-ETXA,2026-09-02,Llamada,1,Negativa
+GES_002027,OBL_01041,A-ETXA,2026-09-21,WhatsApp,1,Titular no disponible
+GES_002028,OBL_01042,Telepromesa,2026-09-10,Llamada,0,Ilocalizado
+GES_002029,OBL_01043,Telepromesa,2026-09-06,WhatsApp,0,Número equivocado
+GES_002030,OBL_01043,Telepromesa,2026-09-16,SMS,1,Promesa de pago
+GES_002031,OBL_01043,Telepromesa,2026-09-17,WhatsApp,1,Titular no disponible
+GES_002032,OBL_01046,A-ETXA,2026-09-14,Llamada,0,Ilocalizado
+GES_002033,OBL_01047,A-ETXA,2026-09-02,Llamada,0,Número equivocado
+GES_002034,OBL_01047,A-ETXA,2026-09-21,WhatsApp,0,Ilocalizado
+GES_002035,OBL_01047,A-ETXA,2026-09-25,Llamada,0,Ilocalizado
+GES_002036,OBL_01048,A-ETXA,2026-09-18,SMS,0,Ilocalizado
+GES_002037,OBL_01049,A-ETXA,2026-09-18,Llamada,0,Número equivocado
+GES_002038,OBL_01050,A-ETXA,2026-09-15,SMS,1,Titular no disponible
+GES_002039,OBL_01050,A-ETXA,2026-09-28,Llamada,1,Titular no disponible
+GES_002040,OBL_01051,A-ETXA,2026-09-08,SMS,0,Número equivocado
+GES_002041,OBL_01052,A-ETXA,2026-09-09,Llamada,0,Ilocalizado
+GES_002042,OBL_01052,A-ETXA,2026-09-09,WhatsApp,0,Buzón de mensajes
+GES_002043,OBL_01052,A-ETXA,2026-09-12,SMS,0,Número equivocado
+GES_002044,OBL_01053,Deskonecta,2026-09-04,Llamada,1,Negativa
+GES_002045,OBL_01053,Deskonecta,2026-09-11,WhatsApp,0,Ilocalizado
+GES_002046,OBL_01053,Deskonecta,2026-09-23,Llamada,0,Número equivocado
+GES_002047,OBL_01053,Deskonecta,2026-09-25,Llamada,1,Titular no disponible
+GES_002048,OBL_01054,Telepromesa,2026-09-18,Llamada,0,Ilocalizado
+GES_002049,OBL_01055,A-ETXA,2026-09-14,Llamada,0,Ilocalizado
+GES_002050,OBL_01055,A-ETXA,2026-09-25,Llamada,0,Ilocalizado
+GES_002051,OBL_01057,A-ETXA,2026-09-11,Llamada,1,Negativa
+GES_002052,OBL_01059,Deskonecta,2026-09-03,SMS,0,Buzón de mensajes
+GES_002053,OBL_01060,Telepromesa,2026-09-10,Llamada,0,Ilocalizado
+GES_002054,OBL_01060,Telepromesa,2026-09-29,WhatsApp,1,Negativa
+GES_002055,OBL_01061,Telepromesa,2026-09-16,Llamada,0,Número equivocado
+GES_002056,OBL_01061,Telepromesa,2026-09-24,Llamada,0,Ilocalizado
+GES_002057,OBL_01063,Deskonecta,2026-09-03,SMS,0,Número equivocado
+GES_002058,OBL_01063,Deskonecta,2026-09-05,Llamada,0,Ilocalizado
+GES_002059,OBL_01063,Deskonecta,2026-09-12,Llamada,0,Buzón de mensajes
+GES_002060,OBL_01063,Deskonecta,2026-09-20,WhatsApp,1,Promesa de pago
+GES_002061,OBL_01064,Telepromesa,2026-09-16,Llamada,0,Ilocalizado
+GES_002062,OBL_01064,Telepromesa,2026-09-18,WhatsApp,0,Ilocalizado
+GES_002063,OBL_01064,Telepromesa,2026-09-19,Llamada,0,Buzón de mensajes
+GES_002064,OBL_01065,A-ETXA,2026-09-05,WhatsApp,0,Buzón de mensajes
+GES_002065,OBL_01065,A-ETXA,2026-09-16,Llamada,0,Buzón de mensajes
+GES_002066,OBL_01066,Deskonecta,2026-09-11,Llamada,1,Promesa de pago
+GES_002067,OBL_01066,Deskonecta,2026-09-11,WhatsApp,1,Promesa de pago
+GES_002068,OBL_01066,Deskonecta,2026-09-28,WhatsApp,1,Negativa
+GES_002069,OBL_01067,Deskonecta,2026-09-05,WhatsApp,0,Buzón de mensajes
+GES_002070,OBL_01067,Deskonecta,2026-09-05,Llamada,0,Número equivocado
+GES_002071,OBL_01067,Deskonecta,2026-09-16,Llamada,0,Buzón de mensajes
+GES_002072,OBL_01067,Deskonecta,2026-09-27,Llamada,0,Ilocalizado
+GES_002073,OBL_01069,A-ETXA,2026-09-11,WhatsApp,0,Ilocalizado
+GES_002074,OBL_01070,Telepromesa,2026-09-02,Llamada,1,Promesa de pago
+GES_002075,OBL_01071,Telepromesa,2026-09-05,Llamada,1,Titular no disponible
+GES_002076,OBL_01071,Telepromesa,2026-09-18,WhatsApp,1,Promesa de pago
+GES_002077,OBL_01072,A-ETXA,2026-09-09,Llamada,0,Buzón de mensajes
+GES_002078,OBL_01072,A-ETXA,2026-09-10,Llamada,0,Ilocalizado
+GES_002079,OBL_01072,A-ETXA,2026-09-13,SMS,0,Número equivocado
+GES_002080,OBL_01072,A-ETXA,2026-09-16,WhatsApp,1,Titular no disponible
+GES_002081,OBL_01073,A-ETXA,2026-09-16,SMS,1,Promesa de pago
+GES_002082,OBL_01074,Telepromesa,2026-09-11,Llamada,1,Promesa de pago
+GES_002083,OBL_01074,Telepromesa,2026-09-14,Llamada,1,Promesa de pago
+GES_002084,OBL_01075,Deskonecta,2026-09-16,WhatsApp,1,Promesa de pago
+GES_002085,OBL_01075,Deskonecta,2026-09-19,Llamada,0,Buzón de mensajes
+GES_002086,OBL_01075,Deskonecta,2026-09-28,Llamada,0,Ilocalizado
+GES_002087,OBL_01075,Deskonecta,2026-09-28,WhatsApp,1,Promesa de pago
+GES_002088,OBL_01077,A-ETXA,2026-09-02,SMS,0,Número equivocado
+GES_002089,OBL_01077,A-ETXA,2026-09-15,Llamada,0,Buzón de mensajes
+GES_002090,OBL_01078,Deskonecta,2026-09-02,Llamada,0,Buzón de mensajes
+GES_002091,OBL_01078,Deskonecta,2026-09-03,Llamada,0,Buzón de mensajes
+GES_002092,OBL_01078,Deskonecta,2026-09-08,Llamada,0,Ilocalizado
+GES_002093,OBL_01078,Deskonecta,2026-09-14,Llamada,0,Ilocalizado
+GES_002094,OBL_01079,Deskonecta,2026-09-14,Llamada,0,Número equivocado
+GES_002095,OBL_01079,Deskonecta,2026-09-23,Llamada,0,Número equivocado
+GES_002096,OBL_01080,Telepromesa,2026-09-16,Llamada,0,Ilocalizado
+GES_002097,OBL_01080,Telepromesa,2026-09-18,Llamada,0,Ilocalizado
+GES_002098,OBL_01080,Telepromesa,2026-09-20,Llamada,0,Ilocalizado
+GES_002099,OBL_01081,A-ETXA,2026-09-20,SMS,0,Ilocalizado
+GES_002100,OBL_01084,Deskonecta,2026-09-02,Llamada,0,Buzón de mensajes
+GES_002101,OBL_01085,Telepromesa,2026-09-25,Llamada,1,Negativa
+GES_002102,OBL_01086,Telepromesa,2026-09-04,Llamada,0,Ilocalizado
+GES_002103,OBL_01086,Telepromesa,2026-09-11,Llamada,0,Buzón de mensajes
+GES_002104,OBL_01086,Telepromesa,2026-09-19,SMS,0,Ilocalizado
+GES_002105,OBL_01086,Telepromesa,2026-09-29,WhatsApp,0,Ilocalizado
+GES_002106,OBL_01087,Telepromesa,2026-09-05,Llamada,0,Buzón de mensajes
+GES_002107,OBL_01087,Telepromesa,2026-09-12,WhatsApp,0,Ilocalizado
+GES_002108,OBL_01087,Telepromesa,2026-09-20,WhatsApp,1,Titular no disponible
+GES_002109,OBL_01088,A-ETXA,2026-09-18,WhatsApp,0,Número equivocado
+GES_002110,OBL_01088,A-ETXA,2026-09-24,Llamada,1,Promesa de pago
+GES_002111,OBL_01089,Telepromesa,2026-09-06,Llamada,1,Negativa
+GES_002112,OBL_01090,Deskonecta,2026-09-29,WhatsApp,0,Buzón de mensajes
+GES_002113,OBL_01091,Deskonecta,2026-09-13,SMS,1,Promesa de pago
+GES_002114,OBL_01092,Telepromesa,2026-09-04,Llamada,0,Número equivocado
+GES_002115,OBL_01092,Telepromesa,2026-09-07,Llamada,0,Buzón de mensajes
+GES_002116,OBL_01092,Telepromesa,2026-09-11,WhatsApp,0,Buzón de mensajes
+GES_002117,OBL_01092,Telepromesa,2026-09-14,Llamada,0,Buzón de mensajes
+GES_002118,OBL_01093,Telepromesa,2026-09-02,Llamada,0,Buzón de mensajes
+GES_002119,OBL_01093,Telepromesa,2026-09-02,WhatsApp,1,Promesa de pago
+GES_002120,OBL_01093,Telepromesa,2026-09-15,Llamada,1,Titular no disponible
+GES_002121,OBL_01094,Telepromesa,2026-09-03,SMS,0,Número equivocado
+GES_002122,OBL_01094,Telepromesa,2026-09-13,Llamada,0,Número equivocado
+GES_002123,OBL_01094,Telepromesa,2026-09-27,Llamada,0,Ilocalizado
+GES_002124,OBL_01094,Telepromesa,2026-09-28,Llamada,1,Negativa
+GES_002125,OBL_01095,A-ETXA,2026-09-13,Llamada,0,Número equivocado
+GES_002126,OBL_01096,Telepromesa,2026-09-16,Llamada,1,Promesa de pago
+GES_002127,OBL_01097,Telepromesa,2026-09-03,SMS,0,Número equivocado
+GES_002128,OBL_01097,Telepromesa,2026-09-06,WhatsApp,0,Número equivocado
+GES_002129,OBL_01097,Telepromesa,2026-09-06,WhatsApp,0,Ilocalizado
+GES_002130,OBL_01097,Telepromesa,2026-09-20,SMS,0,Número equivocado
+GES_002131,OBL_01099,Deskonecta,2026-09-19,Llamada,0,Ilocalizado
+GES_002132,OBL_01099,Deskonecta,2026-09-27,Llamada,1,Negativa
+GES_002133,OBL_01099,Deskonecta,2026-09-29,Llamada,1,Titular no disponible
+GES_002134,OBL_01100,Deskonecta,2026-09-12,Llamada,1,Titular no disponible
+GES_002135,OBL_01100,Deskonecta,2026-09-27,Llamada,1,Titular no disponible
+GES_002136,OBL_01100,Deskonecta,2026-09-27,Llamada,1,Negativa
+GES_002137,OBL_01101,A-ETXA,2026-09-03,Llamada,0,Ilocalizado
+GES_002138,OBL_01101,A-ETXA,2026-09-09,Llamada,0,Buzón de mensajes
+GES_002139,OBL_01101,A-ETXA,2026-09-11,WhatsApp,0,Buzón de mensajes
+GES_002140,OBL_01101,A-ETXA,2026-09-26,WhatsApp,0,Ilocalizado
+GES_002141,OBL_01103,Telepromesa,2026-09-16,WhatsApp,0,Ilocalizado
+GES_002142,OBL_01104,Deskonecta,2026-09-12,Llamada,0,Ilocalizado
+GES_002143,OBL_01104,Deskonecta,2026-09-20,WhatsApp,0,Ilocalizado
+GES_002144,OBL_01104,Deskonecta,2026-09-21,Llamada,0,Buzón de mensajes
+GES_002145,OBL_01104,Deskonecta,2026-09-24,WhatsApp,1,Titular no disponible
+GES_002146,OBL_01105,Telepromesa,2026-09-28,Llamada,1,Promesa de pago
+GES_002147,OBL_01106,Telepromesa,2026-09-02,Llamada,0,Ilocalizado
+GES_002148,OBL_01106,Telepromesa,2026-09-20,Llamada,1,Negativa
+GES_002149,OBL_01108,Telepromesa,2026-09-04,SMS,0,Número equivocado
+GES_002150,OBL_01108,Telepromesa,2026-09-08,Llamada,1,Promesa de pago
+GES_002151,OBL_01108,Telepromesa,2026-09-09,WhatsApp,1,Promesa de pago
+GES_002152,OBL_01109,Deskonecta,2026-09-13,WhatsApp,0,Número equivocado
+GES_002153,OBL_01109,Deskonecta,2026-09-14,Llamada,0,Número equivocado
+GES_002154,OBL_01110,Deskonecta,2026-09-17,WhatsApp,1,Negativa
+GES_002155,OBL_01111,Telepromesa,2026-09-04,Llamada,0,Número equivocado
+GES_002156,OBL_01111,Telepromesa,2026-09-05,Llamada,0,Buzón de mensajes
+GES_002157,OBL_01111,Telepromesa,2026-09-07,Llamada,0,Número equivocado
+GES_002158,OBL_01111,Telepromesa,2026-09-29,Llamada,1,Negativa
+GES_002159,OBL_01112,Deskonecta,2026-09-26,Llamada,1,Promesa de pago
+GES_002160,OBL_01113,A-ETXA,2026-09-06,Llamada,1,Negativa
+GES_002161,OBL_01113,A-ETXA,2026-09-15,Llamada,0,Ilocalizado
+GES_002162,OBL_01113,A-ETXA,2026-09-28,Llamada,1,Negativa
+GES_002163,OBL_01114,Telepromesa,2026-09-15,WhatsApp,0,Buzón de mensajes
+GES_002164,OBL_01115,Telepromesa,2026-09-20,Llamada,0,Buzón de mensajes
+GES_002165,OBL_01117,Deskonecta,2026-09-15,Llamada,0,Buzón de mensajes
+GES_002166,OBL_01117,Deskonecta,2026-09-24,Llamada,1,Negativa
+GES_002167,OBL_01118,Deskonecta,2026-09-12,Llamada,1,Titular no disponible
+GES_002168,OBL_01119,Telepromesa,2026-09-04,Llamada,0,Número equivocado
+GES_002169,OBL_01119,Telepromesa,2026-09-05,WhatsApp,0,Número equivocado
+GES_002170,OBL_01119,Telepromesa,2026-09-11,Llamada,0,Número equivocado
+GES_002171,OBL_01120,Deskonecta,2026-09-06,Llamada,1,Titular no disponible
+GES_002172,OBL_01120,Deskonecta,2026-09-08,Llamada,0,Buzón de mensajes
+GES_002173,OBL_01120,Deskonecta,2026-09-10,Llamada,1,Promesa de pago
+GES_002174,OBL_01120,Deskonecta,2026-09-12,WhatsApp,1,Promesa de pago
+GES_002175,OBL_01121,Telepromesa,2026-09-02,Llamada,1,Promesa de pago
+GES_002176,OBL_01121,Telepromesa,2026-09-06,Llamada,0,Número equivocado
+GES_002177,OBL_01121,Telepromesa,2026-09-26,SMS,1,Negativa
+GES_002178,OBL_01122,A-ETXA,2026-09-07,Llamada,0,Ilocalizado
+GES_002179,OBL_01122,A-ETXA,2026-09-09,Llamada,0,Número equivocado
+GES_002180,OBL_01124,Deskonecta,2026-09-05,WhatsApp,0,Ilocalizado
+GES_002181,OBL_01124,Deskonecta,2026-09-23,SMS,0,Número equivocado
+GES_002182,OBL_01124,Deskonecta,2026-09-24,Llamada,0,Buzón de mensajes
+GES_002183,OBL_01125,Telepromesa,2026-09-13,WhatsApp,1,Negativa
+GES_002184,OBL_01126,Deskonecta,2026-09-21,Llamada,0,Ilocalizado
+GES_002185,OBL_01126,Deskonecta,2026-09-21,Llamada,0,Ilocalizado
+GES_002186,OBL_01126,Deskonecta,2026-09-26,WhatsApp,1,Promesa de pago
+GES_002187,OBL_01128,Deskonecta,2026-09-04,Llamada,0,Número equivocado
+GES_002188,OBL_01128,Deskonecta,2026-09-21,WhatsApp,0,Buzón de mensajes
+GES_002189,OBL_01128,Deskonecta,2026-09-25,Llamada,0,Ilocalizado
+GES_002190,OBL_01129,A-ETXA,2026-09-02,WhatsApp,0,Buzón de mensajes
+GES_002191,OBL_01129,A-ETXA,2026-09-08,Llamada,0,Ilocalizado
+GES_002192,OBL_01129,A-ETXA,2026-09-23,WhatsApp,0,Ilocalizado
+GES_002193,OBL_01132,Deskonecta,2026-09-06,WhatsApp,0,Número equivocado
+GES_002194,OBL_01132,Deskonecta,2026-09-20,WhatsApp,0,Ilocalizado
+GES_002195,OBL_01133,Telepromesa,2026-09-13,Llamada,0,Buzón de mensajes
+GES_002196,OBL_01133,Telepromesa,2026-09-18,Llamada,1,Titular no disponible
+GES_002197,OBL_01134,A-ETXA,2026-09-10,Llamada,0,Ilocalizado
+GES_002198,OBL_01134,A-ETXA,2026-09-16,WhatsApp,0,Ilocalizado
+GES_002199,OBL_01134,A-ETXA,2026-09-19,WhatsApp,0,Ilocalizado
+GES_002200,OBL_01134,A-ETXA,2026-09-22,Llamada,1,Promesa de pago
+GES_002201,OBL_01137,Deskonecta,2026-09-03,Llamada,0,Buzón de mensajes
+GES_002202,OBL_01137,Deskonecta,2026-09-13,SMS,0,Número equivocado
+GES_002203,OBL_01137,Deskonecta,2026-09-14,Llamada,0,Número equivocado
+GES_002204,OBL_01137,Deskonecta,2026-09-18,Llamada,0,Buzón de mensajes
+GES_002205,OBL_01141,Telepromesa,2026-09-11,Llamada,0,Buzón de mensajes
+GES_002206,OBL_01141,Telepromesa,2026-09-21,SMS,1,Negativa
+GES_002207,OBL_01142,A-ETXA,2026-09-11,Llamada,0,Número equivocado
+GES_002208,OBL_01142,A-ETXA,2026-09-21,WhatsApp,0,Ilocalizado
+GES_002209,OBL_01142,A-ETXA,2026-09-22,Llamada,0,Buzón de mensajes
+GES_002210,OBL_01142,A-ETXA,2026-09-25,Llamada,0,Buzón de mensajes
+GES_002211,OBL_01143,A-ETXA,2026-09-16,WhatsApp,1,Titular no disponible
+GES_002212,OBL_01143,A-ETXA,2026-09-21,SMS,1,Promesa de pago
+GES_002213,OBL_01143,A-ETXA,2026-09-26,SMS,0,Número equivocado
+GES_002214,OBL_01143,A-ETXA,2026-09-29,Llamada,1,Negativa
+GES_002215,OBL_01144,A-ETXA,2026-09-03,Llamada,0,Ilocalizado
+GES_002216,OBL_01144,A-ETXA,2026-09-04,WhatsApp,0,Buzón de mensajes
+GES_002217,OBL_01144,A-ETXA,2026-09-29,Llamada,0,Número equivocado
+GES_002218,OBL_01145,A-ETXA,2026-09-02,SMS,0,Buzón de mensajes
+GES_002219,OBL_01145,A-ETXA,2026-09-13,WhatsApp,0,Ilocalizado
+GES_002220,OBL_01145,A-ETXA,2026-09-26,Llamada,0,Número equivocado
+GES_002221,OBL_01145,A-ETXA,2026-09-27,WhatsApp,0,Número equivocado
+GES_002222,OBL_01146,A-ETXA,2026-09-09,Llamada,0,Buzón de mensajes
+GES_002223,OBL_01146,A-ETXA,2026-09-10,SMS,0,Ilocalizado
+GES_002224,OBL_01146,A-ETXA,2026-09-23,WhatsApp,1,Titular no disponible
+GES_002225,OBL_01147,Telepromesa,2026-09-10,SMS,1,Titular no disponible
+GES_002226,OBL_01147,Telepromesa,2026-09-12,Llamada,0,Número equivocado
+GES_002227,OBL_01147,Telepromesa,2026-09-27,Llamada,1,Titular no disponible
+GES_002228,OBL_01149,Telepromesa,2026-09-09,Llamada,0,Número equivocado
+GES_002229,OBL_01149,Telepromesa,2026-09-29,SMS,0,Número equivocado
+GES_002230,OBL_01149,Telepromesa,2026-09-29,Llamada,1,Titular no disponible
+GES_002231,OBL_01150,Telepromesa,2026-09-10,Llamada,1,Promesa de pago
+GES_002232,OBL_01150,Telepromesa,2026-09-21,Llamada,0,Buzón de mensajes
+GES_002233,OBL_01150,Telepromesa,2026-09-23,Llamada,1,Negativa
+GES_002234,OBL_01150,Telepromesa,2026-09-29,Llamada,1,Negativa
+GES_002235,OBL_01151,Deskonecta,2026-09-09,Llamada,1,Promesa de pago
+GES_002236,OBL_01151,Deskonecta,2026-09-20,Llamada,1,Promesa de pago
+GES_002237,OBL_01152,Telepromesa,2026-09-08,Llamada,0,Buzón de mensajes
+GES_002238,OBL_01152,Telepromesa,2026-09-10,Llamada,0,Número equivocado
+GES_002239,OBL_01152,Telepromesa,2026-09-16,SMS,0,Buzón de mensajes
+GES_002240,OBL_01152,Telepromesa,2026-09-17,SMS,0,Número equivocado
+GES_002241,OBL_01153,Telepromesa,2026-09-06,WhatsApp,0,Ilocalizado
+GES_002242,OBL_01153,Telepromesa,2026-09-12,Llamada,1,Promesa de pago
+GES_002243,OBL_01153,Telepromesa,2026-09-12,SMS,1,Promesa de pago
+GES_002244,OBL_01154,Deskonecta,2026-09-02,Llamada,0,Buzón de mensajes
+GES_002245,OBL_01154,Deskonecta,2026-09-02,Llamada,0,Buzón de mensajes
+GES_002246,OBL_01154,Deskonecta,2026-09-15,Llamada,0,Ilocalizado
+GES_002247,OBL_01154,Deskonecta,2026-09-22,Llamada,0,Buzón de mensajes
+GES_002248,OBL_01156,Deskonecta,2026-09-13,Llamada,0,Buzón de mensajes
+GES_002249,OBL_01157,Telepromesa,2026-09-08,SMS,0,Buzón de mensajes
+GES_002250,OBL_01157,Telepromesa,2026-09-16,Llamada,1,Promesa de pago
+GES_002251,OBL_01157,Telepromesa,2026-09-17,SMS,1,Titular no disponible
+GES_002252,OBL_01157,Telepromesa,2026-09-27,WhatsApp,1,Negativa
+GES_002253,OBL_01158,Deskonecta,2026-09-03,WhatsApp,0,Número equivocado
+GES_002254,OBL_01158,Deskonecta,2026-09-08,SMS,1,Promesa de pago
+GES_002255,OBL_01158,Deskonecta,2026-09-21,Llamada,1,Promesa de pago
+GES_002256,OBL_01159,Telepromesa,2026-09-11,Llamada,1,Titular no disponible
+GES_002257,OBL_01159,Telepromesa,2026-09-13,SMS,1,Promesa de pago
+GES_002258,OBL_01159,Telepromesa,2026-09-29,WhatsApp,1,Negativa
+GES_002259,OBL_01160,Deskonecta,2026-09-06,Llamada,0,Número equivocado
+GES_002260,OBL_01160,Deskonecta,2026-09-15,WhatsApp,0,Buzón de mensajes
+GES_002261,OBL_01160,Deskonecta,2026-09-17,Llamada,1,Titular no disponible
+GES_002262,OBL_01166,A-ETXA,2026-09-03,Llamada,0,Ilocalizado
+GES_002263,OBL_01166,A-ETXA,2026-09-06,Llamada,0,Ilocalizado
+GES_002264,OBL_01166,A-ETXA,2026-09-26,WhatsApp,0,Buzón de mensajes
+GES_002265,OBL_01167,A-ETXA,2026-09-04,Llamada,0,Ilocalizado
+GES_002266,OBL_01167,A-ETXA,2026-09-17,WhatsApp,0,Ilocalizado
+GES_002267,OBL_01167,A-ETXA,2026-09-22,Llamada,0,Buzón de mensajes
+GES_002268,OBL_01167,A-ETXA,2026-09-29,WhatsApp,0,Número equivocado
+GES_002269,OBL_01168,Deskonecta,2026-09-21,Llamada,1,Promesa de pago
+GES_002270,OBL_01169,Deskonecta,2026-09-07,Llamada,0,Ilocalizado
+GES_002271,OBL_01169,Deskonecta,2026-09-27,Llamada,1,Titular no disponible
+GES_002272,OBL_01170,A-ETXA,2026-09-11,WhatsApp,0,Buzón de mensajes
+GES_002273,OBL_01170,A-ETXA,2026-09-19,WhatsApp,0,Buzón de mensajes
+GES_002274,OBL_01170,A-ETXA,2026-09-24,Llamada,1,Titular no disponible
+GES_002275,OBL_01170,A-ETXA,2026-09-26,SMS,1,Titular no disponible
+GES_002276,OBL_01171,Telepromesa,2026-09-13,Llamada,1,Negativa
+GES_002277,OBL_01171,Telepromesa,2026-09-27,SMS,1,Titular no disponible
+GES_002278,OBL_01172,Deskonecta,2026-09-21,WhatsApp,0,Ilocalizado
+GES_002279,OBL_01172,Deskonecta,2026-09-22,Llamada,0,Buzón de mensajes
+GES_002280,OBL_01172,Deskonecta,2026-09-23,WhatsApp,0,Buzón de mensajes
+GES_002281,OBL_01173,Deskonecta,2026-09-02,Llamada,0,Número equivocado
+GES_002282,OBL_01173,Deskonecta,2026-09-09,WhatsApp,1,Titular no disponible
+GES_002283,OBL_01174,A-ETXA,2026-09-15,Llamada,0,Ilocalizado
+GES_002284,OBL_01174,A-ETXA,2026-09-18,WhatsApp,1,Titular no disponible
+GES_002285,OBL_01174,A-ETXA,2026-09-20,WhatsApp,1,Titular no disponible
+GES_002286,OBL_01175,Deskonecta,2026-09-13,Llamada,0,Ilocalizado
+GES_002287,OBL_01175,Deskonecta,2026-09-16,WhatsApp,0,Ilocalizado
+GES_002288,OBL_01175,Deskonecta,2026-09-24,Llamada,1,Promesa de pago
+GES_002289,OBL_01177,A-ETXA,2026-09-06,Llamada,0,Número equivocado
+GES_002290,OBL_01177,A-ETXA,2026-09-11,Llamada,0,Ilocalizado
+GES_002291,OBL_01177,A-ETXA,2026-09-19,Llamada,0,Ilocalizado
+GES_002292,OBL_01177,A-ETXA,2026-09-22,Llamada,1,Titular no disponible
+GES_002293,OBL_01178,A-ETXA,2026-09-07,Llamada,0,Buzón de mensajes
+GES_002294,OBL_01178,A-ETXA,2026-09-14,SMS,0,Ilocalizado
+GES_002295,OBL_01178,A-ETXA,2026-09-23,Llamada,0,Ilocalizado
+GES_002296,OBL_01178,A-ETXA,2026-09-27,Llamada,0,Número equivocado
+GES_002297,OBL_01179,A-ETXA,2026-09-05,Llamada,0,Número equivocado
+GES_002298,OBL_01179,A-ETXA,2026-09-13,Llamada,0,Número equivocado
+GES_002299,OBL_01179,A-ETXA,2026-09-20,Llamada,0,Número equivocado
+GES_002300,OBL_01179,A-ETXA,2026-09-27,WhatsApp,0,Ilocalizado
+GES_002301,OBL_01180,Deskonecta,2026-09-02,WhatsApp,0,Buzón de mensajes
+GES_002302,OBL_01180,Deskonecta,2026-09-14,SMS,0,Número equivocado
+GES_002303,OBL_01180,Deskonecta,2026-09-18,Llamada,0,Ilocalizado
+GES_002304,OBL_01181,Deskonecta,2026-09-04,Llamada,0,Buzón de mensajes
+GES_002305,OBL_01181,Deskonecta,2026-09-15,WhatsApp,0,Ilocalizado
+GES_002306,OBL_01181,Deskonecta,2026-09-20,Llamada,0,Número equivocado
+GES_002307,OBL_01181,Deskonecta,2026-09-24,SMS,1,Titular no disponible
+GES_002308,OBL_01182,Deskonecta,2026-09-13,WhatsApp,1,Negativa
+GES_002309,OBL_01182,Deskonecta,2026-09-25,WhatsApp,1,Promesa de pago
+GES_002310,OBL_01182,Deskonecta,2026-09-27,SMS,1,Titular no disponible
+GES_002311,OBL_01183,Telepromesa,2026-09-02,SMS,0,Ilocalizado
+GES_002312,OBL_01183,Telepromesa,2026-09-06,Llamada,0,Número equivocado
+GES_002313,OBL_01183,Telepromesa,2026-09-08,Llamada,0,Ilocalizado
+GES_002314,OBL_01183,Telepromesa,2026-09-26,WhatsApp,0,Número equivocado
+GES_002315,OBL_01184,Telepromesa,2026-09-07,Llamada,0,Número equivocado
+GES_002316,OBL_01184,Telepromesa,2026-09-12,WhatsApp,0,Número equivocado
+GES_002317,OBL_01186,A-ETXA,2026-09-04,WhatsApp,0,Buzón de mensajes
+GES_002318,OBL_01186,A-ETXA,2026-09-08,SMS,0,Ilocalizado
+GES_002319,OBL_01186,A-ETXA,2026-09-13,Llamada,0,Número equivocado
+GES_002320,OBL_01186,A-ETXA,2026-09-26,Llamada,0,Número equivocado
+GES_002321,OBL_01187,Telepromesa,2026-09-10,Llamada,0,Número equivocado
+GES_002322,OBL_01187,Telepromesa,2026-09-13,Llamada,0,Buzón de mensajes
+GES_002323,OBL_01187,Telepromesa,2026-09-18,Llamada,1,Negativa
+GES_002324,OBL_01188,Deskonecta,2026-09-19,SMS,1,Titular no disponible
+GES_002325,OBL_01189,A-ETXA,2026-09-20,SMS,0,Buzón de mensajes
+GES_002326,OBL_01189,A-ETXA,2026-09-25,Llamada,1,Negativa
+GES_002327,OBL_01190,A-ETXA,2026-09-08,Llamada,0,Buzón de mensajes
+GES_002328,OBL_01190,A-ETXA,2026-09-08,Llamada,0,Buzón de mensajes
+GES_002329,OBL_01192,A-ETXA,2026-09-05,Llamada,0,Número equivocado
+GES_002330,OBL_01192,A-ETXA,2026-09-05,WhatsApp,0,Número equivocado
+GES_002331,OBL_01192,A-ETXA,2026-09-22,WhatsApp,0,Buzón de mensajes
+GES_002332,OBL_01192,A-ETXA,2026-09-22,SMS,0,Buzón de mensajes
+GES_002333,OBL_01193,Telepromesa,2026-09-04,Llamada,0,Ilocalizado
+GES_002334,OBL_01193,Telepromesa,2026-09-29,WhatsApp,0,Ilocalizado
+GES_002335,OBL_01194,A-ETXA,2026-09-07,SMS,0,Buzón de mensajes
+GES_002336,OBL_01194,A-ETXA,2026-09-10,Llamada,0,Ilocalizado
+GES_002337,OBL_01194,A-ETXA,2026-09-12,SMS,1,Titular no disponible
+GES_002338,OBL_01195,Deskonecta,2026-09-23,Llamada,1,Negativa
+GES_002339,OBL_01196,A-ETXA,2026-09-03,Llamada,0,Número equivocado
+GES_002340,OBL_01196,A-ETXA,2026-09-03,Llamada,0,Buzón de mensajes
+GES_002341,OBL_01197,A-ETXA,2026-09-06,SMS,1,Negativa
+GES_002342,OBL_01197,A-ETXA,2026-09-12,Llamada,0,Ilocalizado
+GES_002343,OBL_01197,A-ETXA,2026-09-19,Llamada,1,Promesa de pago
+GES_002344,OBL_01198,Telepromesa,2026-09-02,Llamada,0,Buzón de mensajes
+GES_002345,OBL_01198,Telepromesa,2026-09-06,WhatsApp,1,Negativa
+GES_002346,OBL_01200,A-ETXA,2026-09-03,Llamada,0,Número equivocado
+GES_002347,OBL_01200,A-ETXA,2026-09-11,Llamada,0,Ilocalizado
+GES_002348,OBL_01200,A-ETXA,2026-09-24,SMS,1,Promesa de pago
